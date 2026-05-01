@@ -1,0 +1,248 @@
+UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
+FACULTAD DE INGENIERÍA
+PROGRAMA ACADÉMICO DE CIENCIAS DE LA COMPUTACIÓN
+CURSO: 1ACC0211 – DATA VISUALIZATION
+NRC: 18519
+TRABAJO 1
+
+INTEGRANTES:
+Carbajal Robles, Daniel Ivan (U20221B751)
+Manchay Paredes, Lucero Salome (U202216120)
+Mayhua Hinostroza, José Antonio (U202218044)
+
+202610
+
+Tabla de Contenido
+1. Tema del proyecto.................................................................................................................2
+2. Pregunta analítica principal................................................................................................ 3
+3. Usuario objetivo....................................................................................................................3
+4. Fuente de datos propuesta................................................................................................... 3
+5. Hipótesis iniciales................................................................................................................. 3
+6. Justificación del valor del proyecto.................................................................................... 3
+Referencias Bibliográficas....................................................................................................... 3
+
+
+1. Tema del proyecto
+
+Análisis de brechas socioeconómicas y evolución temporal de ingresos y gastos en los hogares peruanos durante el 2024
+
+1.1 Definición del problema y del usuario objetivo 
+
+¿Qué problema se quiere analizar? 
+
+En el Perú, las cifras macroeconómicas suelen presentar una visión incompleta de la realidad al no reflejar las profundas disparidades que existen entre los hogares según su ubicación y el momento del año. Actualmente, el país enfrenta un entorno donde la inflación persistente y el incremento constante en el coste de vida consumen el poder adquisitivo de las familias de manera progresiva, agudizando su vulnerabilidad económica conforme avanzan los meses (EconoData Soluciones Perú, 2025). Esta presión financiera no se distribuye de forma equitativa: mientras regiones como Ica logran mantener niveles bajos de pobreza, departamentos como Cajamarca o Loreto enfrentan realidades críticas donde la vulnerabilidad alcanza a más del 40% de sus habitantes (INEI, 2025). 
+
+Esta desigualdad estructural se traduce en una percepción de precariedad generalizada, donde apenas el 14% de la población siente que sus ingresos son suficientes para cubrir sus necesidades y generar ahorro (Oxfam, 2024). Por lo tanto, el problema que este proyecto busca resolver es la falta de visibilidad articulada sobre cómo estas variables de ingreso y gasto fluctúan mes a mes, una información que es indispensable para identificar los periodos de mayor riesgo económico y diseñar respuestas que no solo sean geográficas, sino también estacionales.
+
+
+¿Quién usará el dashboard? 
+
+- Analistas de planeamiento y focalización del Ministerio de Desarrollo e Inclusión Social (MIDIS). 
+
+¿Qué decisión podría apoyarse con el producto final?
+
+- La priorización y asignación eficiente de programas de transferencias monetarias (bonos) y soporte alimentario, identificando los segmentos de hogares con mayor vulnerabilidad a partir del análisis de sus perfiles de brecha ingreso-gasto. 
+
+2. Pregunta analítica principal
+
+¿Qué perfiles de hogares peruanos concentran las mayores brechas entre ingreso y gasto durante el 2024, y cómo se distribuyen estos perfiles (clústeres) según el dominio geográfico, el estrato y las características demográficas? 
+
+
+3. Usuario objetivo
+
+Analistas de planeamiento y focalización del Ministerio de Desarrollo e Inclusión Social (MIDIS) que necesitan priorizar programas de asistencia basándose en los patrones de vulnerabilidad y brechas de ingreso-gasto identificadas mediante la segmentación de datos.
+
+4. Fuente de datos propuesta
+
+Nombre: Encuesta Nacional de Hogares (ENAHO) 2024 - Módulo 34: Sumaria (Anual).
+
+Institución: Instituto Nacional de Estadística e Informática (INEI).
+
+Cantidad de datos: 33691 viviendas
+
+Cobertura: Nacional, 24 departamentos y la Provincia Constitucional del Callao, en ámbitos urbano y rural
+
+Licencia y Permisos: Datos Abiertos Gubernamentales (Acceso público, gratuito y de libre uso para fines académicos e investigación).
+
+Enlace oficial: https://proyectos.inei.gob.pe/microdatos/
+
+Pasos de obtención de datos: Microdatos INEI -> Consulta por Encuestas -> ENAHO Metodología Actualizada -> Condiciones de Vida y Pobreza - ENAHO -> Año 2024 -> Periodo: Anual -> “Módulo 34: Sumarias (Variables Calculadas)”.
+
+Dataset: “Sumaria-2024.csv”
+
+5. Hipótesis iniciales
+
+Hipótesis 1: El algoritmo de clustering identificará un "perfil de alta vulnerabilidad" predominante en los estratos rurales, el cual se caracteriza por destinar una proporción crítica de su gasto total al rubro de alimentos, dejándolos sin margen frente a shocks inflacionarios. 
+
+Hipótesis 2: La distribución de los perfiles de hogares varía según la estacionalidad; existen meses específicos del año donde la brecha entre ingreso y gasto se acentúa, desplazando temporalmente a hogares de "perfiles estables" hacia "perfiles de riesgo".
+
+
+6. Justificación del valor del proyecto
+
+El proyecto transforma una de las bases de datos gubernamentales más complejas en una herramienta visual interactiva que permite evidenciar cómo el lugar donde vive una familia determina drásticamente su estabilidad económica (Oxfam, 2024). El desarrollo de este dashboard cumple con el potencial requerido por el curso al permitir un análisis longitudinal (tendencias de gasto e impacto de la inflación mes a mes), segmentación (por niveles de pobreza y tamaño del hogar) y comparación geográfica (urbano vs. rural y dominios geográficos).
+
+
+- Adaptación a Tableau: Elegimos Tableau por dos ventajas prácticas que nos ahorran tiempo y evitan errores. Primero, nos permite transformar los datos de ubicación en un mapa del Perú automáticamente, permitiéndonos visualizar la desigualdad regional sin tener que programar coordenadas desde cero. Segundo, Tableau nos permite configurar el "Factor de Expansión" (FACTOR07) como una regla matemática automática. Esto significa que la herramienta se encarga de ponderar los datos en tiempo real, asegurando que los gráficos no solo muestren una muestra, sino que reflejen con precisión la realidad de toda la población nacional.
+
+- Producto Analítico Subyacente: Para responder a la pregunta de negocio sin caer en sesgos de causalidad, el dashboard servirá como la capa final de un modelo analítico exploratorio más profundo. Utilizaremos Python para el cálculo de la variable derivada "brecha ingreso-gasto" y aplicaremos técnicas de reducción de dimensionalidad y segmentación (PCA o k-means) sobre el módulo de sumarias. Esto nos permitirá descubrir "perfiles de hogares" basados en su estructura de consumo, los cuales serán posteriormente consumidos y visualizados en Tableau. 
+
+- Riesgos iniciales de calidad y cobertura: Antes de llevar los datos a Tableau, usaremos Python para solucionar dos problemas típicos de las encuestas del Estado. Primero, filtraremos los "outliers" (hogares que declaran ingresos extremadamente altos o irreales); si no los quitamos, el "ingreso promedio" en nuestros gráficos será engañoso. Segundo, traduciremos los códigos del INEI. Como la base de datos original usa números en lugar de texto (por ejemplo, usa el "15" en lugar de decir "Lima"), programaremos un script para convertir todos esos números a sus nombres reales, asegurando que Tableau pueda leer los mapas y las categorías sin confundirse.
+
+Enlace del dataset: https://drive.google.com/file/d/1fNnNoEplQlQ9-jlwHUVkHHnpK8R47t-_/view?usp=sharing
+
+El módulo Sumaria consolida a nivel de hogar los principales indicadores económicos del hogar, calculados con la metodología oficial del INEI, lo que garantiza comparabilidad con los reportes institucionales. Asimismo, estas variables cubren los tres ejes del análisis propuesto: la evolución mensual de los indicadores, la diferenciación por perfil socioeconómico y la comparación entre territorios. 
+
+DICCIONARIO DE VARIABLES:
+
+Variable
+Tipo
+Descripción
+Eje Analítico
+Justificación Técnica
+
+MES
+Integer 
+Mes de ejecución de la encuesta
+Temporal
+Permite construir la serie temporal mensual para analizar la estacionalidad de la brecha ingreso-gasto.
+
+UBIGEO
+Integer 
+Código de ubicación geográfica
+Geográfico
+Permite georreferenciar los hogares en Tableau para construir mapas departamentales.
+
+- DOMINIO
+Integer 
+Dominio geográfico (Costa Norte, Sierra, Selva, Lima Metropolitana, etc.)
+Segmentación geográfica
+Permite comparar perfiles de hogares entre las grandes regiones naturales del país.
+
+ESTRATO
+Integer 
+Estrato geográfico según tamaño de población
+Segmentación geográfica
+Diferencia el ámbito urbano del rural para identificar concentración de perfiles vulnerables.
+
+POBREZA
+Integer 
+Condición de pobreza monetaria del hogar
+Clasificación y filtro
+Permite validar si los perfiles del clustering coinciden con la clasificación oficial del INEI.
+
+POBREZAV
+Integer 
+Condición de pobreza y vulnerabilidad del hogar
+Clasificación y filtro
+Amplía la clasificación incluyendo hogares vulnerables no pobres, enriqueciendo la segmentación.
+
+INGHOG2D
+Integer 
+Ingreso neto total del hogar
+Métrica base
+Ingreso real disponible del hogar, uno de los dos ejes para calcular la brecha ingreso-gasto.
+
+GASHOG2D
+Integer 
+Gasto total bruto del hogar
+Métrica base
+Junto con INGHOG2D permite construir la brecha ingreso-gasto y determinar qué hogares logran ahorrar.
+
+MIEPERHO
+Integer 
+Total de miembros del hogar
+Normalización
+Permite calcular ingreso y gasto per cápita, haciendo comparables hogares de distinto tamaño.
+
+GRU11HD
+Integer 
+Grupo 1: Alimentos - gasto monetario
+Dimensión para PCA/clustering
+Representa la proporción del gasto destinada a alimentación dentro de la estructura de consumo del hogar.
+
+GRU21HD
+Integer 
+Grupo 2: Vestido y calzado - gasto monetario
+Dimensión para PCA/clustering
+Captura el gasto en necesidades básicas secundarias para distinguir perfiles de consumo.
+
+GRU31HD
+Integer 
+Grupo 3: Vivienda, combustible y electricidad- gasto monetario
+Dimensión para PCA/clustering
+Refleja el peso de los gastos fijos del hogar en servicios básicos.
+
+GRU41HD
+Integer 
+Grupo 4: Muebles, enseres y mantenimiento - gasto monetario
+Dimensión para PCA/clustering
+Indica la capacidad del hogar para invertir más allá de las necesidades inmediatas.
+
+GRU51HD
+Integer 
+Grupo 5: Salud y servicios médicos - gasto monetario
+Dimensión para PCA/clustering
+Permite detectar perfiles con acceso limitado o nulo a gasto en salud.
+
+GRU61HD
+Integer 
+Grupo 6: Transportes y comunicaciones - gasto monetario
+Dimensión para PCA/clustering
+Refleja el nivel de movilidad e inserción económica del hogar.
+
+GRU71HD
+Integer 
+Grupo 7: Esparcimiento, cultura y enseñanza - gasto monetario
+Dimensión para PCA/clustering
+Captura inversión en capital humano y calidad de vida del hogar.
+
+GRU81HD
+Integer 
+Grupo 8: Otros bienes y servicios - gasto monetario
+Dimensión para PCA/clustering
+Completa el vector de 8 variables numéricas requerido para el componente avanzado PCA/t-SNE.
+
+FACTOR07
+Integer 
+Factor de expansión anual
+Ponderación estadística
+Garantiza que los cálculos representen a la población nacional y no solo a la muestra encuestada.
+
+
+Referencias Bibliográficas
+
+- EconoData Soluciones Perú. (2025). Ensayo: Inflación y coste de vida 2025. Recuperado de https://econodatasolucionesperu.com/wp-content/uploads/2025/04/Ensayo-Inflacion-y-coste-de-vida-2025-N1.pdf
+- Instituto Nacional de Estadística e Informática (INEI). (2025). Pobreza monetaria afectó al 27,6% de la población del país en el año 2024. Gobierno del Perú. https://www.gob.pe/institucion/inei/noticias/1164173-pobreza-monetaria-afecto-al-27-6-de-la-poblacion-del-pais-en-el-ano-2024
+- Oxfam en Perú. (2024). ENADES 2024: Encuesta Nacional de Percepción de Desigualdades. https://peru.oxfam.org/ENADES-2024
+- Instituto Nacional de Estadística e Informática. (s. f.). Microdatos: Sistema de Consulta de Microdatos. Recuperado de https://proyectos.inei.gob.pe/microdatos/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
