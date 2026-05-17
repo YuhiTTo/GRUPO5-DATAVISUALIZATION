@@ -1,0 +1,9 @@
+﻿ID_POBREZA,POBREZA,POBREZAV,EN_DEFICIT
+1,No Pobre,No Vulnerable,0
+2,No Pobre,Vulnerable No Pobre,0
+3,No Pobre,No Vulnerable,1
+4,No Pobre,Vulnerable No Pobre,1
+5,Pobre No Extremo,Pobre No Extremo,0
+6,Pobre No Extremo,Pobre No Extremo,1
+7,Pobre Extremo,Pobre Extremo,0
+8,Pobre Extremo,Pobre Extremo,1

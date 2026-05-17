@@ -1,0 +1,1906 @@
+﻿ID_GEOGRAFIA,UBIGEO,DEPARTAMENTO,DOMINIO,ESTRATO
+1,010101,Amazonas,Sierra Norte,"De 20,000 a 49,999 habitantes"
+2,010307,Amazonas,Selva,"De 2,000 a 19,999 habitantes"
+3,010701,Amazonas,Selva,"De 20,000 a 49,999 habitantes"
+4,010706,Amazonas,Selva,"De 2,000 a 19,999 habitantes"
+5,010201,Amazonas,Selva,"De 20,000 a 49,999 habitantes"
+6,010101,Amazonas,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+7,010521,Amazonas,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+8,010504,Amazonas,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+9,010501,Amazonas,Sierra Norte,"De 500 a 1,999 habitantes"
+10,010109,Amazonas,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+11,010401,Amazonas,Selva,Área de Empadronamiento Rural (AER) Compuesto
+12,010512,Amazonas,Selva,"De 500 a 1,999 habitantes"
+13,010702,Amazonas,Selva,Área de Empadronamiento Rural (AER) Compuesto
+14,021809,Áncash,Costa Centro,"De 100,000 a 499,999 habitantes"
+15,021801,Áncash,Costa Centro,"De 100,000 a 499,999 habitantes"
+16,021101,Áncash,Costa Centro,"De 20,000 a 49,999 habitantes"
+17,021808,Áncash,Costa Centro,"De 2,000 a 19,999 habitantes"
+18,021801,Áncash,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+19,020105,Áncash,Sierra Centro,"De 100,000 a 499,999 habitantes"
+20,022001,Áncash,Sierra Centro,"De 2,000 a 19,999 habitantes"
+21,020702,Áncash,Sierra Centro,"De 500 a 1,999 habitantes"
+22,020111,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+23,021307,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+24,021402,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+25,022001,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+26,021604,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+27,030101,Apurímac,Sierra Sur,"De 50,000 a 99,999 habitantes"
+28,030602,Apurímac,Sierra Sur,"De 2,000 a 19,999 habitantes"
+29,030401,Apurímac,Sierra Sur,"De 2,000 a 19,999 habitantes"
+30,030304,Apurímac,Sierra Sur,"De 500 a 1,999 habitantes"
+31,030503,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+32,030506,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+33,030604,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+34,030201,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+35,030203,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+36,030712,Apurímac,Sierra Sur,"De 500 a 1,999 habitantes"
+37,040129,Arequipa,Sierra Sur,"De 500,000 a más habitantes"
+38,040104,Arequipa,Sierra Sur,"De 500,000 a más habitantes"
+39,040122,Arequipa,Sierra Sur,"De 500,000 a más habitantes"
+40,040110,Arequipa,Sierra Sur,"De 500,000 a más habitantes"
+41,040112,Arequipa,Sierra Sur,"De 500,000 a más habitantes"
+42,040101,Arequipa,Sierra Sur,"De 500,000 a más habitantes"
+43,040103,Arequipa,Sierra Sur,"De 500,000 a más habitantes"
+44,040102,Arequipa,Sierra Sur,"De 500,000 a más habitantes"
+45,040121,Arequipa,Costa Sur,"De 2,000 a 19,999 habitantes"
+46,040401,Arequipa,Costa Sur,"De 2,000 a 19,999 habitantes"
+47,040305,Arequipa,Costa Sur,"De 2,000 a 19,999 habitantes"
+48,040128,Arequipa,Sierra Sur,"De 20,000 a 49,999 habitantes"
+49,040111,Arequipa,Sierra Sur,"De 2,000 a 19,999 habitantes"
+50,040105,Arequipa,Sierra Sur,"De 2,000 a 19,999 habitantes"
+51,040125,Arequipa,Costa Sur,Área de Empadronamiento Rural (AER) Compuesto
+52,040302,Arequipa,Costa Sur,Área de Empadronamiento Rural (AER) Simple
+53,040608,Arequipa,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+54,050115,Ayacucho,Sierra Centro,"De 100,000 a 499,999 habitantes"
+55,050104,Ayacucho,Sierra Centro,"De 100,000 a 499,999 habitantes"
+56,050110,Ayacucho,Sierra Centro,"De 100,000 a 499,999 habitantes"
+57,050601,Ayacucho,Sierra Centro,"De 2,000 a 19,999 habitantes"
+58,050701,Ayacucho,Sierra Centro,"De 2,000 a 19,999 habitantes"
+59,050503,Ayacucho,Selva,"De 2,000 a 19,999 habitantes"
+60,050908,Ayacucho,Sierra Centro,"De 500 a 1,999 habitantes"
+61,050501,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+62,050202,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+63,050806,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+64,050510,Ayacucho,Selva,Área de Empadronamiento Rural (AER) Compuesto
+65,060101,Cajamarca,Sierra Norte,"De 100,000 a 499,999 habitantes"
+66,060108,Cajamarca,Sierra Norte,"De 100,000 a 499,999 habitantes"
+67,060201,Cajamarca,Sierra Norte,"De 2,000 a 19,999 habitantes"
+68,060801,Cajamarca,Selva,"De 50,000 a 99,999 habitantes"
+69,060505,Cajamarca,Costa Norte,"De 500 a 1,999 habitantes"
+70,060101,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+71,060107,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+72,060408,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+73,060401,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+74,061307,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+75,060309,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+76,060701,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+77,061007,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+78,060810,Cajamarca,Selva,Área de Empadronamiento Rural (AER) Simple
+79,060614,Cajamarca,Selva,Área de Empadronamiento Rural (AER) Compuesto
+80,070104,Callao,Lima Metropolitana,"De 500,000 a más habitantes"
+81,070101,Callao,Lima Metropolitana,"De 500,000 a más habitantes"
+82,070106,Callao,Lima Metropolitana,"De 500,000 a más habitantes"
+83,070102,Callao,Lima Metropolitana,"De 500,000 a más habitantes"
+84,080106,Cusco,Sierra Sur,"De 100,000 a 499,999 habitantes"
+85,080101,Cusco,Sierra Sur,"De 100,000 a 499,999 habitantes"
+86,080105,Cusco,Sierra Sur,"De 100,000 a 499,999 habitantes"
+87,081302,Cusco,Sierra Sur,"De 2,000 a 19,999 habitantes"
+88,080708,Cusco,Sierra Sur,"De 2,000 a 19,999 habitantes"
+89,080205,Cusco,Sierra Sur,"De 2,000 a 19,999 habitantes"
+90,080403,Cusco,Sierra Sur,"De 2,000 a 19,999 habitantes"
+91,080703,Cusco,Sierra Sur,"De 500 a 1,999 habitantes"
+92,080101,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+93,080302,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+94,081005,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+95,080901,Cusco,Selva,Área de Empadronamiento Rural (AER) Simple
+96,080903,Cusco,Selva,Área de Empadronamiento Rural (AER) Simple
+97,080913,Cusco,Selva,Área de Empadronamiento Rural (AER) Compuesto
+98,090101,Huancavelica,Sierra Centro,"De 20,000 a 49,999 habitantes"
+99,090706,Huancavelica,Sierra Centro,"De 2,000 a 19,999 habitantes"
+100,090301,Huancavelica,Sierra Centro,"De 2,000 a 19,999 habitantes"
+101,090203,Huancavelica,Sierra Centro,"De 500 a 1,999 habitantes"
+102,090306,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+103,090113,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+104,090303,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+105,090506,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+106,090117,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+107,090402,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+108,090719,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+109,100111,Huánuco,Selva,"De 100,000 a 499,999 habitantes"
+110,100101,Huánuco,Selva,"De 100,000 a 499,999 habitantes"
+111,100104,Huánuco,Sierra Centro,"De 2,000 a 19,999 habitantes"
+112,100601,Huánuco,Selva,"De 50,000 a 99,999 habitantes"
+113,100606,Huánuco,Selva,"De 2,000 a 19,999 habitantes"
+114,100509,Huánuco,Sierra Centro,"De 500 a 1,999 habitantes"
+115,100804,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+116,100106,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+117,100511,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+118,101108,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+119,100101,Huánuco,Selva,Área de Empadronamiento Rural (AER) Simple
+120,100605,Huánuco,Selva,Área de Empadronamiento Rural (AER) Compuesto
+121,110101,Ica,Costa Centro,"De 100,000 a 499,999 habitantes"
+122,110106,Ica,Costa Centro,"De 100,000 a 499,999 habitantes"
+123,110501,Ica,Costa Centro,"De 100,000 a 499,999 habitantes"
+124,110206,Ica,Costa Centro,"De 20,000 a 49,999 habitantes"
+125,110207,Ica,Costa Centro,"De 100,000 a 499,999 habitantes"
+126,110305,Ica,Costa Centro,"De 20,000 a 49,999 habitantes"
+127,110201,Ica,Costa Centro,"De 100,000 a 499,999 habitantes"
+128,110109,Ica,Costa Centro,"De 2,000 a 19,999 habitantes"
+129,110506,Ica,Costa Centro,"De 100,000 a 499,999 habitantes"
+130,110507,Ica,Costa Centro,"De 100,000 a 499,999 habitantes"
+131,110111,Ica,Costa Centro,"De 20,000 a 49,999 habitantes"
+132,110108,Ica,Costa Centro,"De 20,000 a 49,999 habitantes"
+133,110205,Ica,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+134,110506,Ica,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+135,120107,Junín,Sierra Centro,"De 100,000 a 499,999 habitantes"
+136,120114,Junín,Sierra Centro,"De 100,000 a 499,999 habitantes"
+137,120701,Junín,Sierra Centro,"De 20,000 a 49,999 habitantes"
+138,120401,Junín,Sierra Centro,"De 2,000 a 19,999 habitantes"
+139,120502,Junín,Sierra Centro,"De 2,000 a 19,999 habitantes"
+140,120604,Junín,Selva,"De 2,000 a 19,999 habitantes"
+141,120606,Junín,Selva,"De 2,000 a 19,999 habitantes"
+142,120305,Junín,Selva,"De 20,000 a 49,999 habitantes"
+143,120806,Junín,Sierra Centro,"De 500 a 1,999 habitantes"
+144,120302,Junín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+145,120603,Junín,Selva,Área de Empadronamiento Rural (AER) Simple
+146,120605,Junín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+147,120301,Junín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+148,120303,Junín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+149,120608,Junín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+150,130101,La Libertad,Costa Norte,"De 500,000 a más habitantes"
+151,130103,La Libertad,Costa Norte,"De 500,000 a más habitantes"
+152,130105,La Libertad,Costa Norte,"De 500,000 a más habitantes"
+153,130102,La Libertad,Costa Norte,"De 500,000 a más habitantes"
+154,130704,La Libertad,Costa Norte,"De 20,000 a 49,999 habitantes"
+155,130702,La Libertad,Costa Norte,"De 20,000 a 49,999 habitantes"
+156,131202,La Libertad,Costa Norte,"De 20,000 a 49,999 habitantes"
+157,130705,La Libertad,Costa Norte,"De 2,000 a 19,999 habitantes"
+158,130106,La Libertad,Costa Norte,"De 20,000 a 49,999 habitantes"
+159,130205,La Libertad,Costa Norte,Área de Empadronamiento Rural (AER) Simple
+160,130905,La Libertad,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+161,130811,La Libertad,Sierra Norte,"De 500 a 1,999 habitantes"
+162,130613,La Libertad,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+163,140106,Lambayeque,Costa Norte,"De 500,000 a más habitantes"
+164,140101,Lambayeque,Costa Norte,"De 500,000 a más habitantes"
+165,140105,Lambayeque,Costa Norte,"De 500,000 a más habitantes"
+166,140116,Lambayeque,Costa Norte,"De 2,000 a 19,999 habitantes"
+167,140301,Lambayeque,Costa Norte,"De 50,000 a 99,999 habitantes"
+168,140102,Lambayeque,Costa Norte,"De 2,000 a 19,999 habitantes"
+169,140112,Lambayeque,Costa Norte,"De 20,000 a 49,999 habitantes"
+170,140307,Lambayeque,Costa Norte,"De 2,000 a 19,999 habitantes"
+171,140120,Lambayeque,Costa Norte,"De 20,000 a 49,999 habitantes"
+172,140311,Lambayeque,Costa Norte,"De 2,000 a 19,999 habitantes"
+173,140306,Lambayeque,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+174,140202,Lambayeque,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+175,150140,Lima,Lima Metropolitana,"De 500,000 a más habitantes"
+176,150135,Lima,Lima Metropolitana,"De 500,000 a más habitantes"
+177,150133,Lima,Lima Metropolitana,"De 500,000 a más habitantes"
+178,150125,Lima,Lima Metropolitana,"De 500,000 a más habitantes"
+179,150101,Lima,Lima Metropolitana,"De 500,000 a más habitantes"
+180,150109,Lima,Lima Metropolitana,"De 500,000 a más habitantes"
+181,150110,Lima,Lima Metropolitana,"De 500,000 a más habitantes"
+182,150105,Lima,Lima Metropolitana,"De 500,000 a más habitantes"
+183,150103,Lima,Lima Metropolitana,"De 500,000 a más habitantes"
+184,150137,Lima,Lima Metropolitana,"De 500,000 a más habitantes"
+185,150112,Lima,Lima Metropolitana,"De 500,000 a más habitantes"
+186,150102,Lima,Lima Metropolitana,"De 500,000 a más habitantes"
+187,150132,Lima,Lima Metropolitana,"De 500,000 a más habitantes"
+188,150142,Lima,Lima Metropolitana,"De 500,000 a más habitantes"
+189,150128,Lima,Lima Metropolitana,"De 500,000 a más habitantes"
+190,150117,Lima,Lima Metropolitana,"De 500,000 a más habitantes"
+191,150143,Lima,Lima Metropolitana,"De 500,000 a más habitantes"
+192,150141,Lima,Lima Metropolitana,"De 500,000 a más habitantes"
+193,150104,Lima,Lima Metropolitana,"De 500,000 a más habitantes"
+194,150115,Lima,Lima Metropolitana,"De 500,000 a más habitantes"
+195,150118,Lima,Lima Metropolitana,"De 500,000 a más habitantes"
+196,150130,Lima,Lima Metropolitana,"De 500,000 a más habitantes"
+197,150114,Lima,Lima Metropolitana,"De 500,000 a más habitantes"
+198,150106,Lima,Lima Metropolitana,"De 500,000 a más habitantes"
+199,150119,Lima,Lima Metropolitana,"De 500,000 a más habitantes"
+200,150801,Lima,Costa Centro,"De 100,000 a 499,999 habitantes"
+201,150513,Lima,Costa Centro,"De 2,000 a 19,999 habitantes"
+202,150509,Lima,Costa Centro,"De 20,000 a 49,999 habitantes"
+203,150501,Lima,Costa Centro,"De 100,000 a 499,999 habitantes"
+204,150204,Lima,Costa Centro,"De 50,000 a 99,999 habitantes"
+205,150201,Lima,Costa Centro,"De 50,000 a 99,999 habitantes"
+206,150203,Lima,Costa Centro,"De 20,000 a 49,999 habitantes"
+207,150202,Lima,Costa Centro,"De 20,000 a 49,999 habitantes"
+208,150514,Lima,Costa Centro,"De 2,000 a 19,999 habitantes"
+209,150605,Lima,Costa Centro,"De 50,000 a 99,999 habitantes"
+210,150511,Lima,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+211,150605,Lima,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+212,150729,Lima,Sierra Centro,"De 500 a 1,999 habitantes"
+213,151012,Lima,Sierra Centro,"De 500 a 1,999 habitantes"
+214,160101,Loreto,Selva,"De 100,000 a 499,999 habitantes"
+215,160108,Loreto,Selva,"De 100,000 a 499,999 habitantes"
+216,160112,Loreto,Selva,"De 100,000 a 499,999 habitantes"
+217,160113,Loreto,Selva,"De 100,000 a 499,999 habitantes"
+218,160206,Loreto,Selva,"De 2,000 a 19,999 habitantes"
+219,160201,Loreto,Selva,"De 50,000 a 99,999 habitantes"
+220,160301,Loreto,Selva,"De 20,000 a 49,999 habitantes"
+221,160701,Loreto,Selva,Área de Empadronamiento Rural (AER) Compuesto
+222,160404,Loreto,Selva,Área de Empadronamiento Rural (AER) Compuesto
+223,160704,Loreto,Selva,Área de Empadronamiento Rural (AER) Simple
+224,160202,Loreto,Selva,Área de Empadronamiento Rural (AER) Simple
+225,160403,Loreto,Selva,Área de Empadronamiento Rural (AER) Simple
+226,160605,Loreto,Selva,Área de Empadronamiento Rural (AER) Simple
+227,170101,Madre de Dios,Selva,"De 50,000 a 99,999 habitantes"
+228,170103,Madre de Dios,Selva,"De 2,000 a 19,999 habitantes"
+229,170302,Madre de Dios,Selva,"De 2,000 a 19,999 habitantes"
+230,170302,Madre de Dios,Selva,Área de Empadronamiento Rural (AER) Simple
+231,170203,Madre de Dios,Selva,Área de Empadronamiento Rural (AER) Compuesto
+232,180101,Moquegua,Costa Sur,"De 50,000 a 99,999 habitantes"
+233,180301,Moquegua,Costa Sur,"De 50,000 a 99,999 habitantes"
+234,180208,Moquegua,Sierra Sur,"De 500 a 1,999 habitantes"
+235,180211,Moquegua,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+236,180204,Moquegua,Sierra Sur,"De 500 a 1,999 habitantes"
+237,190101,Pasco,Sierra Centro,"De 50,000 a 99,999 habitantes"
+238,190113,Pasco,Sierra Centro,"De 50,000 a 99,999 habitantes"
+239,190206,Pasco,Sierra Centro,"De 2,000 a 19,999 habitantes"
+240,190107,Pasco,Sierra Centro,"De 2,000 a 19,999 habitantes"
+241,190103,Pasco,Sierra Centro,"De 2,000 a 19,999 habitantes"
+242,190301,Pasco,Selva,"De 2,000 a 19,999 habitantes"
+243,190201,Pasco,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+244,190105,Pasco,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+245,190308,Pasco,Selva,Área de Empadronamiento Rural (AER) Compuesto
+246,200104,Piura,Costa Norte,"De 100,000 a 499,999 habitantes"
+247,200101,Piura,Costa Norte,"De 100,000 a 499,999 habitantes"
+248,200115,Piura,Costa Norte,"De 100,000 a 499,999 habitantes"
+249,200601,Piura,Costa Norte,"De 100,000 a 499,999 habitantes"
+250,200402,Piura,Costa Norte,"De 2,000 a 19,999 habitantes"
+251,200606,Piura,Costa Norte,"De 2,000 a 19,999 habitantes"
+252,200401,Piura,Costa Norte,"De 50,000 a 99,999 habitantes"
+253,200801,Piura,Costa Norte,"De 20,000 a 49,999 habitantes"
+254,200110,Piura,Costa Norte,"De 20,000 a 49,999 habitantes"
+255,200605,Piura,Costa Norte,"De 20,000 a 49,999 habitantes"
+256,200501,Piura,Costa Norte,"De 50,000 a 99,999 habitantes"
+257,200107,Piura,Costa Norte,"De 2,000 a 19,999 habitantes"
+258,200114,Piura,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+259,200301,Piura,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+260,210101,Puno,Sierra Sur,"De 100,000 a 499,999 habitantes"
+261,211101,Puno,Sierra Sur,"De 100,000 a 499,999 habitantes"
+262,210109,Puno,Sierra Sur,"De 2,000 a 19,999 habitantes"
+263,210808,Puno,Sierra Sur,"De 2,000 a 19,999 habitantes"
+264,210304,Puno,Sierra Sur,"De 2,000 a 19,999 habitantes"
+265,210501,Puno,Sierra Sur,"De 2,000 a 19,999 habitantes"
+266,210208,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+267,210501,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+268,210404,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+269,210406,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+270,210901,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+271,211105,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+272,210708,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+273,220101,San Martín,Selva,"De 50,000 a 99,999 habitantes"
+274,220304,San Martín,Selva,"De 2,000 a 19,999 habitantes"
+275,220801,San Martín,Selva,"De 20,000 a 49,999 habitantes"
+276,220104,San Martín,Selva,"De 2,000 a 19,999 habitantes"
+277,220510,San Martín,Selva,"De 2,000 a 19,999 habitantes"
+278,220101,San Martín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+279,220401,San Martín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+280,220909,San Martín,Selva,"De 100,000 a 499,999 habitantes"
+281,220901,San Martín,Selva,"De 100,000 a 499,999 habitantes"
+282,220601,San Martín,Selva,"De 20,000 a 49,999 habitantes"
+283,220602,San Martín,Selva,"De 2,000 a 19,999 habitantes"
+284,220205,San Martín,Selva,Área de Empadronamiento Rural (AER) Simple
+285,220603,San Martín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+286,230104,Tacna,Costa Sur,"De 100,000 a 499,999 habitantes"
+287,230108,Tacna,Costa Sur,"De 100,000 a 499,999 habitantes"
+288,230110,Tacna,Costa Sur,"De 100,000 a 499,999 habitantes"
+289,230101,Tacna,Costa Sur,"De 100,000 a 499,999 habitantes"
+290,230302,Tacna,Costa Sur,"De 2,000 a 19,999 habitantes"
+291,230401,Tacna,Sierra Sur,"De 2,000 a 19,999 habitantes"
+292,230106,Tacna,Costa Sur,Área de Empadronamiento Rural (AER) Compuesto
+293,230105,Tacna,Costa Sur,"De 500 a 1,999 habitantes"
+294,230203,Tacna,Sierra Sur,"De 500 a 1,999 habitantes"
+295,240101,Tumbes,Costa Norte,"De 50,000 a 99,999 habitantes"
+296,240301,Tumbes,Costa Norte,"De 20,000 a 49,999 habitantes"
+297,240201,Tumbes,Costa Norte,"De 2,000 a 19,999 habitantes"
+298,240302,Tumbes,Costa Norte,"De 2,000 a 19,999 habitantes"
+299,240203,Tumbes,Costa Norte,"De 2,000 a 19,999 habitantes"
+300,240104,Tumbes,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+301,240301,Tumbes,Costa Norte,Área de Empadronamiento Rural (AER) Simple
+302,250105,Ucayali,Selva,"De 100,000 a 499,999 habitantes"
+303,250101,Ucayali,Selva,"De 100,000 a 499,999 habitantes"
+304,250107,Ucayali,Selva,"De 100,000 a 499,999 habitantes"
+305,250304,Ucayali,Selva,"De 2,000 a 19,999 habitantes"
+306,250201,Ucayali,Selva,"De 2,000 a 19,999 habitantes"
+307,250303,Ucayali,Selva,"De 2,000 a 19,999 habitantes"
+308,250103,Ucayali,Selva,Área de Empadronamiento Rural (AER) Compuesto
+309,250201,Ucayali,Selva,Área de Empadronamiento Rural (AER) Compuesto
+310,250202,Ucayali,Selva,Área de Empadronamiento Rural (AER) Simple
+311,150728,Lima,Costa Centro,Área de Empadronamiento Rural (AER) Simple
+312,140308,Lambayeque,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+313,130614,La Libertad,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+314,190102,Pasco,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+315,051001,Ayacucho,Sierra Centro,"De 500 a 1,999 habitantes"
+316,230102,Tacna,Costa Sur,"De 100,000 a 499,999 habitantes"
+317,180106,Moquegua,Sierra Sur,"De 2,000 a 19,999 habitantes"
+318,010202,Amazonas,Selva,Área de Empadronamiento Rural (AER) Compuesto
+319,050501,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+320,040311,Arequipa,Costa Sur,"De 500 a 1,999 habitantes"
+321,150505,Lima,Costa Centro,"De 2,000 a 19,999 habitantes"
+322,180302,Moquegua,Costa Sur,"De 2,000 a 19,999 habitantes"
+323,010601,Amazonas,Selva,"De 2,000 a 19,999 habitantes"
+324,010401,Amazonas,Selva,"De 2,000 a 19,999 habitantes"
+325,010703,Amazonas,Selva,"De 2,000 a 19,999 habitantes"
+326,010702,Amazonas,Selva,"De 2,000 a 19,999 habitantes"
+327,010104,Amazonas,Sierra Norte,"De 500 a 1,999 habitantes"
+328,010106,Amazonas,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+329,010521,Amazonas,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+330,010705,Amazonas,Selva,Área de Empadronamiento Rural (AER) Compuesto
+331,010307,Amazonas,Selva,Área de Empadronamiento Rural (AER) Compuesto
+332,010311,Amazonas,Selva,Área de Empadronamiento Rural (AER) Simple
+333,010612,Amazonas,Selva,Área de Empadronamiento Rural (AER) Compuesto
+334,010205,Amazonas,Selva,Área de Empadronamiento Rural (AER) Compuesto
+335,010502,Amazonas,Selva,Área de Empadronamiento Rural (AER) Compuesto
+336,020802,Áncash,Costa Centro,"De 2,000 a 19,999 habitantes"
+337,020804,Áncash,Costa Centro,Área de Empadronamiento Rural (AER) Simple
+338,020101,Áncash,Sierra Centro,"De 100,000 a 499,999 habitantes"
+339,021701,Áncash,Sierra Centro,"De 2,000 a 19,999 habitantes"
+340,022005,Áncash,Costa Centro,Área de Empadronamiento Rural (AER) Simple
+341,020110,Áncash,Costa Centro,"De 500 a 1,999 habitantes"
+342,021406,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+343,022006,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+344,021003,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+345,020402,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+346,030109,Apurímac,Sierra Sur,"De 50,000 a 99,999 habitantes"
+347,030213,Apurímac,Sierra Sur,"De 50,000 a 99,999 habitantes"
+348,030104,Apurímac,Sierra Sur,"De 2,000 a 19,999 habitantes"
+349,030201,Apurímac,Sierra Sur,"De 50,000 a 99,999 habitantes"
+350,030202,Apurímac,Sierra Sur,"De 500 a 1,999 habitantes"
+351,030208,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+352,030213,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+353,030608,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+354,030602,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+355,040520,Arequipa,Costa Sur,"De 20,000 a 49,999 habitantes"
+356,040301,Arequipa,Costa Sur,"De 2,000 a 19,999 habitantes"
+357,040207,Arequipa,Costa Sur,Área de Empadronamiento Rural (AER) Compuesto
+358,040509,Arequipa,Sierra Sur,"De 500 a 1,999 habitantes"
+359,040508,Arequipa,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+360,050101,Ayacucho,Sierra Centro,"De 100,000 a 499,999 habitantes"
+361,050116,Ayacucho,Sierra Centro,"De 100,000 a 499,999 habitantes"
+362,050401,Ayacucho,Sierra Centro,"De 20,000 a 49,999 habitantes"
+363,050801,Ayacucho,Sierra Centro,"De 2,000 a 19,999 habitantes"
+364,050502,Ayacucho,Sierra Centro,"De 2,000 a 19,999 habitantes"
+365,050605,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+366,051006,Ayacucho,Sierra Centro,"De 500 a 1,999 habitantes"
+367,050612,Ayacucho,Sierra Centro,"De 500 a 1,999 habitantes"
+368,051108,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+369,050205,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+370,050509,Ayacucho,Selva,Área de Empadronamiento Rural (AER) Compuesto
+371,050408,Ayacucho,Selva,Área de Empadronamiento Rural (AER) Compuesto
+372,060508,Cajamarca,Costa Norte,"De 2,000 a 19,999 habitantes"
+373,060301,Cajamarca,Sierra Norte,"De 2,000 a 19,999 habitantes"
+374,060802,Cajamarca,Selva,"De 2,000 a 19,999 habitantes"
+375,060808,Cajamarca,Selva,"De 2,000 a 19,999 habitantes"
+376,061001,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+377,060201,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+378,060111,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+379,061103,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+380,060102,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+381,060417,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+382,060905,Cajamarca,Selva,Área de Empadronamiento Rural (AER) Compuesto
+383,060808,Cajamarca,Selva,Área de Empadronamiento Rural (AER) Compuesto
+384,060807,Cajamarca,Selva,"De 500 a 1,999 habitantes"
+385,060801,Cajamarca,Selva,Área de Empadronamiento Rural (AER) Simple
+386,070103,Callao,Lima Metropolitana,"De 500,000 a más habitantes"
+387,080601,Cusco,Sierra Sur,"De 20,000 a 49,999 habitantes"
+388,080801,Cusco,Sierra Sur,"De 20,000 a 49,999 habitantes"
+389,080608,Cusco,Sierra Sur,"De 2,000 a 19,999 habitantes"
+390,081301,Cusco,Sierra Sur,"De 2,000 a 19,999 habitantes"
+391,080702,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+392,080706,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+393,080505,Cusco,Sierra Sur,"De 500 a 1,999 habitantes"
+394,080601,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+395,080301,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+396,080806,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+397,090118,Huancavelica,Sierra Centro,"De 20,000 a 49,999 habitantes"
+398,090701,Huancavelica,Sierra Centro,"De 2,000 a 19,999 habitantes"
+399,090201,Huancavelica,Sierra Centro,"De 2,000 a 19,999 habitantes"
+400,090602,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+401,090507,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+402,090206,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+403,090312,Huancavelica,Sierra Centro,"De 500 a 1,999 habitantes"
+404,090702,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+405,090203,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+406,090116,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+407,090719,Huancavelica,Sierra Centro,"De 500 a 1,999 habitantes"
+408,090103,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+409,100102,Huánuco,Selva,"De 100,000 a 499,999 habitantes"
+410,100201,Huánuco,Sierra Centro,"De 2,000 a 19,999 habitantes"
+411,100501,Huánuco,Sierra Centro,"De 2,000 a 19,999 habitantes"
+412,100604,Huánuco,Selva,"De 2,000 a 19,999 habitantes"
+413,100202,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+414,100504,Huánuco,Sierra Centro,"De 500 a 1,999 habitantes"
+415,101106,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+416,100804,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+417,100801,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+418,100203,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+419,100102,Huánuco,Selva,Área de Empadronamiento Rural (AER) Compuesto
+420,100902,Huánuco,Selva,Área de Empadronamiento Rural (AER) Compuesto
+421,110102,Ica,Costa Centro,"De 100,000 a 499,999 habitantes"
+422,110103,Ica,Costa Centro,"De 20,000 a 49,999 habitantes"
+423,110210,Ica,Costa Centro,"De 100,000 a 499,999 habitantes"
+424,110503,Ica,Costa Centro,"De 2,000 a 19,999 habitantes"
+425,110301,Ica,Costa Centro,"De 20,000 a 49,999 habitantes"
+426,110403,Ica,Costa Centro,"De 500 a 1,999 habitantes"
+427,110305,Ica,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+428,110114,Ica,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+429,120101,Junín,Sierra Centro,"De 100,000 a 499,999 habitantes"
+430,120434,Junín,Sierra Centro,"De 2,000 a 19,999 habitantes"
+431,120134,Junín,Sierra Centro,"De 2,000 a 19,999 habitantes"
+432,120808,Junín,Sierra Centro,"De 2,000 a 19,999 habitantes"
+433,120117,Junín,Sierra Centro,"De 2,000 a 19,999 habitantes"
+434,120130,Junín,Sierra Centro,"De 2,000 a 19,999 habitantes"
+435,120905,Junín,Sierra Centro,"De 2,000 a 19,999 habitantes"
+436,120503,Junín,Sierra Centro,"De 500 a 1,999 habitantes"
+437,120704,Junín,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+438,120215,Junín,Sierra Centro,"De 500 a 1,999 habitantes"
+439,120708,Junín,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+440,120419,Junín,Selva,Área de Empadronamiento Rural (AER) Simple
+441,120609,Junín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+442,120601,Junín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+443,130104,La Libertad,Costa Norte,"De 50,000 a 99,999 habitantes"
+444,131201,La Libertad,Costa Norte,"De 20,000 a 49,999 habitantes"
+445,130208,La Libertad,Costa Norte,"De 20,000 a 49,999 habitantes"
+446,130601,La Libertad,Sierra Norte,"De 2,000 a 19,999 habitantes"
+447,130901,La Libertad,Sierra Norte,"De 20,000 a 49,999 habitantes"
+448,130902,La Libertad,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+449,130305,La Libertad,Sierra Norte,"De 500 a 1,999 habitantes"
+450,130906,La Libertad,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+451,130802,La Libertad,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+452,140111,Lambayeque,Costa Norte,"De 2,000 a 19,999 habitantes"
+453,140308,Lambayeque,Costa Norte,"De 2,000 a 19,999 habitantes"
+454,140201,Lambayeque,Costa Norte,"De 20,000 a 49,999 habitantes"
+455,140118,Lambayeque,Costa Norte,"De 20,000 a 49,999 habitantes"
+456,140303,Lambayeque,Costa Norte,"De 2,000 a 19,999 habitantes"
+457,140108,Lambayeque,Costa Norte,"De 20,000 a 49,999 habitantes"
+458,140310,Lambayeque,Costa Norte,"De 2,000 a 19,999 habitantes"
+459,140205,Lambayeque,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+460,140312,Lambayeque,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+461,150131,Lima,Lima Metropolitana,"De 500,000 a más habitantes"
+462,150107,Lima,Lima Metropolitana,"De 500,000 a más habitantes"
+463,150134,Lima,Lima Metropolitana,"De 500,000 a más habitantes"
+464,150111,Lima,Lima Metropolitana,"De 500,000 a más habitantes"
+465,150123,Lima,Lima Metropolitana,"De 500,000 a más habitantes"
+466,150121,Lima,Lima Metropolitana,"De 500,000 a más habitantes"
+467,150122,Lima,Lima Metropolitana,"De 500,000 a más habitantes"
+468,150108,Lima,Lima Metropolitana,"De 500,000 a más habitantes"
+469,150113,Lima,Lima Metropolitana,"De 500,000 a más habitantes"
+470,150205,Lima,Costa Centro,"De 50,000 a 99,999 habitantes"
+471,150812,Lima,Costa Centro,"De 20,000 a 49,999 habitantes"
+472,150810,Lima,Costa Centro,"De 100,000 a 499,999 habitantes"
+473,150601,Lima,Costa Centro,"De 50,000 a 99,999 habitantes"
+474,150512,Lima,Costa Centro,"De 2,000 a 19,999 habitantes"
+475,150507,Lima,Costa Centro,"De 100,000 a 499,999 habitantes"
+476,150705,Lima,Sierra Centro,"De 2,000 a 19,999 habitantes"
+477,150401,Lima,Sierra Centro,"De 2,000 a 19,999 habitantes"
+478,150702,Lima,Costa Centro,Área de Empadronamiento Rural (AER) Simple
+479,150723,Lima,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+480,150403,Lima,Sierra Centro,"De 500 a 1,999 habitantes"
+481,150706,Lima,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+482,150718,Lima,Sierra Centro,"De 500 a 1,999 habitantes"
+483,160501,Loreto,Selva,"De 20,000 a 49,999 habitantes"
+484,160701,Loreto,Selva,"De 2,000 a 19,999 habitantes"
+485,160210,Loreto,Selva,Área de Empadronamiento Rural (AER) Compuesto
+486,160206,Loreto,Selva,Área de Empadronamiento Rural (AER) Simple
+487,160403,Loreto,Selva,Área de Empadronamiento Rural (AER) Compuesto
+488,160301,Loreto,Selva,Área de Empadronamiento Rural (AER) Compuesto
+489,160502,Loreto,Selva,"De 500 a 1,999 habitantes"
+490,160504,Loreto,Selva,Área de Empadronamiento Rural (AER) Compuesto
+491,170102,Madre de Dios,Selva,"De 2,000 a 19,999 habitantes"
+492,170204,Madre de Dios,Selva,"De 2,000 a 19,999 habitantes"
+493,170303,Madre de Dios,Selva,"De 500 a 1,999 habitantes"
+494,170103,Madre de Dios,Selva,Área de Empadronamiento Rural (AER) Simple
+495,180104,Moquegua,Costa Sur,"De 50,000 a 99,999 habitantes"
+496,180101,Moquegua,Costa Sur,Área de Empadronamiento Rural (AER) Compuesto
+497,180105,Moquegua,Sierra Sur,"De 500 a 1,999 habitantes"
+498,190201,Pasco,Sierra Centro,"De 2,000 a 19,999 habitantes"
+499,190104,Pasco,Sierra Centro,"De 2,000 a 19,999 habitantes"
+500,190307,Pasco,Selva,"De 2,000 a 19,999 habitantes"
+501,190304,Pasco,Selva,Área de Empadronamiento Rural (AER) Compuesto
+502,190306,Pasco,Selva,Área de Empadronamiento Rural (AER) Compuesto
+503,190306,Pasco,Selva,Área de Empadronamiento Rural (AER) Simple
+504,190305,Pasco,Selva,"De 500 a 1,999 habitantes"
+505,200114,Piura,Costa Norte,"De 20,000 a 49,999 habitantes"
+506,200702,Piura,Costa Norte,"De 2,000 a 19,999 habitantes"
+507,200109,Piura,Costa Norte,"De 20,000 a 49,999 habitantes"
+508,200701,Piura,Costa Norte,"De 50,000 a 99,999 habitantes"
+509,200105,Piura,Costa Norte,"De 50,000 a 99,999 habitantes"
+510,200703,Piura,Costa Norte,"De 2,000 a 19,999 habitantes"
+511,200301,Piura,Sierra Norte,"De 2,000 a 19,999 habitantes"
+512,200209,Piura,Costa Norte,Área de Empadronamiento Rural (AER) Simple
+513,200210,Piura,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+514,200408,Piura,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+515,200410,Piura,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+516,200201,Piura,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+517,211105,Puno,Sierra Sur,"De 100,000 a 499,999 habitantes"
+518,210801,Puno,Sierra Sur,"De 2,000 a 19,999 habitantes"
+519,210607,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+520,210103,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+521,210115,Puno,Sierra Sur,"De 500 a 1,999 habitantes"
+522,210904,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+523,210601,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+524,210608,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+525,210807,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+526,220105,San Martín,Selva,"De 2,000 a 19,999 habitantes"
+527,220804,San Martín,Selva,"De 20,000 a 49,999 habitantes"
+528,220103,San Martín,Selva,"De 500 a 1,999 habitantes"
+529,220804,San Martín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+530,220803,San Martín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+531,220907,San Martín,Selva,"De 2,000 a 19,999 habitantes"
+532,220203,San Martín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+533,220702,San Martín,Selva,"De 500 a 1,999 habitantes"
+534,220910,San Martín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+535,230104,Tacna,Costa Sur,Área de Empadronamiento Rural (AER) Compuesto
+536,230109,Tacna,Costa Sur,Área de Empadronamiento Rural (AER) Compuesto
+537,240103,Tumbes,Costa Norte,"De 2,000 a 19,999 habitantes"
+538,240105,Tumbes,Costa Norte,Área de Empadronamiento Rural (AER) Simple
+539,240104,Tumbes,Costa Norte,Área de Empadronamiento Rural (AER) Simple
+540,250301,Ucayali,Selva,"De 20,000 a 49,999 habitantes"
+541,250301,Ucayali,Selva,Área de Empadronamiento Rural (AER) Simple
+542,250102,Ucayali,Selva,Área de Empadronamiento Rural (AER) Compuesto
+543,250304,Ucayali,Selva,Área de Empadronamiento Rural (AER) Compuesto
+544,250103,Ucayali,Selva,"De 500 a 1,999 habitantes"
+545,230109,Tacna,Costa Sur,"De 2,000 a 19,999 habitantes"
+546,080407,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+547,010110,Amazonas,Sierra Norte,"De 2,000 a 19,999 habitantes"
+548,010523,Amazonas,Sierra Norte,"De 500 a 1,999 habitantes"
+549,010701,Amazonas,Selva,Área de Empadronamiento Rural (AER) Compuesto
+550,010522,Amazonas,Selva,"De 500 a 1,999 habitantes"
+551,010706,Amazonas,Selva,Área de Empadronamiento Rural (AER) Compuesto
+552,010707,Amazonas,Selva,Área de Empadronamiento Rural (AER) Compuesto
+553,010403,Amazonas,Selva,Área de Empadronamiento Rural (AER) Simple
+554,021807,Áncash,Costa Centro,"De 2,000 a 19,999 habitantes"
+555,021105,Áncash,Sierra Centro,"De 500 a 1,999 habitantes"
+556,021201,Áncash,Sierra Centro,"De 2,000 a 19,999 habitantes"
+557,021004,Áncash,Sierra Centro,"De 2,000 a 19,999 habitantes"
+558,020101,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+559,021601,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+560,021007,Áncash,Sierra Centro,"De 500 a 1,999 habitantes"
+561,021201,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+562,020112,Áncash,Sierra Centro,"De 500 a 1,999 habitantes"
+563,020102,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+564,030220,Apurímac,Sierra Sur,"De 2,000 a 19,999 habitantes"
+565,030210,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+566,030205,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+567,030410,Apurímac,Sierra Sur,"De 500 a 1,999 habitantes"
+568,030411,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+569,030501,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+570,040107,Arequipa,Sierra Sur,"De 500,000 a más habitantes"
+571,040109,Arequipa,Sierra Sur,"De 500,000 a más habitantes"
+572,040117,Arequipa,Sierra Sur,"De 500,000 a más habitantes"
+573,040201,Arequipa,Costa Sur,"De 20,000 a 49,999 habitantes"
+574,040204,Arequipa,Costa Sur,"De 20,000 a 49,999 habitantes"
+575,040108,Arequipa,Costa Sur,"De 20,000 a 49,999 habitantes"
+576,040202,Arequipa,Costa Sur,"De 20,000 a 49,999 habitantes"
+577,040115,Arequipa,Sierra Sur,"De 2,000 a 19,999 habitantes"
+578,040407,Arequipa,Costa Sur,"De 500 a 1,999 habitantes"
+579,040119,Arequipa,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+580,040408,Arequipa,Sierra Sur,"De 500 a 1,999 habitantes"
+581,040801,Arequipa,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+582,050705,Ayacucho,Sierra Centro,"De 2,000 a 19,999 habitantes"
+583,050508,Ayacucho,Sierra Centro,"De 2,000 a 19,999 habitantes"
+584,050406,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+585,050111,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+586,051106,Ayacucho,Sierra Centro,"De 500 a 1,999 habitantes"
+587,050610,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+588,051105,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+589,051105,Ayacucho,Sierra Centro,"De 500 a 1,999 habitantes"
+590,060505,Cajamarca,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+591,061004,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+592,060311,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+593,060104,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+594,060106,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+595,060417,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+596,060419,Cajamarca,Sierra Norte,"De 500 a 1,999 habitantes"
+597,060904,Cajamarca,Selva,Área de Empadronamiento Rural (AER) Compuesto
+598,080108,Cusco,Sierra Sur,"De 100,000 a 499,999 habitantes"
+599,080104,Cusco,Sierra Sur,"De 100,000 a 499,999 habitantes"
+600,080701,Cusco,Sierra Sur,"De 2,000 a 19,999 habitantes"
+601,080401,Cusco,Sierra Sur,"De 2,000 a 19,999 habitantes"
+602,080703,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+603,080201,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+604,081105,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+605,080501,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+606,081104,Cusco,Sierra Sur,"De 500 a 1,999 habitantes"
+607,080803,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+608,080902,Cusco,Selva,Área de Empadronamiento Rural (AER) Simple
+609,090501,Huancavelica,Sierra Centro,"De 2,000 a 19,999 habitantes"
+610,090308,Huancavelica,Sierra Centro,"De 500 a 1,999 habitantes"
+611,090102,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+612,090117,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+613,090302,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+614,090706,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+615,090704,Huancavelica,Sierra Centro,"De 500 a 1,999 habitantes"
+616,090312,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+617,100507,Huánuco,Selva,"De 2,000 a 19,999 habitantes"
+618,100702,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+619,100205,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+620,100501,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+621,100107,Huánuco,Sierra Centro,"De 500 a 1,999 habitantes"
+622,101002,Huánuco,Sierra Centro,"De 500 a 1,999 habitantes"
+623,100104,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+624,100507,Huánuco,Selva,Área de Empadronamiento Rural (AER) Compuesto
+625,100609,Huánuco,Selva,"De 500 a 1,999 habitantes"
+626,110401,Ica,Costa Centro,"De 2,000 a 19,999 habitantes"
+627,110202,Ica,Costa Centro,"De 2,000 a 19,999 habitantes"
+628,110205,Ica,Costa Centro,"De 2,000 a 19,999 habitantes"
+629,110112,Ica,Costa Centro,"De 20,000 a 49,999 habitantes"
+630,110304,Ica,Costa Centro,"De 2,000 a 19,999 habitantes"
+631,110204,Ica,Costa Centro,"De 2,000 a 19,999 habitantes"
+632,110301,Ica,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+633,110114,Ica,Costa Centro,Área de Empadronamiento Rural (AER) Simple
+634,120901,Junín,Sierra Centro,"De 2,000 a 19,999 habitantes"
+635,120301,Junín,Selva,"De 20,000 a 49,999 habitantes"
+636,120601,Junín,Selva,"De 20,000 a 49,999 habitantes"
+637,120302,Junín,Selva,"De 20,000 a 49,999 habitantes"
+638,120409,Junín,Sierra Centro,"De 500 a 1,999 habitantes"
+639,120133,Junín,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+640,120122,Junín,Sierra Centro,"De 500 a 1,999 habitantes"
+641,120709,Junín,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+642,120423,Junín,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+643,120303,Junín,Selva,Área de Empadronamiento Rural (AER) Simple
+644,120606,Junín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+645,130111,La Libertad,Costa Norte,"De 500,000 a más habitantes"
+646,130401,La Libertad,Costa Norte,"De 20,000 a 49,999 habitantes"
+647,130703,La Libertad,Costa Norte,"De 2,000 a 19,999 habitantes"
+648,131203,La Libertad,Costa Norte,"De 2,000 a 19,999 habitantes"
+649,131101,La Libertad,Costa Norte,"De 2,000 a 19,999 habitantes"
+650,131103,La Libertad,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+651,131202,La Libertad,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+652,130605,La Libertad,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+653,130503,La Libertad,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+654,140205,Lambayeque,Costa Norte,"De 2,000 a 19,999 habitantes"
+655,140309,Lambayeque,Costa Norte,"De 2,000 a 19,999 habitantes"
+656,140305,Lambayeque,Costa Norte,"De 2,000 a 19,999 habitantes"
+657,140115,Lambayeque,Costa Norte,"De 2,000 a 19,999 habitantes"
+658,140108,Lambayeque,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+659,140307,Lambayeque,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+660,150136,Lima,Lima Metropolitana,"De 500,000 a más habitantes"
+661,150120,Lima,Lima Metropolitana,"De 500,000 a más habitantes"
+662,150139,Lima,Lima Metropolitana,"De 500,000 a más habitantes"
+663,150510,Lima,Costa Centro,"De 100,000 a 499,999 habitantes"
+664,150811,Lima,Costa Centro,Área de Empadronamiento Rural (AER) Simple
+665,150503,Lima,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+666,150512,Lima,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+667,150804,Lima,Sierra Centro,"De 500 a 1,999 habitantes"
+668,160211,Loreto,Selva,"De 2,000 a 19,999 habitantes"
+669,160303,Loreto,Selva,Área de Empadronamiento Rural (AER) Compuesto
+670,160105,Loreto,Selva,Área de Empadronamiento Rural (AER) Simple
+671,160106,Loreto,Selva,Área de Empadronamiento Rural (AER) Compuesto
+672,160604,Loreto,Selva,Área de Empadronamiento Rural (AER) Compuesto
+673,160704,Loreto,Selva,"De 500 a 1,999 habitantes"
+674,170102,Madre de Dios,Selva,Área de Empadronamiento Rural (AER) Compuesto
+675,170101,Madre de Dios,Selva,Área de Empadronamiento Rural (AER) Simple
+676,180106,Moquegua,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+677,190102,Pasco,Sierra Centro,"De 2,000 a 19,999 habitantes"
+678,190111,Pasco,Sierra Centro,"De 2,000 a 19,999 habitantes"
+679,190204,Pasco,Sierra Centro,"De 500 a 1,999 habitantes"
+680,190108,Pasco,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+681,200407,Piura,Costa Norte,"De 2,000 a 19,999 habitantes"
+682,200705,Piura,Costa Norte,"De 2,000 a 19,999 habitantes"
+683,200202,Piura,Costa Norte,"De 2,000 a 19,999 habitantes"
+684,200802,Piura,Costa Norte,"De 2,000 a 19,999 habitantes"
+685,200604,Piura,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+686,200607,Piura,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+687,200410,Piura,Costa Norte,"De 500 a 1,999 habitantes"
+688,200304,Piura,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+689,210701,Puno,Sierra Sur,"De 2,000 a 19,999 habitantes"
+690,211001,Puno,Sierra Sur,"De 2,000 a 19,999 habitantes"
+691,211002,Puno,Sierra Sur,"De 2,000 a 19,999 habitantes"
+692,210203,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+693,210307,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+694,210102,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+695,210801,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+696,210807,Puno,Sierra Sur,"De 500 a 1,999 habitantes"
+697,210101,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+698,210505,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+699,220501,San Martín,Selva,"De 2,000 a 19,999 habitantes"
+700,220807,San Martín,Selva,"De 2,000 a 19,999 habitantes"
+701,220803,San Martín,Selva,"De 2,000 a 19,999 habitantes"
+702,220505,San Martín,Selva,Área de Empadronamiento Rural (AER) Simple
+703,220101,San Martín,Selva,Área de Empadronamiento Rural (AER) Simple
+704,220910,San Martín,Selva,"De 100,000 a 499,999 habitantes"
+705,220904,San Martín,Selva,"De 2,000 a 19,999 habitantes"
+706,220201,San Martín,Selva,"De 2,000 a 19,999 habitantes"
+707,220601,San Martín,Selva,Área de Empadronamiento Rural (AER) Simple
+708,220202,San Martín,Selva,Área de Empadronamiento Rural (AER) Simple
+709,230102,Tacna,Costa Sur,Área de Empadronamiento Rural (AER) Compuesto
+710,230111,Tacna,Costa Sur,Área de Empadronamiento Rural (AER) Compuesto
+711,230406,Tacna,Sierra Sur,"De 500 a 1,999 habitantes"
+712,240102,Tumbes,Costa Norte,"De 20,000 a 49,999 habitantes"
+713,240105,Tumbes,Costa Norte,"De 2,000 a 19,999 habitantes"
+714,240304,Tumbes,Costa Norte,"De 2,000 a 19,999 habitantes"
+715,240102,Tumbes,Costa Norte,Área de Empadronamiento Rural (AER) Simple
+716,250102,Ucayali,Selva,"De 2,000 a 19,999 habitantes"
+717,250105,Ucayali,Selva,Área de Empadronamiento Rural (AER) Simple
+718,250302,Ucayali,Selva,Área de Empadronamiento Rural (AER) Simple
+719,190306,Pasco,Selva,"De 2,000 a 19,999 habitantes"
+720,150727,Lima,Costa Centro,"De 500 a 1,999 habitantes"
+721,021805,Áncash,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+722,050906,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+723,060401,Cajamarca,Sierra Norte,"De 20,000 a 49,999 habitantes"
+724,110103,Ica,Costa Centro,Área de Empadronamiento Rural (AER) Simple
+725,150806,Lima,Costa Centro,"De 100,000 a 499,999 habitantes"
+726,151003,Lima,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+727,010509,Amazonas,Sierra Norte,"De 2,000 a 19,999 habitantes"
+728,010514,Amazonas,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+729,010509,Amazonas,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+730,010110,Amazonas,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+731,010301,Amazonas,Selva,Área de Empadronamiento Rural (AER) Simple
+732,010205,Amazonas,Selva,Área de Empadronamiento Rural (AER) Simple
+733,010611,Amazonas,Selva,"De 500 a 1,999 habitantes"
+734,010403,Amazonas,Selva,"De 500 a 1,999 habitantes"
+735,020801,Áncash,Costa Centro,"De 20,000 a 49,999 habitantes"
+736,021503,Áncash,Sierra Centro,"De 2,000 a 19,999 habitantes"
+737,021503,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+738,021901,Áncash,Sierra Centro,"De 2,000 a 19,999 habitantes"
+739,020112,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+740,021709,Áncash,Sierra Centro,"De 500 a 1,999 habitantes"
+741,020402,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+742,020305,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+743,021203,Áncash,Sierra Centro,"De 500 a 1,999 habitantes"
+744,021201,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+745,030506,Apurímac,Sierra Sur,"De 2,000 a 19,999 habitantes"
+746,030303,Apurímac,Sierra Sur,"De 500 a 1,999 habitantes"
+747,030505,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+748,030502,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+749,030211,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+750,030504,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+751,030401,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+752,040126,Arequipa,Sierra Sur,"De 500,000 a más habitantes"
+753,040116,Arequipa,Sierra Sur,"De 500,000 a más habitantes"
+754,040701,Arequipa,Costa Sur,"De 20,000 a 49,999 habitantes"
+755,040124,Arequipa,Sierra Sur,"De 2,000 a 19,999 habitantes"
+756,040520,Arequipa,Costa Sur,Área de Empadronamiento Rural (AER) Simple
+757,040520,Arequipa,Costa Sur,Área de Empadronamiento Rural (AER) Compuesto
+758,040127,Arequipa,Sierra Sur,"De 500 a 1,999 habitantes"
+759,050202,Ayacucho,Sierra Centro,"De 2,000 a 19,999 habitantes"
+760,050619,Ayacucho,Sierra Centro,"De 2,000 a 19,999 habitantes"
+761,050201,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+762,050103,Ayacucho,Sierra Centro,"De 500 a 1,999 habitantes"
+763,050106,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+764,051012,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+765,050114,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+766,051002,Ayacucho,Sierra Centro,"De 500 a 1,999 habitantes"
+767,050507,Ayacucho,Selva,Área de Empadronamiento Rural (AER) Compuesto
+768,060106,Cajamarca,Sierra Norte,"De 2,000 a 19,999 habitantes"
+769,060203,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+770,060301,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+771,061007,Cajamarca,Sierra Norte,"De 500 a 1,999 habitantes"
+772,061101,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+773,060106,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+774,060108,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+775,060902,Cajamarca,Selva,Área de Empadronamiento Rural (AER) Compuesto
+776,060901,Cajamarca,Selva,Área de Empadronamiento Rural (AER) Compuesto
+777,070107,Callao,Lima Metropolitana,"De 500,000 a más habitantes"
+778,081211,Cusco,Sierra Sur,"De 2,000 a 19,999 habitantes"
+779,080201,Cusco,Sierra Sur,"De 2,000 a 19,999 habitantes"
+780,081201,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+781,080202,Cusco,Sierra Sur,"De 500 a 1,999 habitantes"
+782,081101,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+783,080405,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+784,081212,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+785,080902,Cusco,Selva,Área de Empadronamiento Rural (AER) Compuesto
+786,090703,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+787,090203,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+788,090110,Huancavelica,Sierra Centro,"De 500 a 1,999 habitantes"
+789,090502,Huancavelica,Sierra Centro,"De 500 a 1,999 habitantes"
+790,090401,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+791,090607,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+792,090502,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+793,090606,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+794,100701,Huánuco,Sierra Centro,"De 2,000 a 19,999 habitantes"
+795,100501,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+796,100208,Huánuco,Sierra Centro,"De 500 a 1,999 habitantes"
+797,100109,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+798,100704,Huánuco,Sierra Centro,"De 500 a 1,999 habitantes"
+799,100504,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+800,100607,Huánuco,Selva,Área de Empadronamiento Rural (AER) Compuesto
+801,100111,Huánuco,Selva,Área de Empadronamiento Rural (AER) Compuesto
+802,110110,Ica,Costa Centro,"De 2,000 a 19,999 habitantes"
+803,110303,Ica,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+804,110203,Ica,Sierra Centro,"De 500 a 1,999 habitantes"
+805,120128,Junín,Sierra Centro,"De 2,000 a 19,999 habitantes"
+806,120125,Junín,Sierra Centro,"De 2,000 a 19,999 habitantes"
+807,120908,Junín,Sierra Centro,"De 2,000 a 19,999 habitantes"
+808,120133,Junín,Sierra Centro,"De 2,000 a 19,999 habitantes"
+809,120303,Junín,Selva,"De 20,000 a 49,999 habitantes"
+810,120116,Junín,Sierra Centro,"De 500 a 1,999 habitantes"
+811,120120,Junín,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+812,120114,Junín,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+813,120504,Junín,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+814,120603,Junín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+815,130402,La Libertad,Costa Norte,"De 2,000 a 19,999 habitantes"
+816,130205,La Libertad,Costa Norte,"De 20,000 a 49,999 habitantes"
+817,130206,La Libertad,Costa Norte,"De 2,000 a 19,999 habitantes"
+818,131001,La Libertad,Sierra Norte,"De 2,000 a 19,999 habitantes"
+819,130501,La Libertad,Sierra Norte,"De 2,000 a 19,999 habitantes"
+820,131201,La Libertad,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+821,131104,La Libertad,Sierra Norte,"De 500 a 1,999 habitantes"
+822,131001,La Libertad,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+823,140114,Lambayeque,Costa Norte,"De 2,000 a 19,999 habitantes"
+824,140304,Lambayeque,Costa Norte,"De 2,000 a 19,999 habitantes"
+825,140117,Lambayeque,Costa Norte,"De 2,000 a 19,999 habitantes"
+826,140303,Lambayeque,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+827,150116,Lima,Lima Metropolitana,"De 500,000 a más habitantes"
+828,150126,Lima,Lima Metropolitana,"De 500,000 a más habitantes"
+829,150504,Lima,Costa Centro,"De 2,000 a 19,999 habitantes"
+830,150805,Lima,Costa Centro,"De 100,000 a 499,999 habitantes"
+831,150604,Lima,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+832,150201,Lima,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+833,150707,Lima,Sierra Centro,"De 500 a 1,999 habitantes"
+834,160103,Loreto,Selva,"De 2,000 a 19,999 habitantes"
+835,160504,Loreto,Selva,"De 2,000 a 19,999 habitantes"
+836,160401,Loreto,Selva,"De 2,000 a 19,999 habitantes"
+837,160601,Loreto,Selva,Área de Empadronamiento Rural (AER) Compuesto
+838,160403,Loreto,Selva,"De 500 a 1,999 habitantes"
+839,160402,Loreto,Selva,Área de Empadronamiento Rural (AER) Compuesto
+840,160703,Loreto,Selva,Área de Empadronamiento Rural (AER) Simple
+841,170203,Madre de Dios,Selva,"De 2,000 a 19,999 habitantes"
+842,170104,Madre de Dios,Selva,Área de Empadronamiento Rural (AER) Simple
+843,180303,Moquegua,Costa Sur,"De 50,000 a 99,999 habitantes"
+844,180201,Moquegua,Sierra Sur,"De 2,000 a 19,999 habitantes"
+845,180204,Moquegua,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+846,180204,Moquegua,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+847,190109,Pasco,Sierra Centro,"De 50,000 a 99,999 habitantes"
+848,190207,Pasco,Sierra Centro,"De 2,000 a 19,999 habitantes"
+849,190112,Pasco,Sierra Centro,"De 2,000 a 19,999 habitantes"
+850,190104,Pasco,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+851,190304,Pasco,Selva,"De 500 a 1,999 habitantes"
+852,200805,Piura,Costa Norte,"De 2,000 a 19,999 habitantes"
+853,200603,Piura,Costa Norte,"De 20,000 a 49,999 habitantes"
+854,200409,Piura,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+855,200303,Piura,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+856,210209,Puno,Sierra Sur,"De 2,000 a 19,999 habitantes"
+857,210210,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+858,211201,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+859,210604,Puno,Sierra Sur,"De 500 a 1,999 habitantes"
+860,211301,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+861,211209,Puno,Selva,Área de Empadronamiento Rural (AER) Compuesto
+862,220102,San Martín,Selva,"De 2,000 a 19,999 habitantes"
+863,220504,San Martín,Selva,"De 2,000 a 19,999 habitantes"
+864,220805,San Martín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+865,220505,San Martín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+866,221002,San Martín,Selva,"De 2,000 a 19,999 habitantes"
+867,220908,San Martín,Selva,"De 2,000 a 19,999 habitantes"
+868,220904,San Martín,Selva,Área de Empadronamiento Rural (AER) Simple
+869,220605,San Martín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+870,230106,Tacna,Costa Sur,"De 500 a 1,999 habitantes"
+871,230101,Tacna,Costa Sur,Área de Empadronamiento Rural (AER) Compuesto
+872,240201,Tumbes,Costa Norte,Área de Empadronamiento Rural (AER) Simple
+873,250104,Ucayali,Selva,"De 2,000 a 19,999 habitantes"
+874,250302,Ucayali,Selva,"De 2,000 a 19,999 habitantes"
+875,250305,Ucayali,Selva,Área de Empadronamiento Rural (AER) Simple
+876,250104,Ucayali,Selva,Área de Empadronamiento Rural (AER) Simple
+877,060410,Cajamarca,Sierra Norte,"De 2,000 a 19,999 habitantes"
+878,010522,Amazonas,Selva,Área de Empadronamiento Rural (AER) Compuesto
+879,160112,Loreto,Selva,Área de Empadronamiento Rural (AER) Compuesto
+880,250104,Ucayali,Selva,Área de Empadronamiento Rural (AER) Compuesto
+881,120426,Junín,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+882,120402,Junín,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+883,151008,Lima,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+884,150301,Lima,Sierra Centro,"De 500 a 1,999 habitantes"
+885,230303,Tacna,Costa Sur,Área de Empadronamiento Rural (AER) Compuesto
+886,150511,Lima,Costa Centro,"De 500 a 1,999 habitantes"
+887,210903,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+888,221003,San Martín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+889,010114,Amazonas,Sierra Norte,"De 500 a 1,999 habitantes"
+890,010609,Amazonas,Selva,Área de Empadronamiento Rural (AER) Compuesto
+891,010206,Amazonas,Selva,Área de Empadronamiento Rural (AER) Simple
+892,010401,Amazonas,Selva,Área de Empadronamiento Rural (AER) Simple
+893,010402,Amazonas,Selva,Área de Empadronamiento Rural (AER) Simple
+894,010605,Amazonas,Selva,Área de Empadronamiento Rural (AER) Compuesto
+895,021502,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+896,020508,Áncash,Sierra Centro,"De 2,000 a 19,999 habitantes"
+897,020202,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+898,021603,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+899,020302,Áncash,Sierra Centro,"De 500 a 1,999 habitantes"
+900,022002,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+901,021014,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+902,030501,Apurímac,Sierra Sur,"De 2,000 a 19,999 habitantes"
+903,030504,Apurímac,Sierra Sur,"De 2,000 a 19,999 habitantes"
+904,030609,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+905,030402,Apurímac,Sierra Sur,"De 500 a 1,999 habitantes"
+906,030713,Apurímac,Sierra Sur,"De 500 a 1,999 habitantes"
+907,030218,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+908,030209,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+909,030216,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+910,040703,Arequipa,Costa Sur,"De 2,000 a 19,999 habitantes"
+911,040208,Arequipa,Costa Sur,"De 20,000 a 49,999 habitantes"
+912,040404,Arequipa,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+913,040111,Arequipa,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+914,040513,Arequipa,Sierra Sur,"De 500 a 1,999 habitantes"
+915,040809,Arequipa,Sierra Sur,"De 500 a 1,999 habitantes"
+916,050603,Ayacucho,Sierra Centro,"De 2,000 a 19,999 habitantes"
+917,050203,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+918,050702,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+919,050502,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+920,051012,Ayacucho,Sierra Centro,"De 500 a 1,999 habitantes"
+921,050108,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+922,050510,Ayacucho,Selva,"De 500 a 1,999 habitantes"
+923,060701,Cajamarca,Sierra Norte,"De 2,000 a 19,999 habitantes"
+924,060601,Cajamarca,Sierra Norte,"De 20,000 a 49,999 habitantes"
+925,060614,Cajamarca,Selva,"De 2,000 a 19,999 habitantes"
+926,060109,Cajamarca,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+927,060413,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+928,060410,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+929,060504,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+930,060105,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+931,061103,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+932,060703,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+933,060810,Cajamarca,Selva,Área de Empadronamiento Rural (AER) Compuesto
+934,080305,Cusco,Sierra Sur,"De 2,000 a 19,999 habitantes"
+935,081201,Cusco,Sierra Sur,"De 2,000 a 19,999 habitantes"
+936,081306,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+937,081212,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+938,080404,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+939,080502,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+940,080702,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+941,081205,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+942,080912,Cusco,Selva,"De 500 a 1,999 habitantes"
+943,090711,Huancavelica,Sierra Centro,"De 2,000 a 19,999 habitantes"
+944,090718,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+945,090202,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+946,090201,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+947,090303,Huancavelica,Sierra Centro,"De 500 a 1,999 habitantes"
+948,090119,Huancavelica,Sierra Centro,"De 500 a 1,999 habitantes"
+949,090509,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+950,090721,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+951,100702,Huánuco,Sierra Centro,"De 2,000 a 19,999 habitantes"
+952,100103,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+953,100107,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+954,101007,Huánuco,Sierra Centro,"De 500 a 1,999 habitantes"
+955,100404,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+956,100705,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+957,100509,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+958,100601,Huánuco,Selva,Área de Empadronamiento Rural (AER) Compuesto
+959,100604,Huánuco,Selva,Área de Empadronamiento Rural (AER) Simple
+960,110206,Ica,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+961,110302,Ica,Costa Centro,Área de Empadronamiento Rural (AER) Simple
+962,110504,Ica,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+963,120801,Junín,Sierra Centro,"De 2,000 a 19,999 habitantes"
+964,120704,Junín,Sierra Centro,"De 2,000 a 19,999 habitantes"
+965,120119,Junín,Sierra Centro,"De 20,000 a 49,999 habitantes"
+966,120402,Junín,Sierra Centro,"De 2,000 a 19,999 habitantes"
+967,120707,Junín,Sierra Centro,"De 500 a 1,999 habitantes"
+968,120427,Junín,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+969,120408,Junín,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+970,120405,Junín,Sierra Centro,"De 500 a 1,999 habitantes"
+971,120902,Junín,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+972,120601,Junín,Selva,Área de Empadronamiento Rural (AER) Simple
+973,120607,Junín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+974,130107,La Libertad,Costa Norte,"De 20,000 a 49,999 habitantes"
+975,130207,La Libertad,Costa Norte,"De 2,000 a 19,999 habitantes"
+976,130614,La Libertad,Sierra Norte,"De 2,000 a 19,999 habitantes"
+977,130809,La Libertad,Sierra Norte,"De 2,000 a 19,999 habitantes"
+978,130110,La Libertad,Costa Norte,"De 500 a 1,999 habitantes"
+979,130106,La Libertad,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+980,130602,La Libertad,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+981,130608,La Libertad,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+982,140113,Lambayeque,Costa Norte,"De 2,000 a 19,999 habitantes"
+983,140119,Lambayeque,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+984,140305,Lambayeque,Costa Norte,Área de Empadronamiento Rural (AER) Simple
+985,140301,Lambayeque,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+986,150502,Lima,Costa Centro,"De 2,000 a 19,999 habitantes"
+987,150714,Lima,Costa Centro,"De 2,000 a 19,999 habitantes"
+988,150204,Lima,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+989,150806,Lima,Costa Centro,Área de Empadronamiento Rural (AER) Simple
+990,150902,Lima,Sierra Centro,"De 500 a 1,999 habitantes"
+991,160703,Loreto,Selva,"De 2,000 a 19,999 habitantes"
+992,160106,Loreto,Selva,"De 2,000 a 19,999 habitantes"
+993,160706,Loreto,Selva,Área de Empadronamiento Rural (AER) Compuesto
+994,160104,Loreto,Selva,Área de Empadronamiento Rural (AER) Simple
+995,160108,Loreto,Selva,Área de Empadronamiento Rural (AER) Compuesto
+996,160305,Loreto,Selva,Área de Empadronamiento Rural (AER) Compuesto
+997,160202,Loreto,Selva,Área de Empadronamiento Rural (AER) Compuesto
+998,170104,Madre de Dios,Selva,"De 2,000 a 19,999 habitantes"
+999,170303,Madre de Dios,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1000,180207,Moquegua,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1001,180102,Moquegua,Sierra Sur,"De 500 a 1,999 habitantes"
+1002,190201,Pasco,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1003,190110,Pasco,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1004,190302,Pasco,Selva,Área de Empadronamiento Rural (AER) Simple
+1005,200607,Piura,Costa Norte,"De 20,000 a 49,999 habitantes"
+1006,200706,Piura,Costa Norte,"De 2,000 a 19,999 habitantes"
+1007,200111,Piura,Costa Norte,"De 2,000 a 19,999 habitantes"
+1008,200308,Piura,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1009,200303,Piura,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1010,211103,Puno,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1011,210806,Puno,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1012,210106,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1013,210104,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1014,210105,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1015,210401,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1016,210204,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1017,220301,San Martín,Selva,"De 2,000 a 19,999 habitantes"
+1018,220303,San Martín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1019,220503,San Martín,Selva,Área de Empadronamiento Rural (AER) Simple
+1020,220301,San Martín,Selva,Área de Empadronamiento Rural (AER) Simple
+1021,220701,San Martín,Selva,"De 2,000 a 19,999 habitantes"
+1022,220203,San Martín,Selva,"De 2,000 a 19,999 habitantes"
+1023,220911,San Martín,Selva,"De 500 a 1,999 habitantes"
+1024,230301,Tacna,Costa Sur,"De 500 a 1,999 habitantes"
+1025,230302,Tacna,Costa Sur,Área de Empadronamiento Rural (AER) Simple
+1026,240106,Tumbes,Costa Norte,"De 2,000 a 19,999 habitantes"
+1027,240104,Tumbes,Costa Norte,"De 2,000 a 19,999 habitantes"
+1028,250301,Ucayali,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1029,250201,Ucayali,Selva,Área de Empadronamiento Rural (AER) Simple
+1030,051004,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1031,240302,Tumbes,Costa Norte,Área de Empadronamiento Rural (AER) Simple
+1032,150901,Lima,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1033,150604,Lima,Costa Centro,Área de Empadronamiento Rural (AER) Simple
+1034,150404,Lima,Sierra Centro,"De 500 a 1,999 habitantes"
+1035,180210,Moquegua,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1036,010502,Amazonas,Selva,"De 2,000 a 19,999 habitantes"
+1037,010520,Amazonas,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1038,010507,Amazonas,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1039,010701,Amazonas,Selva,Área de Empadronamiento Rural (AER) Simple
+1040,010604,Amazonas,Selva,"De 500 a 1,999 habitantes"
+1041,010703,Amazonas,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1042,010704,Amazonas,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1043,010403,Amazonas,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1044,021509,Áncash,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1045,021104,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1046,020601,Áncash,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1047,020205,Áncash,Sierra Centro,"De 500 a 1,999 habitantes"
+1048,020701,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1049,020606,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1050,021909,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1051,021707,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1052,030215,Apurímac,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1053,030204,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1054,030101,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1055,030703,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1056,030109,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1057,030609,Apurímac,Sierra Sur,"De 500 a 1,999 habitantes"
+1058,030108,Apurímac,Sierra Sur,"De 500 a 1,999 habitantes"
+1059,040123,Arequipa,Sierra Sur,"De 500,000 a más habitantes"
+1060,040307,Arequipa,Costa Sur,"De 2,000 a 19,999 habitantes"
+1061,040312,Arequipa,Costa Sur,"De 500 a 1,999 habitantes"
+1062,040511,Arequipa,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1063,040306,Arequipa,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1064,050105,Ayacucho,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1065,050301,Ayacucho,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1066,050401,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1067,050402,Ayacucho,Sierra Centro,"De 500 a 1,999 habitantes"
+1068,050102,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1069,050403,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1070,050114,Ayacucho,Sierra Centro,"De 500 a 1,999 habitantes"
+1071,050403,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1072,050409,Ayacucho,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1073,061001,Cajamarca,Sierra Norte,"De 2,000 a 19,999 habitantes"
+1074,060903,Cajamarca,Selva,"De 2,000 a 19,999 habitantes"
+1075,060407,Cajamarca,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1076,061110,Cajamarca,Costa Norte,Área de Empadronamiento Rural (AER) Simple
+1077,060601,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1078,061105,Cajamarca,Sierra Norte,"De 500 a 1,999 habitantes"
+1079,060304,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1080,061310,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1081,060610,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1082,060602,Cajamarca,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1083,060802,Cajamarca,Selva,Área de Empadronamiento Rural (AER) Simple
+1084,081210,Cusco,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1085,080901,Cusco,Selva,"De 2,000 a 19,999 habitantes"
+1086,080604,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1087,080608,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1088,080306,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1089,080807,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1090,080801,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1091,080802,Cusco,Sierra Sur,"De 500 a 1,999 habitantes"
+1092,081209,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1093,090103,Huancavelica,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1094,090301,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1095,090705,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1096,090710,Huancavelica,Sierra Centro,"De 500 a 1,999 habitantes"
+1097,090711,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1098,090207,Huancavelica,Sierra Centro,"De 500 a 1,999 habitantes"
+1099,090103,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1100,090704,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1101,090503,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1102,100103,Huánuco,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1103,100901,Huánuco,Selva,"De 2,000 a 19,999 habitantes"
+1104,100608,Huánuco,Selva,"De 50,000 a 99,999 habitantes"
+1105,100105,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1106,101104,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1107,101001,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1108,101005,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1109,100609,Huánuco,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1110,100902,Huánuco,Selva,Área de Empadronamiento Rural (AER) Simple
+1111,100901,Huánuco,Selva,Área de Empadronamiento Rural (AER) Simple
+1112,100101,Huánuco,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1113,110104,Ica,Costa Centro,"De 2,000 a 19,999 habitantes"
+1114,110111,Ica,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+1115,120129,Junín,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1116,120501,Junín,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1117,120422,Junín,Sierra Centro,"De 500 a 1,999 habitantes"
+1118,120101,Junín,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1119,120205,Junín,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1120,120708,Junín,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1121,120302,Junín,Selva,Área de Empadronamiento Rural (AER) Simple
+1122,130109,La Libertad,Costa Norte,"De 2,000 a 19,999 habitantes"
+1123,130803,La Libertad,Sierra Norte,"De 2,000 a 19,999 habitantes"
+1124,130901,La Libertad,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1125,130802,La Libertad,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1126,130501,La Libertad,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1127,130504,La Libertad,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1128,140103,Lambayeque,Costa Norte,"De 2,000 a 19,999 habitantes"
+1129,140306,Lambayeque,Costa Norte,"De 2,000 a 19,999 habitantes"
+1130,140104,Lambayeque,Costa Norte,"De 2,000 a 19,999 habitantes"
+1131,140310,Lambayeque,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1132,140305,Lambayeque,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1133,150515,Lima,Costa Centro,"De 2,000 a 19,999 habitantes"
+1134,150604,Lima,Costa Centro,"De 2,000 a 19,999 habitantes"
+1135,150407,Lima,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+1136,151007,Lima,Sierra Centro,"De 500 a 1,999 habitantes"
+1137,150301,Lima,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1138,160104,Loreto,Selva,"De 2,000 a 19,999 habitantes"
+1139,160113,Loreto,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1140,160303,Loreto,Selva,"De 500 a 1,999 habitantes"
+1141,160104,Loreto,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1142,160601,Loreto,Selva,Área de Empadronamiento Rural (AER) Simple
+1143,170201,Madre de Dios,Selva,"De 500 a 1,999 habitantes"
+1144,180105,Moquegua,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1145,180102,Moquegua,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1146,180207,Moquegua,Sierra Sur,"De 500 a 1,999 habitantes"
+1147,190308,Pasco,Selva,"De 2,000 a 19,999 habitantes"
+1148,190204,Pasco,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1149,190106,Pasco,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1150,190206,Pasco,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1151,200506,Piura,Costa Norte,"De 2,000 a 19,999 habitantes"
+1152,200602,Piura,Costa Norte,"De 100,000 a 499,999 habitantes"
+1153,200306,Piura,Costa Norte,"De 2,000 a 19,999 habitantes"
+1154,200405,Piura,Costa Norte,"De 2,000 a 19,999 habitantes"
+1155,200803,Piura,Costa Norte,"De 2,000 a 19,999 habitantes"
+1156,200202,Piura,Costa Norte,Área de Empadronamiento Rural (AER) Simple
+1157,200101,Piura,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1158,200408,Piura,Costa Norte,Área de Empadronamiento Rural (AER) Simple
+1159,210402,Puno,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1160,210406,Puno,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1161,211301,Puno,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1162,210503,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1163,210503,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1164,210805,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1165,210212,Puno,Sierra Sur,"De 500 a 1,999 habitantes"
+1166,210203,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1167,211101,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1168,220809,San Martín,Selva,"De 2,000 a 19,999 habitantes"
+1169,220502,San Martín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1170,220806,San Martín,Selva,"De 500 a 1,999 habitantes"
+1171,220105,San Martín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1172,220603,San Martín,Selva,"De 2,000 a 19,999 habitantes"
+1173,220707,San Martín,Selva,"De 2,000 a 19,999 habitantes"
+1174,220202,San Martín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1175,221005,San Martín,Selva,Área de Empadronamiento Rural (AER) Simple
+1176,230105,Tacna,Costa Sur,Área de Empadronamiento Rural (AER) Compuesto
+1177,230201,Tacna,Sierra Sur,"De 500 a 1,999 habitantes"
+1178,240304,Tumbes,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1179,250202,Ucayali,Selva,"De 2,000 a 19,999 habitantes"
+1180,250303,Ucayali,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1181,250101,Ucayali,Selva,Área de Empadronamiento Rural (AER) Simple
+1182,160103,Loreto,Selva,Área de Empadronamiento Rural (AER) Simple
+1183,020302,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1184,151031,Lima,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1185,170101,Madre de Dios,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1186,150501,Lima,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+1187,010117,Amazonas,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1188,010521,Amazonas,Sierra Norte,"De 500 a 1,999 habitantes"
+1189,010506,Amazonas,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1190,010704,Amazonas,Selva,Área de Empadronamiento Rural (AER) Simple
+1191,010602,Amazonas,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1192,010512,Amazonas,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1193,021801,Áncash,Costa Centro,Área de Empadronamiento Rural (AER) Simple
+1194,022005,Áncash,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+1195,020604,Áncash,Sierra Centro,"De 500 a 1,999 habitantes"
+1196,022008,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1197,020509,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1198,021301,Áncash,Sierra Centro,"De 500 a 1,999 habitantes"
+1199,030702,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1200,030415,Apurímac,Sierra Sur,"De 500 a 1,999 habitantes"
+1201,030104,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1202,030301,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1203,040702,Arequipa,Costa Sur,"De 2,000 a 19,999 habitantes"
+1204,040409,Arequipa,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1205,040108,Arequipa,Costa Sur,Área de Empadronamiento Rural (AER) Compuesto
+1206,040603,Arequipa,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1207,040504,Arequipa,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1208,050201,Ayacucho,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1209,051101,Ayacucho,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1210,050601,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1211,050107,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1212,050101,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1213,050104,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1214,050613,Ayacucho,Sierra Centro,"De 500 a 1,999 habitantes"
+1215,050803,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1216,050805,Ayacucho,Sierra Centro,"De 500 a 1,999 habitantes"
+1217,050206,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1218,061101,Cajamarca,Sierra Norte,"De 2,000 a 19,999 habitantes"
+1219,060901,Cajamarca,Selva,"De 2,000 a 19,999 habitantes"
+1220,060109,Cajamarca,Costa Norte,Área de Empadronamiento Rural (AER) Simple
+1221,060310,Cajamarca,Sierra Norte,"De 500 a 1,999 habitantes"
+1222,060103,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1223,060409,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1224,060203,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1225,060411,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1226,060802,Cajamarca,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1227,060906,Cajamarca,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1228,060607,Cajamarca,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1229,081306,Cusco,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1230,080604,Cusco,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1231,080301,Cusco,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1232,080910,Cusco,Selva,"De 2,000 a 19,999 habitantes"
+1233,080701,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1234,080602,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1235,080604,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1236,080906,Cusco,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1237,090723,Huancavelica,Sierra Centro,"De 500 a 1,999 habitantes"
+1238,090119,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1239,090401,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1240,090407,Huancavelica,Sierra Centro,"De 500 a 1,999 habitantes"
+1241,090310,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1242,090107,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1243,090606,Huancavelica,Sierra Centro,"De 500 a 1,999 habitantes"
+1244,090306,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1245,100902,Huánuco,Selva,"De 2,000 a 19,999 habitantes"
+1246,100605,Huánuco,Selva,"De 2,000 a 19,999 habitantes"
+1247,100105,Huánuco,Sierra Centro,"De 500 a 1,999 habitantes"
+1248,100510,Huánuco,Sierra Centro,"De 500 a 1,999 habitantes"
+1249,101005,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1250,100313,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1251,101101,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1252,100607,Huánuco,Selva,Área de Empadronamiento Rural (AER) Simple
+1253,110508,Ica,Costa Centro,"De 100,000 a 499,999 habitantes"
+1254,110107,Ica,Costa Centro,"De 2,000 a 19,999 habitantes"
+1255,110503,Ica,Costa Centro,Área de Empadronamiento Rural (AER) Simple
+1256,110303,Ica,Costa Centro,"De 500 a 1,999 habitantes"
+1257,120430,Junín,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1258,120702,Junín,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1259,120121,Junín,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1260,120431,Junín,Sierra Centro,"De 500 a 1,999 habitantes"
+1261,120606,Junín,Selva,Área de Empadronamiento Rural (AER) Simple
+1262,120305,Junín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1263,130611,La Libertad,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1264,130903,La Libertad,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1265,130602,La Libertad,Sierra Norte,"De 500 a 1,999 habitantes"
+1266,140204,Lambayeque,Costa Norte,Área de Empadronamiento Rural (AER) Simple
+1267,140118,Lambayeque,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1268,140202,Lambayeque,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1269,150811,Lima,Costa Centro,"De 2,000 a 19,999 habitantes"
+1270,150803,Lima,Costa Centro,"De 100,000 a 499,999 habitantes"
+1271,151001,Lima,Sierra Centro,"De 500 a 1,999 habitantes"
+1272,160105,Loreto,Selva,"De 2,000 a 19,999 habitantes"
+1273,160605,Loreto,Selva,"De 2,000 a 19,999 habitantes"
+1274,160706,Loreto,Selva,"De 500 a 1,999 habitantes"
+1275,160110,Loreto,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1276,160303,Loreto,Selva,Área de Empadronamiento Rural (AER) Simple
+1277,160803,Loreto,Selva,Área de Empadronamiento Rural (AER) Simple
+1278,160401,Loreto,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1279,160305,Loreto,Selva,Área de Empadronamiento Rural (AER) Simple
+1280,170204,Madre de Dios,Selva,Área de Empadronamiento Rural (AER) Simple
+1281,170102,Madre de Dios,Selva,Área de Empadronamiento Rural (AER) Simple
+1282,180104,Moquegua,Costa Sur,Área de Empadronamiento Rural (AER) Simple
+1283,190105,Pasco,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1284,190107,Pasco,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1285,190202,Pasco,Sierra Centro,"De 500 a 1,999 habitantes"
+1286,190113,Pasco,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1287,190301,Pasco,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1288,200404,Piura,Costa Norte,"De 2,000 a 19,999 habitantes"
+1289,200201,Piura,Sierra Norte,"De 2,000 a 19,999 habitantes"
+1290,200202,Piura,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1291,200302,Piura,Costa Norte,Área de Empadronamiento Rural (AER) Simple
+1292,200805,Piura,Costa Norte,Área de Empadronamiento Rural (AER) Simple
+1293,210403,Puno,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1294,210301,Puno,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1295,210503,Puno,Sierra Sur,"De 500 a 1,999 habitantes"
+1296,210701,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1297,210301,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1298,210407,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1299,210709,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1300,211303,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1301,220304,San Martín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1302,220305,San Martín,Selva,"De 500 a 1,999 habitantes"
+1303,221001,San Martín,Selva,"De 2,000 a 19,999 habitantes"
+1304,220602,San Martín,Selva,Área de Empadronamiento Rural (AER) Simple
+1305,220912,San Martín,Selva,"De 500 a 1,999 habitantes"
+1306,220205,San Martín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1307,230103,Tacna,Costa Sur,Área de Empadronamiento Rural (AER) Compuesto
+1308,240303,Tumbes,Costa Norte,"De 2,000 a 19,999 habitantes"
+1309,240202,Tumbes,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1310,250305,Ucayali,Selva,"De 2,000 a 19,999 habitantes"
+1311,250102,Ucayali,Selva,Área de Empadronamiento Rural (AER) Simple
+1312,250204,Ucayali,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1313,040125,Arequipa,Costa Sur,"De 500 a 1,999 habitantes"
+1314,150715,Lima,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1315,220404,San Martín,Selva,Área de Empadronamiento Rural (AER) Simple
+1316,030302,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1317,250401,Ucayali,Selva,"De 500 a 1,999 habitantes"
+1318,150601,Lima,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+1319,120434,Junín,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1320,010306,Amazonas,Sierra Norte,"De 2,000 a 19,999 habitantes"
+1321,010120,Amazonas,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1322,010706,Amazonas,Selva,Área de Empadronamiento Rural (AER) Simple
+1323,010301,Amazonas,Selva,"De 500 a 1,999 habitantes"
+1324,010402,Amazonas,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1325,010202,Amazonas,Selva,Área de Empadronamiento Rural (AER) Simple
+1326,021802,Áncash,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+1327,021501,Áncash,Sierra Centro,"De 500 a 1,999 habitantes"
+1328,020702,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1329,020601,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1330,020504,Áncash,Sierra Centro,"De 500 a 1,999 habitantes"
+1331,020511,Áncash,Sierra Centro,"De 500 a 1,999 habitantes"
+1332,022002,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1333,021206,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1334,030216,Apurímac,Sierra Sur,"De 50,000 a 99,999 habitantes"
+1335,030604,Apurímac,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1336,030406,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1337,030108,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1338,030404,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1339,030209,Apurímac,Sierra Sur,"De 500 a 1,999 habitantes"
+1340,030209,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1341,030603,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1342,040303,Arequipa,Costa Sur,"De 2,000 a 19,999 habitantes"
+1343,040801,Arequipa,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1344,040501,Arequipa,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1345,040807,Arequipa,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1346,050108,Ayacucho,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1347,051005,Ayacucho,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1348,050505,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1349,050701,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1350,050405,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1351,050508,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1352,050403,Ayacucho,Sierra Centro,"De 500 a 1,999 habitantes"
+1353,050616,Ayacucho,Sierra Centro,"De 500 a 1,999 habitantes"
+1354,050612,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1355,061301,Cajamarca,Sierra Norte,"De 2,000 a 19,999 habitantes"
+1356,061201,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1357,061006,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1358,060419,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1359,060107,Cajamarca,Sierra Norte,"De 500 a 1,999 habitantes"
+1360,060805,Cajamarca,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1361,060903,Cajamarca,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1362,080907,Cusco,Selva,"De 2,000 a 19,999 habitantes"
+1363,080308,Cusco,Sierra Sur,"De 500 a 1,999 habitantes"
+1364,081103,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1365,081205,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1366,081302,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1367,080408,Cusco,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1368,080910,Cusco,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1369,080905,Cusco,Selva,Área de Empadronamiento Rural (AER) Simple
+1370,090409,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1371,090501,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1372,090501,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1373,090101,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1374,090510,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1375,090401,Huancavelica,Sierra Centro,"De 500 a 1,999 habitantes"
+1376,100317,Huánuco,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1377,100313,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1378,100201,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1379,100503,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1380,100701,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1381,101105,Huánuco,Sierra Centro,"De 500 a 1,999 habitantes"
+1382,100602,Huánuco,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1383,100901,Huánuco,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1384,110505,Ica,Costa Centro,"De 2,000 a 19,999 habitantes"
+1385,110204,Ica,Costa Centro,Área de Empadronamiento Rural (AER) Simple
+1386,110503,Ica,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+1387,120213,Junín,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1388,120607,Junín,Selva,"De 2,000 a 19,999 habitantes"
+1389,120701,Junín,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1390,120411,Junín,Sierra Centro,"De 500 a 1,999 habitantes"
+1391,120607,Junín,Selva,Área de Empadronamiento Rural (AER) Simple
+1392,120608,Junín,Selva,Área de Empadronamiento Rural (AER) Simple
+1393,120604,Junín,Selva,Área de Empadronamiento Rural (AER) Simple
+1394,130203,La Libertad,Costa Norte,"De 2,000 a 19,999 habitantes"
+1395,130202,La Libertad,Costa Norte,"De 2,000 a 19,999 habitantes"
+1396,130107,La Libertad,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1397,130206,La Libertad,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1398,130808,La Libertad,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1399,131001,La Libertad,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1400,140312,Lambayeque,Costa Norte,"De 2,000 a 19,999 habitantes"
+1401,140110,Lambayeque,Costa Norte,"De 2,000 a 19,999 habitantes"
+1402,140304,Lambayeque,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1403,140107,Lambayeque,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1404,150509,Lima,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+1405,150811,Lima,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+1406,150906,Lima,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1407,150606,Lima,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1408,150607,Lima,Sierra Centro,"De 500 a 1,999 habitantes"
+1409,160305,Loreto,Selva,"De 2,000 a 19,999 habitantes"
+1410,160606,Loreto,Selva,"De 2,000 a 19,999 habitantes"
+1411,160107,Loreto,Selva,Área de Empadronamiento Rural (AER) Simple
+1412,160108,Loreto,Selva,Área de Empadronamiento Rural (AER) Simple
+1413,160102,Loreto,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1414,160105,Loreto,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1415,170204,Madre de Dios,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1416,180203,Moquegua,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1417,190106,Pasco,Sierra Centro,"De 500 a 1,999 habitantes"
+1418,190307,Pasco,Selva,Área de Empadronamiento Rural (AER) Simple
+1419,190307,Pasco,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1420,190304,Pasco,Selva,Área de Empadronamiento Rural (AER) Simple
+1421,200505,Piura,Costa Norte,"De 2,000 a 19,999 habitantes"
+1422,200304,Piura,Sierra Norte,"De 2,000 a 19,999 habitantes"
+1423,200401,Piura,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1424,200403,Piura,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1425,200206,Piura,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1426,210809,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1427,210401,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1428,210105,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1429,211307,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1430,211210,Puno,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1431,220502,San Martín,Selva,"De 2,000 a 19,999 habitantes"
+1432,220510,San Martín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1433,220202,San Martín,Selva,"De 2,000 a 19,999 habitantes"
+1434,220909,San Martín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1435,230206,Tacna,Sierra Sur,"De 500 a 1,999 habitantes"
+1436,240203,Tumbes,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1437,250106,Ucayali,Selva,"De 2,000 a 19,999 habitantes"
+1438,250107,Ucayali,Selva,Área de Empadronamiento Rural (AER) Simple
+1439,250401,Ucayali,Selva,Área de Empadronamiento Rural (AER) Simple
+1440,250106,Ucayali,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1441,220802,San Martín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1442,170201,Madre de Dios,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1443,040705,Arequipa,Costa Sur,"De 500 a 1,999 habitantes"
+1444,160304,Loreto,Selva,Área de Empadronamiento Rural (AER) Simple
+1445,010609,Amazonas,Selva,Área de Empadronamiento Rural (AER) Simple
+1446,150508,Lima,Costa Centro,"De 2,000 a 19,999 habitantes"
+1447,151032,Lima,Sierra Centro,"De 500 a 1,999 habitantes"
+1448,090306,Huancavelica,Sierra Centro,"De 500 a 1,999 habitantes"
+1449,120105,Junín,Sierra Centro,"De 500 a 1,999 habitantes"
+1450,010312,Amazonas,Selva,"De 2,000 a 19,999 habitantes"
+1451,010306,Amazonas,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1452,010515,Amazonas,Sierra Norte,"De 500 a 1,999 habitantes"
+1453,010506,Amazonas,Sierra Norte,"De 500 a 1,999 habitantes"
+1454,010114,Amazonas,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1455,010703,Amazonas,Selva,Área de Empadronamiento Rural (AER) Simple
+1456,021805,Áncash,Costa Centro,"De 2,000 a 19,999 habitantes"
+1457,022003,Áncash,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1458,021001,Áncash,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1459,020202,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1460,021906,Áncash,Sierra Centro,"De 500 a 1,999 habitantes"
+1461,021205,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1462,021004,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1463,021908,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1464,030204,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1465,030416,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1466,030606,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1467,030206,Apurímac,Sierra Sur,"De 500 a 1,999 habitantes"
+1468,030202,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1469,030301,Apurímac,Sierra Sur,"De 500 a 1,999 habitantes"
+1470,030605,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1471,040206,Arequipa,Costa Sur,Área de Empadronamiento Rural (AER) Compuesto
+1472,040517,Arequipa,Sierra Sur,"De 500 a 1,999 habitantes"
+1473,040406,Arequipa,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1474,050507,Ayacucho,Selva,"De 2,000 a 19,999 habitantes"
+1475,051005,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1476,050103,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1477,051101,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1478,050606,Ayacucho,Sierra Centro,"De 500 a 1,999 habitantes"
+1479,050301,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1480,050702,Ayacucho,Sierra Centro,"De 500 a 1,999 habitantes"
+1481,060411,Cajamarca,Sierra Norte,"De 2,000 a 19,999 habitantes"
+1482,060418,Cajamarca,Costa Norte,"De 500 a 1,999 habitantes"
+1483,061111,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1484,060402,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1485,060902,Cajamarca,Selva,Área de Empadronamiento Rural (AER) Simple
+1486,060801,Cajamarca,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1487,060803,Cajamarca,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1488,080701,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1489,080505,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1490,081210,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1491,081002,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1492,081008,Cusco,Sierra Sur,"De 500 a 1,999 habitantes"
+1493,080909,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1494,080901,Cusco,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1495,090117,Huancavelica,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1496,090701,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1497,090613,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1498,090202,Huancavelica,Sierra Centro,"De 500 a 1,999 habitantes"
+1499,090714,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1500,090717,Huancavelica,Sierra Centro,"De 500 a 1,999 habitantes"
+1501,090604,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1502,100803,Huánuco,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1503,100207,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1504,100404,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1505,101107,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1506,100208,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1507,101106,Huánuco,Sierra Centro,"De 500 a 1,999 habitantes"
+1508,100801,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1509,110105,Ica,Costa Centro,"De 2,000 a 19,999 habitantes"
+1510,110102,Ica,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+1511,110106,Ica,Costa Centro,Área de Empadronamiento Rural (AER) Simple
+1512,120428,Junín,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1513,120805,Junín,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1514,120708,Junín,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1515,120210,Junín,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1516,120208,Junín,Sierra Centro,"De 500 a 1,999 habitantes"
+1517,120204,Junín,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1518,120602,Junín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1519,130701,La Libertad,Costa Norte,"De 2,000 a 19,999 habitantes"
+1520,130303,La Libertad,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1521,131007,La Libertad,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1522,130904,La Libertad,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1523,140116,Lambayeque,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1524,140203,Lambayeque,Sierra Norte,"De 500 a 1,999 habitantes"
+1525,150701,Lima,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1526,150810,Lima,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+1527,150602,Lima,Sierra Centro,"De 500 a 1,999 habitantes"
+1528,151020,Lima,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1529,160601,Loreto,Selva,"De 2,000 a 19,999 habitantes"
+1530,160201,Loreto,Selva,Área de Empadronamiento Rural (AER) Simple
+1531,160201,Loreto,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1532,160605,Loreto,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1533,160706,Loreto,Selva,Área de Empadronamiento Rural (AER) Simple
+1534,180202,Moquegua,Sierra Sur,"De 500 a 1,999 habitantes"
+1535,190208,Pasco,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1536,190308,Pasco,Selva,Área de Empadronamiento Rural (AER) Simple
+1537,190305,Pasco,Selva,Área de Empadronamiento Rural (AER) Simple
+1538,200608,Piura,Costa Norte,"De 2,000 a 19,999 habitantes"
+1539,200108,Piura,Costa Norte,"De 2,000 a 19,999 habitantes"
+1540,200208,Piura,Costa Norte,"De 500 a 1,999 habitantes"
+1541,200114,Piura,Costa Norte,Área de Empadronamiento Rural (AER) Simple
+1542,200403,Piura,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1543,210306,Puno,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1544,210201,Puno,Sierra Sur,"De 20,000 a 49,999 habitantes"
+1545,211104,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1546,210112,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1547,211203,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1548,210702,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1549,210405,Puno,Sierra Sur,"De 500 a 1,999 habitantes"
+1550,220506,San Martín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1551,220405,San Martín,Selva,"De 500 a 1,999 habitantes"
+1552,221005,San Martín,Selva,"De 2,000 a 19,999 habitantes"
+1553,220913,San Martín,Selva,"De 2,000 a 19,999 habitantes"
+1554,220708,San Martín,Selva,"De 2,000 a 19,999 habitantes"
+1555,220710,San Martín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1556,221001,San Martín,Selva,Área de Empadronamiento Rural (AER) Simple
+1557,220707,San Martín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1558,230301,Tacna,Costa Sur,Área de Empadronamiento Rural (AER) Compuesto
+1559,230303,Tacna,Costa Sur,"De 500 a 1,999 habitantes"
+1560,230108,Tacna,Costa Sur,Área de Empadronamiento Rural (AER) Compuesto
+1561,240201,Tumbes,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1562,250203,Ucayali,Selva,Área de Empadronamiento Rural (AER) Simple
+1563,250203,Ucayali,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1564,050304,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1565,170202,Madre de Dios,Selva,Área de Empadronamiento Rural (AER) Simple
+1566,150129,Lima,Lima Metropolitana,"De 500,000 a más habitantes"
+1567,010203,Amazonas,Selva,"De 2,000 a 19,999 habitantes"
+1568,010202,Amazonas,Selva,"De 2,000 a 19,999 habitantes"
+1569,010608,Amazonas,Selva,Área de Empadronamiento Rural (AER) Simple
+1570,010705,Amazonas,Selva,"De 500 a 1,999 habitantes"
+1571,010705,Amazonas,Selva,Área de Empadronamiento Rural (AER) Simple
+1572,010702,Amazonas,Selva,Área de Empadronamiento Rural (AER) Simple
+1573,021806,Áncash,Costa Centro,"De 2,000 a 19,999 habitantes"
+1574,021103,Áncash,Costa Centro,"De 500 a 1,999 habitantes"
+1575,020701,Áncash,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1576,021008,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1577,020105,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1578,021007,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1579,022001,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1580,021005,Áncash,Sierra Centro,"De 500 a 1,999 habitantes"
+1581,030204,Apurímac,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1582,030604,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1583,030306,Apurímac,Sierra Sur,"De 500 a 1,999 habitantes"
+1584,030707,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1585,030503,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1586,040706,Arequipa,Costa Sur,"De 2,000 a 19,999 habitantes"
+1587,040309,Arequipa,Costa Sur,Área de Empadronamiento Rural (AER) Compuesto
+1588,040312,Arequipa,Costa Sur,Área de Empadronamiento Rural (AER) Compuesto
+1589,040106,Arequipa,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1590,040802,Arequipa,Sierra Sur,"De 500 a 1,999 habitantes"
+1591,050509,Ayacucho,Selva,"De 2,000 a 19,999 habitantes"
+1592,050407,Ayacucho,Selva,"De 2,000 a 19,999 habitantes"
+1593,051106,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1594,051004,Ayacucho,Sierra Centro,"De 500 a 1,999 habitantes"
+1595,050205,Ayacucho,Sierra Centro,"De 500 a 1,999 habitantes"
+1596,050202,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1597,050103,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1598,060904,Cajamarca,Selva,"De 2,000 a 19,999 habitantes"
+1599,060308,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1600,060203,Cajamarca,Sierra Norte,"De 500 a 1,999 habitantes"
+1601,060102,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1602,060303,Cajamarca,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1603,060812,Cajamarca,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1604,060907,Cajamarca,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1605,060606,Cajamarca,Selva,Área de Empadronamiento Rural (AER) Simple
+1606,081101,Cusco,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1607,080805,Cusco,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1608,080408,Cusco,Selva,"De 2,000 a 19,999 habitantes"
+1609,080307,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1610,080705,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1611,081305,Cusco,Sierra Sur,"De 500 a 1,999 habitantes"
+1612,081301,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1613,080403,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1614,080908,Cusco,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1615,090717,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1616,090509,Huancavelica,Sierra Centro,"De 500 a 1,999 habitantes"
+1617,090112,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1618,090715,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1619,090613,Huancavelica,Sierra Centro,"De 500 a 1,999 habitantes"
+1620,090118,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1621,100311,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1622,100205,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1623,100323,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1624,100323,Huánuco,Sierra Centro,"De 500 a 1,999 habitantes"
+1625,100113,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1626,100311,Huánuco,Sierra Centro,"De 500 a 1,999 habitantes"
+1627,100604,Huánuco,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1628,110211,Ica,Costa Centro,"De 2,000 a 19,999 habitantes"
+1629,110202,Ica,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+1630,110403,Ica,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+1631,110402,Ica,Costa Centro,"De 500 a 1,999 habitantes"
+1632,120201,Junín,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1633,120904,Junín,Sierra Centro,"De 500 a 1,999 habitantes"
+1634,120206,Junín,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1635,120706,Junín,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1636,120424,Junín,Sierra Centro,"De 500 a 1,999 habitantes"
+1637,120124,Junín,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1638,120902,Junín,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1639,120304,Junín,Selva,Área de Empadronamiento Rural (AER) Simple
+1640,130401,La Libertad,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1641,130107,La Libertad,Costa Norte,Área de Empadronamiento Rural (AER) Simple
+1642,130601,La Libertad,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1643,130809,La Libertad,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1644,150807,Lima,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1645,151030,Lima,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1646,150711,Lima,Sierra Centro,"De 500 a 1,999 habitantes"
+1647,160702,Loreto,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1648,160301,Loreto,Selva,Área de Empadronamiento Rural (AER) Simple
+1649,160602,Loreto,Selva,"De 500 a 1,999 habitantes"
+1650,160507,Loreto,Selva,Área de Empadronamiento Rural (AER) Simple
+1651,170301,Madre de Dios,Selva,"De 500 a 1,999 habitantes"
+1652,170303,Madre de Dios,Selva,Área de Empadronamiento Rural (AER) Simple
+1653,180201,Moquegua,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1654,180103,Moquegua,Sierra Sur,"De 500 a 1,999 habitantes"
+1655,190302,Pasco,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1656,200504,Piura,Costa Norte,"De 2,000 a 19,999 habitantes"
+1657,200507,Piura,Costa Norte,"De 2,000 a 19,999 habitantes"
+1658,200207,Piura,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1659,200302,Piura,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1660,200111,Piura,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1661,200206,Piura,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1662,210204,Puno,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1663,210601,Puno,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1664,210310,Puno,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1665,211301,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1666,210201,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1667,211003,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1668,210603,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1669,211002,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1670,210403,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1671,220404,San Martín,Selva,"De 2,000 a 19,999 habitantes"
+1672,220504,San Martín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1673,220301,San Martín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1674,220206,San Martín,Selva,"De 2,000 a 19,999 habitantes"
+1675,220708,San Martín,Selva,Área de Empadronamiento Rural (AER) Simple
+1676,221002,San Martín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1677,230111,Tacna,Costa Sur,"De 500 a 1,999 habitantes"
+1678,240103,Tumbes,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1679,250105,Ucayali,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1680,030601,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1681,250302,Ucayali,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1682,230402,Tacna,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1683,150603,Lima,Costa Centro,"De 500 a 1,999 habitantes"
+1684,190108,Pasco,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1685,090204,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1686,090720,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1687,010205,Amazonas,Selva,"De 2,000 a 19,999 habitantes"
+1688,010109,Amazonas,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1689,010115,Amazonas,Sierra Norte,"De 500 a 1,999 habitantes"
+1690,010312,Amazonas,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1691,010201,Amazonas,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1692,010601,Amazonas,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1693,010707,Amazonas,Selva,Área de Empadronamiento Rural (AER) Simple
+1694,021803,Áncash,Costa Centro,"De 100,000 a 499,999 habitantes"
+1695,020801,Áncash,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+1696,020901,Áncash,Sierra Centro,"De 500 a 1,999 habitantes"
+1697,020108,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1698,020105,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1699,021308,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1700,020703,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1701,020601,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1702,030107,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1703,030102,Apurímac,Sierra Sur,"De 500 a 1,999 habitantes"
+1704,030414,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1705,030502,Apurímac,Sierra Sur,"De 500 a 1,999 habitantes"
+1706,030207,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1707,040206,Arequipa,Costa Sur,"De 2,000 a 19,999 habitantes"
+1708,040203,Arequipa,Costa Sur,Área de Empadronamiento Rural (AER) Compuesto
+1709,040401,Arequipa,Costa Sur,Área de Empadronamiento Rural (AER) Compuesto
+1710,040519,Arequipa,Sierra Sur,"De 500 a 1,999 habitantes"
+1711,040608,Arequipa,Sierra Sur,"De 500 a 1,999 habitantes"
+1712,050408,Ayacucho,Selva,"De 2,000 a 19,999 habitantes"
+1713,050903,Ayacucho,Sierra Centro,"De 500 a 1,999 habitantes"
+1714,051002,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1715,050410,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1716,050606,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1717,061201,Cajamarca,Sierra Norte,"De 2,000 a 19,999 habitantes"
+1718,061309,Cajamarca,Sierra Norte,"De 500 a 1,999 habitantes"
+1719,060415,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1720,060202,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1721,060202,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1722,061113,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1723,060307,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1724,060607,Cajamarca,Selva,Área de Empadronamiento Rural (AER) Simple
+1725,080501,Cusco,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1726,080705,Cusco,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1727,081202,Cusco,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1728,081001,Cusco,Sierra Sur,"De 500 a 1,999 habitantes"
+1729,081101,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1730,080909,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1731,080503,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1732,081303,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1733,081106,Cusco,Selva,Área de Empadronamiento Rural (AER) Simple
+1734,090601,Huancavelica,Sierra Centro,"De 500 a 1,999 habitantes"
+1735,090504,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1736,090412,Huancavelica,Sierra Centro,"De 500 a 1,999 habitantes"
+1737,090402,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1738,090714,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1739,090603,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1740,090208,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1741,100401,Huánuco,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1742,101001,Huánuco,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1743,100401,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1744,100113,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1745,100323,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1746,101007,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1747,110504,Ica,Costa Centro,"De 2,000 a 19,999 habitantes"
+1748,110111,Ica,Costa Centro,Área de Empadronamiento Rural (AER) Simple
+1749,110209,Ica,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1750,120810,Junín,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1751,120210,Junín,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1752,120802,Junín,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1753,120403,Junín,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1754,120901,Junín,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1755,120502,Junín,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1756,120412,Junín,Sierra Centro,"De 500 a 1,999 habitantes"
+1757,130808,La Libertad,Sierra Norte,"De 2,000 a 19,999 habitantes"
+1758,131006,La Libertad,Sierra Norte,"De 2,000 a 19,999 habitantes"
+1759,130702,La Libertad,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1760,130801,La Libertad,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1761,130503,La Libertad,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1762,140119,Lambayeque,Costa Norte,"De 2,000 a 19,999 habitantes"
+1763,140107,Lambayeque,Costa Norte,"De 2,000 a 19,999 habitantes"
+1764,140106,Lambayeque,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1765,140203,Lambayeque,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1766,150138,Lima,Lima Metropolitana,"De 500,000 a más habitantes"
+1767,150723,Lima,Sierra Centro,"De 500 a 1,999 habitantes"
+1768,150304,Lima,Sierra Centro,"De 500 a 1,999 habitantes"
+1769,150403,Lima,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1770,160112,Loreto,Selva,Área de Empadronamiento Rural (AER) Simple
+1771,160802,Loreto,Selva,"De 500 a 1,999 habitantes"
+1772,160509,Loreto,Selva,Área de Empadronamiento Rural (AER) Simple
+1773,180211,Moquegua,Sierra Sur,"De 500 a 1,999 habitantes"
+1774,190303,Pasco,Selva,"De 2,000 a 19,999 habitantes"
+1775,190208,Pasco,Sierra Centro,"De 500 a 1,999 habitantes"
+1776,190303,Pasco,Selva,Área de Empadronamiento Rural (AER) Simple
+1777,200406,Piura,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1778,200607,Piura,Costa Norte,Área de Empadronamiento Rural (AER) Simple
+1779,200601,Piura,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1780,210305,Puno,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1781,210206,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1782,210608,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1783,210808,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1784,210214,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1785,211208,Puno,Selva,"De 500 a 1,999 habitantes"
+1786,220401,San Martín,Selva,"De 2,000 a 19,999 habitantes"
+1787,220802,San Martín,Selva,"De 2,000 a 19,999 habitantes"
+1788,220804,San Martín,Selva,Área de Empadronamiento Rural (AER) Simple
+1789,220104,San Martín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1790,220104,San Martín,Selva,Área de Empadronamiento Rural (AER) Simple
+1791,221001,San Martín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1792,230107,Tacna,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1793,230401,Tacna,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1794,230408,Tacna,Sierra Sur,"De 500 a 1,999 habitantes"
+1795,250303,Ucayali,Selva,Área de Empadronamiento Rural (AER) Simple
+1796,190107,Pasco,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1797,100202,Huánuco,Sierra Centro,"De 500 a 1,999 habitantes"
+1798,170203,Madre de Dios,Selva,Área de Empadronamiento Rural (AER) Simple
+1799,150724,Lima,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1800,010206,Amazonas,Selva,"De 2,000 a 19,999 habitantes"
+1801,010504,Amazonas,Sierra Norte,"De 500 a 1,999 habitantes"
+1802,010113,Amazonas,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1803,010607,Amazonas,Selva,"De 500 a 1,999 habitantes"
+1804,010604,Amazonas,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1805,010607,Amazonas,Selva,Área de Empadronamiento Rural (AER) Simple
+1806,020804,Áncash,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+1807,021909,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1808,021407,Áncash,Sierra Centro,"De 500 a 1,999 habitantes"
+1809,021302,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1810,020108,Áncash,Sierra Centro,"De 500 a 1,999 habitantes"
+1811,020605,Áncash,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1812,030215,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1813,030212,Apurímac,Sierra Sur,"De 500 a 1,999 habitantes"
+1814,030103,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1815,030605,Apurímac,Sierra Sur,"De 500 a 1,999 habitantes"
+1816,030415,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1817,030105,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1818,030708,Apurímac,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1819,040511,Arequipa,Sierra Sur,"De 500 a 1,999 habitantes"
+1820,050501,Ayacucho,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1821,050105,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1822,050303,Ayacucho,Sierra Centro,"De 500 a 1,999 habitantes"
+1823,050804,Ayacucho,Sierra Centro,"De 500 a 1,999 habitantes"
+1824,051108,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1825,050407,Ayacucho,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1826,061305,Cajamarca,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1827,060302,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1828,060507,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1829,061301,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1830,060604,Cajamarca,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1831,060604,Cajamarca,Selva,"De 500 a 1,999 habitantes"
+1832,081208,Cusco,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1833,080902,Cusco,Selva,"De 2,000 a 19,999 habitantes"
+1834,080805,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1835,081006,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1836,080206,Cusco,Sierra Sur,"De 500 a 1,999 habitantes"
+1837,080505,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1838,080301,Cusco,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1839,090206,Huancavelica,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1840,090105,Huancavelica,Sierra Centro,"De 500 a 1,999 habitantes"
+1841,090609,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1842,090118,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1843,090204,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1844,090711,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1845,090707,Huancavelica,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1846,100207,Huánuco,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1847,100802,Huánuco,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1848,100703,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1849,100803,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1850,100112,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1851,100104,Huánuco,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1852,100903,Huánuco,Selva,"De 500 a 1,999 habitantes"
+1853,110113,Ica,Costa Centro,"De 2,000 a 19,999 habitantes"
+1854,110104,Ica,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+1855,120212,Junín,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1856,120126,Junín,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1857,120702,Junín,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1858,120903,Junín,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1859,120135,Junín,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1860,120604,Junín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1861,120304,Junín,Selva,"De 500 a 1,999 habitantes"
+1862,130403,La Libertad,Costa Norte,"De 2,000 a 19,999 habitantes"
+1863,130908,La Libertad,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1864,130907,La Libertad,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1865,130502,La Libertad,Sierra Norte,"De 500 a 1,999 habitantes"
+1866,140206,Lambayeque,Costa Norte,"De 2,000 a 19,999 habitantes"
+1867,140112,Lambayeque,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1868,150728,Lima,Costa Centro,"De 2,000 a 19,999 habitantes"
+1869,150507,Lima,Costa Centro,Área de Empadronamiento Rural (AER) Simple
+1870,151023,Lima,Costa Centro,"De 500 a 1,999 habitantes"
+1871,150713,Lima,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1872,150302,Lima,Sierra Centro,"De 500 a 1,999 habitantes"
+1873,150802,Lima,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1874,160510,Loreto,Selva,"De 2,000 a 19,999 habitantes"
+1875,160801,Loreto,Selva,"De 2,000 a 19,999 habitantes"
+1876,160505,Loreto,Selva,Área de Empadronamiento Rural (AER) Simple
+1877,190103,Pasco,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1878,200208,Piura,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1879,200306,Piura,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1880,200304,Piura,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1881,200201,Piura,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1882,210102,Puno,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1883,210308,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1884,210111,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1885,210301,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1886,210707,Puno,Sierra Sur,"De 500 a 1,999 habitantes"
+1887,210307,Puno,Sierra Sur,"De 500 a 1,999 habitantes"
+1888,211204,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1889,211001,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1890,210106,Puno,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1891,220303,San Martín,Selva,"De 2,000 a 19,999 habitantes"
+1892,220805,San Martín,Selva,"De 2,000 a 19,999 habitantes"
+1893,220405,San Martín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1894,221003,San Martín,Selva,"De 2,000 a 19,999 habitantes"
+1895,220602,San Martín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1896,220907,San Martín,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1897,220703,San Martín,Selva,"De 500 a 1,999 habitantes"
+1898,230403,Tacna,Sierra Sur,"De 500 a 1,999 habitantes"
+1899,240202,Tumbes,Costa Norte,Área de Empadronamiento Rural (AER) Simple
+1900,040413,Arequipa,Costa Sur,Área de Empadronamiento Rural (AER) Simple
+1901,160404,Loreto,Selva,Área de Empadronamiento Rural (AER) Simple
+1902,140203,Lambayeque,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1903,010503,Amazonas,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1904,050615,Ayacucho,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1905,060601,Cajamarca,Sierra Norte,Área de Empadronamiento Rural (AER) Simple

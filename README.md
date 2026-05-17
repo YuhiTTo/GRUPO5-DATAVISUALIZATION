@@ -20,3 +20,6 @@ Incluye propuesta del proyecto, pregunta analítica, usuario objetivo, fuente, h
 
 ## Entrega 2
 Incluye notebook de perfilado y limpieza, dataset limpio, diccionario de datos y bitácora de transformaciones.
+
+## Entrega 3
+Arquitectura y Modelado de Datos para Tableau. Incluye un notebook de modelado reproducible, el rediseño de los datos en Esquema Estrella, un reporte de benchmarking matemático (Prueba de estrés de RAM y simulación de escalabilidad a 5 años) comparando 3 arquitecturas (Tabla Plana, Estrella y Copo de Nieve), y los archivos CSV optimizados para su carga nativa en Tableau.

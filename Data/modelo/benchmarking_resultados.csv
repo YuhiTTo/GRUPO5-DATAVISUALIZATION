@@ -1,0 +1,4 @@
+﻿Modelo,Memoria RAM (MB),Reduccion vs Base (%),Saltos de Join Topologicos,Memoria Proyectada 5 Años (MB)
+Tabla Plana (Base),12.14589786529541,0.0,0,60.72898578643799
+Esquema Estrella (Opcion 1),8.152534484863281,32.878288824100885,1,40.025733947753906
+Copo de Nieve (Opcion 2),8.139663696289062,32.984257017782106,2,40.01286315917969

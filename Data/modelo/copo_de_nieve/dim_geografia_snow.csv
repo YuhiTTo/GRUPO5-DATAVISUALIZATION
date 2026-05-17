@@ -1,0 +1,1906 @@
+﻿ID_GEOGRAFIA,UBIGEO,ID_DEP,DOMINIO,ESTRATO
+1,010101,1,Sierra Norte,"De 20,000 a 49,999 habitantes"
+2,010307,1,Selva,"De 2,000 a 19,999 habitantes"
+3,010701,1,Selva,"De 20,000 a 49,999 habitantes"
+4,010706,1,Selva,"De 2,000 a 19,999 habitantes"
+5,010201,1,Selva,"De 20,000 a 49,999 habitantes"
+6,010101,1,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+7,010521,1,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+8,010504,1,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+9,010501,1,Sierra Norte,"De 500 a 1,999 habitantes"
+10,010109,1,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+11,010401,1,Selva,Área de Empadronamiento Rural (AER) Compuesto
+12,010512,1,Selva,"De 500 a 1,999 habitantes"
+13,010702,1,Selva,Área de Empadronamiento Rural (AER) Compuesto
+14,021809,2,Costa Centro,"De 100,000 a 499,999 habitantes"
+15,021801,2,Costa Centro,"De 100,000 a 499,999 habitantes"
+16,021101,2,Costa Centro,"De 20,000 a 49,999 habitantes"
+17,021808,2,Costa Centro,"De 2,000 a 19,999 habitantes"
+18,021801,2,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+19,020105,2,Sierra Centro,"De 100,000 a 499,999 habitantes"
+20,022001,2,Sierra Centro,"De 2,000 a 19,999 habitantes"
+21,020702,2,Sierra Centro,"De 500 a 1,999 habitantes"
+22,020111,2,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+23,021307,2,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+24,021402,2,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+25,022001,2,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+26,021604,2,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+27,030101,3,Sierra Sur,"De 50,000 a 99,999 habitantes"
+28,030602,3,Sierra Sur,"De 2,000 a 19,999 habitantes"
+29,030401,3,Sierra Sur,"De 2,000 a 19,999 habitantes"
+30,030304,3,Sierra Sur,"De 500 a 1,999 habitantes"
+31,030503,3,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+32,030506,3,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+33,030604,3,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+34,030201,3,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+35,030203,3,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+36,030712,3,Sierra Sur,"De 500 a 1,999 habitantes"
+37,040129,4,Sierra Sur,"De 500,000 a más habitantes"
+38,040104,4,Sierra Sur,"De 500,000 a más habitantes"
+39,040122,4,Sierra Sur,"De 500,000 a más habitantes"
+40,040110,4,Sierra Sur,"De 500,000 a más habitantes"
+41,040112,4,Sierra Sur,"De 500,000 a más habitantes"
+42,040101,4,Sierra Sur,"De 500,000 a más habitantes"
+43,040103,4,Sierra Sur,"De 500,000 a más habitantes"
+44,040102,4,Sierra Sur,"De 500,000 a más habitantes"
+45,040121,4,Costa Sur,"De 2,000 a 19,999 habitantes"
+46,040401,4,Costa Sur,"De 2,000 a 19,999 habitantes"
+47,040305,4,Costa Sur,"De 2,000 a 19,999 habitantes"
+48,040128,4,Sierra Sur,"De 20,000 a 49,999 habitantes"
+49,040111,4,Sierra Sur,"De 2,000 a 19,999 habitantes"
+50,040105,4,Sierra Sur,"De 2,000 a 19,999 habitantes"
+51,040125,4,Costa Sur,Área de Empadronamiento Rural (AER) Compuesto
+52,040302,4,Costa Sur,Área de Empadronamiento Rural (AER) Simple
+53,040608,4,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+54,050115,5,Sierra Centro,"De 100,000 a 499,999 habitantes"
+55,050104,5,Sierra Centro,"De 100,000 a 499,999 habitantes"
+56,050110,5,Sierra Centro,"De 100,000 a 499,999 habitantes"
+57,050601,5,Sierra Centro,"De 2,000 a 19,999 habitantes"
+58,050701,5,Sierra Centro,"De 2,000 a 19,999 habitantes"
+59,050503,5,Selva,"De 2,000 a 19,999 habitantes"
+60,050908,5,Sierra Centro,"De 500 a 1,999 habitantes"
+61,050501,5,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+62,050202,5,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+63,050806,5,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+64,050510,5,Selva,Área de Empadronamiento Rural (AER) Compuesto
+65,060101,6,Sierra Norte,"De 100,000 a 499,999 habitantes"
+66,060108,6,Sierra Norte,"De 100,000 a 499,999 habitantes"
+67,060201,6,Sierra Norte,"De 2,000 a 19,999 habitantes"
+68,060801,6,Selva,"De 50,000 a 99,999 habitantes"
+69,060505,6,Costa Norte,"De 500 a 1,999 habitantes"
+70,060101,6,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+71,060107,6,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+72,060408,6,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+73,060401,6,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+74,061307,6,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+75,060309,6,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+76,060701,6,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+77,061007,6,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+78,060810,6,Selva,Área de Empadronamiento Rural (AER) Simple
+79,060614,6,Selva,Área de Empadronamiento Rural (AER) Compuesto
+80,070104,7,Lima Metropolitana,"De 500,000 a más habitantes"
+81,070101,7,Lima Metropolitana,"De 500,000 a más habitantes"
+82,070106,7,Lima Metropolitana,"De 500,000 a más habitantes"
+83,070102,7,Lima Metropolitana,"De 500,000 a más habitantes"
+84,080106,8,Sierra Sur,"De 100,000 a 499,999 habitantes"
+85,080101,8,Sierra Sur,"De 100,000 a 499,999 habitantes"
+86,080105,8,Sierra Sur,"De 100,000 a 499,999 habitantes"
+87,081302,8,Sierra Sur,"De 2,000 a 19,999 habitantes"
+88,080708,8,Sierra Sur,"De 2,000 a 19,999 habitantes"
+89,080205,8,Sierra Sur,"De 2,000 a 19,999 habitantes"
+90,080403,8,Sierra Sur,"De 2,000 a 19,999 habitantes"
+91,080703,8,Sierra Sur,"De 500 a 1,999 habitantes"
+92,080101,8,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+93,080302,8,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+94,081005,8,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+95,080901,8,Selva,Área de Empadronamiento Rural (AER) Simple
+96,080903,8,Selva,Área de Empadronamiento Rural (AER) Simple
+97,080913,8,Selva,Área de Empadronamiento Rural (AER) Compuesto
+98,090101,9,Sierra Centro,"De 20,000 a 49,999 habitantes"
+99,090706,9,Sierra Centro,"De 2,000 a 19,999 habitantes"
+100,090301,9,Sierra Centro,"De 2,000 a 19,999 habitantes"
+101,090203,9,Sierra Centro,"De 500 a 1,999 habitantes"
+102,090306,9,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+103,090113,9,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+104,090303,9,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+105,090506,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+106,090117,9,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+107,090402,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+108,090719,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+109,100111,10,Selva,"De 100,000 a 499,999 habitantes"
+110,100101,10,Selva,"De 100,000 a 499,999 habitantes"
+111,100104,10,Sierra Centro,"De 2,000 a 19,999 habitantes"
+112,100601,10,Selva,"De 50,000 a 99,999 habitantes"
+113,100606,10,Selva,"De 2,000 a 19,999 habitantes"
+114,100509,10,Sierra Centro,"De 500 a 1,999 habitantes"
+115,100804,10,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+116,100106,10,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+117,100511,10,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+118,101108,10,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+119,100101,10,Selva,Área de Empadronamiento Rural (AER) Simple
+120,100605,10,Selva,Área de Empadronamiento Rural (AER) Compuesto
+121,110101,11,Costa Centro,"De 100,000 a 499,999 habitantes"
+122,110106,11,Costa Centro,"De 100,000 a 499,999 habitantes"
+123,110501,11,Costa Centro,"De 100,000 a 499,999 habitantes"
+124,110206,11,Costa Centro,"De 20,000 a 49,999 habitantes"
+125,110207,11,Costa Centro,"De 100,000 a 499,999 habitantes"
+126,110305,11,Costa Centro,"De 20,000 a 49,999 habitantes"
+127,110201,11,Costa Centro,"De 100,000 a 499,999 habitantes"
+128,110109,11,Costa Centro,"De 2,000 a 19,999 habitantes"
+129,110506,11,Costa Centro,"De 100,000 a 499,999 habitantes"
+130,110507,11,Costa Centro,"De 100,000 a 499,999 habitantes"
+131,110111,11,Costa Centro,"De 20,000 a 49,999 habitantes"
+132,110108,11,Costa Centro,"De 20,000 a 49,999 habitantes"
+133,110205,11,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+134,110506,11,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+135,120107,12,Sierra Centro,"De 100,000 a 499,999 habitantes"
+136,120114,12,Sierra Centro,"De 100,000 a 499,999 habitantes"
+137,120701,12,Sierra Centro,"De 20,000 a 49,999 habitantes"
+138,120401,12,Sierra Centro,"De 2,000 a 19,999 habitantes"
+139,120502,12,Sierra Centro,"De 2,000 a 19,999 habitantes"
+140,120604,12,Selva,"De 2,000 a 19,999 habitantes"
+141,120606,12,Selva,"De 2,000 a 19,999 habitantes"
+142,120305,12,Selva,"De 20,000 a 49,999 habitantes"
+143,120806,12,Sierra Centro,"De 500 a 1,999 habitantes"
+144,120302,12,Selva,Área de Empadronamiento Rural (AER) Compuesto
+145,120603,12,Selva,Área de Empadronamiento Rural (AER) Simple
+146,120605,12,Selva,Área de Empadronamiento Rural (AER) Compuesto
+147,120301,12,Selva,Área de Empadronamiento Rural (AER) Compuesto
+148,120303,12,Selva,Área de Empadronamiento Rural (AER) Compuesto
+149,120608,12,Selva,Área de Empadronamiento Rural (AER) Compuesto
+150,130101,13,Costa Norte,"De 500,000 a más habitantes"
+151,130103,13,Costa Norte,"De 500,000 a más habitantes"
+152,130105,13,Costa Norte,"De 500,000 a más habitantes"
+153,130102,13,Costa Norte,"De 500,000 a más habitantes"
+154,130704,13,Costa Norte,"De 20,000 a 49,999 habitantes"
+155,130702,13,Costa Norte,"De 20,000 a 49,999 habitantes"
+156,131202,13,Costa Norte,"De 20,000 a 49,999 habitantes"
+157,130705,13,Costa Norte,"De 2,000 a 19,999 habitantes"
+158,130106,13,Costa Norte,"De 20,000 a 49,999 habitantes"
+159,130205,13,Costa Norte,Área de Empadronamiento Rural (AER) Simple
+160,130905,13,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+161,130811,13,Sierra Norte,"De 500 a 1,999 habitantes"
+162,130613,13,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+163,140106,14,Costa Norte,"De 500,000 a más habitantes"
+164,140101,14,Costa Norte,"De 500,000 a más habitantes"
+165,140105,14,Costa Norte,"De 500,000 a más habitantes"
+166,140116,14,Costa Norte,"De 2,000 a 19,999 habitantes"
+167,140301,14,Costa Norte,"De 50,000 a 99,999 habitantes"
+168,140102,14,Costa Norte,"De 2,000 a 19,999 habitantes"
+169,140112,14,Costa Norte,"De 20,000 a 49,999 habitantes"
+170,140307,14,Costa Norte,"De 2,000 a 19,999 habitantes"
+171,140120,14,Costa Norte,"De 20,000 a 49,999 habitantes"
+172,140311,14,Costa Norte,"De 2,000 a 19,999 habitantes"
+173,140306,14,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+174,140202,14,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+175,150140,15,Lima Metropolitana,"De 500,000 a más habitantes"
+176,150135,15,Lima Metropolitana,"De 500,000 a más habitantes"
+177,150133,15,Lima Metropolitana,"De 500,000 a más habitantes"
+178,150125,15,Lima Metropolitana,"De 500,000 a más habitantes"
+179,150101,15,Lima Metropolitana,"De 500,000 a más habitantes"
+180,150109,15,Lima Metropolitana,"De 500,000 a más habitantes"
+181,150110,15,Lima Metropolitana,"De 500,000 a más habitantes"
+182,150105,15,Lima Metropolitana,"De 500,000 a más habitantes"
+183,150103,15,Lima Metropolitana,"De 500,000 a más habitantes"
+184,150137,15,Lima Metropolitana,"De 500,000 a más habitantes"
+185,150112,15,Lima Metropolitana,"De 500,000 a más habitantes"
+186,150102,15,Lima Metropolitana,"De 500,000 a más habitantes"
+187,150132,15,Lima Metropolitana,"De 500,000 a más habitantes"
+188,150142,15,Lima Metropolitana,"De 500,000 a más habitantes"
+189,150128,15,Lima Metropolitana,"De 500,000 a más habitantes"
+190,150117,15,Lima Metropolitana,"De 500,000 a más habitantes"
+191,150143,15,Lima Metropolitana,"De 500,000 a más habitantes"
+192,150141,15,Lima Metropolitana,"De 500,000 a más habitantes"
+193,150104,15,Lima Metropolitana,"De 500,000 a más habitantes"
+194,150115,15,Lima Metropolitana,"De 500,000 a más habitantes"
+195,150118,15,Lima Metropolitana,"De 500,000 a más habitantes"
+196,150130,15,Lima Metropolitana,"De 500,000 a más habitantes"
+197,150114,15,Lima Metropolitana,"De 500,000 a más habitantes"
+198,150106,15,Lima Metropolitana,"De 500,000 a más habitantes"
+199,150119,15,Lima Metropolitana,"De 500,000 a más habitantes"
+200,150801,15,Costa Centro,"De 100,000 a 499,999 habitantes"
+201,150513,15,Costa Centro,"De 2,000 a 19,999 habitantes"
+202,150509,15,Costa Centro,"De 20,000 a 49,999 habitantes"
+203,150501,15,Costa Centro,"De 100,000 a 499,999 habitantes"
+204,150204,15,Costa Centro,"De 50,000 a 99,999 habitantes"
+205,150201,15,Costa Centro,"De 50,000 a 99,999 habitantes"
+206,150203,15,Costa Centro,"De 20,000 a 49,999 habitantes"
+207,150202,15,Costa Centro,"De 20,000 a 49,999 habitantes"
+208,150514,15,Costa Centro,"De 2,000 a 19,999 habitantes"
+209,150605,15,Costa Centro,"De 50,000 a 99,999 habitantes"
+210,150511,15,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+211,150605,15,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+212,150729,15,Sierra Centro,"De 500 a 1,999 habitantes"
+213,151012,15,Sierra Centro,"De 500 a 1,999 habitantes"
+214,160101,16,Selva,"De 100,000 a 499,999 habitantes"
+215,160108,16,Selva,"De 100,000 a 499,999 habitantes"
+216,160112,16,Selva,"De 100,000 a 499,999 habitantes"
+217,160113,16,Selva,"De 100,000 a 499,999 habitantes"
+218,160206,16,Selva,"De 2,000 a 19,999 habitantes"
+219,160201,16,Selva,"De 50,000 a 99,999 habitantes"
+220,160301,16,Selva,"De 20,000 a 49,999 habitantes"
+221,160701,16,Selva,Área de Empadronamiento Rural (AER) Compuesto
+222,160404,16,Selva,Área de Empadronamiento Rural (AER) Compuesto
+223,160704,16,Selva,Área de Empadronamiento Rural (AER) Simple
+224,160202,16,Selva,Área de Empadronamiento Rural (AER) Simple
+225,160403,16,Selva,Área de Empadronamiento Rural (AER) Simple
+226,160605,16,Selva,Área de Empadronamiento Rural (AER) Simple
+227,170101,17,Selva,"De 50,000 a 99,999 habitantes"
+228,170103,17,Selva,"De 2,000 a 19,999 habitantes"
+229,170302,17,Selva,"De 2,000 a 19,999 habitantes"
+230,170302,17,Selva,Área de Empadronamiento Rural (AER) Simple
+231,170203,17,Selva,Área de Empadronamiento Rural (AER) Compuesto
+232,180101,18,Costa Sur,"De 50,000 a 99,999 habitantes"
+233,180301,18,Costa Sur,"De 50,000 a 99,999 habitantes"
+234,180208,18,Sierra Sur,"De 500 a 1,999 habitantes"
+235,180211,18,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+236,180204,18,Sierra Sur,"De 500 a 1,999 habitantes"
+237,190101,19,Sierra Centro,"De 50,000 a 99,999 habitantes"
+238,190113,19,Sierra Centro,"De 50,000 a 99,999 habitantes"
+239,190206,19,Sierra Centro,"De 2,000 a 19,999 habitantes"
+240,190107,19,Sierra Centro,"De 2,000 a 19,999 habitantes"
+241,190103,19,Sierra Centro,"De 2,000 a 19,999 habitantes"
+242,190301,19,Selva,"De 2,000 a 19,999 habitantes"
+243,190201,19,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+244,190105,19,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+245,190308,19,Selva,Área de Empadronamiento Rural (AER) Compuesto
+246,200104,20,Costa Norte,"De 100,000 a 499,999 habitantes"
+247,200101,20,Costa Norte,"De 100,000 a 499,999 habitantes"
+248,200115,20,Costa Norte,"De 100,000 a 499,999 habitantes"
+249,200601,20,Costa Norte,"De 100,000 a 499,999 habitantes"
+250,200402,20,Costa Norte,"De 2,000 a 19,999 habitantes"
+251,200606,20,Costa Norte,"De 2,000 a 19,999 habitantes"
+252,200401,20,Costa Norte,"De 50,000 a 99,999 habitantes"
+253,200801,20,Costa Norte,"De 20,000 a 49,999 habitantes"
+254,200110,20,Costa Norte,"De 20,000 a 49,999 habitantes"
+255,200605,20,Costa Norte,"De 20,000 a 49,999 habitantes"
+256,200501,20,Costa Norte,"De 50,000 a 99,999 habitantes"
+257,200107,20,Costa Norte,"De 2,000 a 19,999 habitantes"
+258,200114,20,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+259,200301,20,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+260,210101,21,Sierra Sur,"De 100,000 a 499,999 habitantes"
+261,211101,21,Sierra Sur,"De 100,000 a 499,999 habitantes"
+262,210109,21,Sierra Sur,"De 2,000 a 19,999 habitantes"
+263,210808,21,Sierra Sur,"De 2,000 a 19,999 habitantes"
+264,210304,21,Sierra Sur,"De 2,000 a 19,999 habitantes"
+265,210501,21,Sierra Sur,"De 2,000 a 19,999 habitantes"
+266,210208,21,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+267,210501,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+268,210404,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+269,210406,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+270,210901,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+271,211105,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+272,210708,21,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+273,220101,22,Selva,"De 50,000 a 99,999 habitantes"
+274,220304,22,Selva,"De 2,000 a 19,999 habitantes"
+275,220801,22,Selva,"De 20,000 a 49,999 habitantes"
+276,220104,22,Selva,"De 2,000 a 19,999 habitantes"
+277,220510,22,Selva,"De 2,000 a 19,999 habitantes"
+278,220101,22,Selva,Área de Empadronamiento Rural (AER) Compuesto
+279,220401,22,Selva,Área de Empadronamiento Rural (AER) Compuesto
+280,220909,22,Selva,"De 100,000 a 499,999 habitantes"
+281,220901,22,Selva,"De 100,000 a 499,999 habitantes"
+282,220601,22,Selva,"De 20,000 a 49,999 habitantes"
+283,220602,22,Selva,"De 2,000 a 19,999 habitantes"
+284,220205,22,Selva,Área de Empadronamiento Rural (AER) Simple
+285,220603,22,Selva,Área de Empadronamiento Rural (AER) Compuesto
+286,230104,23,Costa Sur,"De 100,000 a 499,999 habitantes"
+287,230108,23,Costa Sur,"De 100,000 a 499,999 habitantes"
+288,230110,23,Costa Sur,"De 100,000 a 499,999 habitantes"
+289,230101,23,Costa Sur,"De 100,000 a 499,999 habitantes"
+290,230302,23,Costa Sur,"De 2,000 a 19,999 habitantes"
+291,230401,23,Sierra Sur,"De 2,000 a 19,999 habitantes"
+292,230106,23,Costa Sur,Área de Empadronamiento Rural (AER) Compuesto
+293,230105,23,Costa Sur,"De 500 a 1,999 habitantes"
+294,230203,23,Sierra Sur,"De 500 a 1,999 habitantes"
+295,240101,24,Costa Norte,"De 50,000 a 99,999 habitantes"
+296,240301,24,Costa Norte,"De 20,000 a 49,999 habitantes"
+297,240201,24,Costa Norte,"De 2,000 a 19,999 habitantes"
+298,240302,24,Costa Norte,"De 2,000 a 19,999 habitantes"
+299,240203,24,Costa Norte,"De 2,000 a 19,999 habitantes"
+300,240104,24,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+301,240301,24,Costa Norte,Área de Empadronamiento Rural (AER) Simple
+302,250105,25,Selva,"De 100,000 a 499,999 habitantes"
+303,250101,25,Selva,"De 100,000 a 499,999 habitantes"
+304,250107,25,Selva,"De 100,000 a 499,999 habitantes"
+305,250304,25,Selva,"De 2,000 a 19,999 habitantes"
+306,250201,25,Selva,"De 2,000 a 19,999 habitantes"
+307,250303,25,Selva,"De 2,000 a 19,999 habitantes"
+308,250103,25,Selva,Área de Empadronamiento Rural (AER) Compuesto
+309,250201,25,Selva,Área de Empadronamiento Rural (AER) Compuesto
+310,250202,25,Selva,Área de Empadronamiento Rural (AER) Simple
+311,150728,15,Costa Centro,Área de Empadronamiento Rural (AER) Simple
+312,140308,14,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+313,130614,13,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+314,190102,19,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+315,051001,5,Sierra Centro,"De 500 a 1,999 habitantes"
+316,230102,23,Costa Sur,"De 100,000 a 499,999 habitantes"
+317,180106,18,Sierra Sur,"De 2,000 a 19,999 habitantes"
+318,010202,1,Selva,Área de Empadronamiento Rural (AER) Compuesto
+319,050501,5,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+320,040311,4,Costa Sur,"De 500 a 1,999 habitantes"
+321,150505,15,Costa Centro,"De 2,000 a 19,999 habitantes"
+322,180302,18,Costa Sur,"De 2,000 a 19,999 habitantes"
+323,010601,1,Selva,"De 2,000 a 19,999 habitantes"
+324,010401,1,Selva,"De 2,000 a 19,999 habitantes"
+325,010703,1,Selva,"De 2,000 a 19,999 habitantes"
+326,010702,1,Selva,"De 2,000 a 19,999 habitantes"
+327,010104,1,Sierra Norte,"De 500 a 1,999 habitantes"
+328,010106,1,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+329,010521,1,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+330,010705,1,Selva,Área de Empadronamiento Rural (AER) Compuesto
+331,010307,1,Selva,Área de Empadronamiento Rural (AER) Compuesto
+332,010311,1,Selva,Área de Empadronamiento Rural (AER) Simple
+333,010612,1,Selva,Área de Empadronamiento Rural (AER) Compuesto
+334,010205,1,Selva,Área de Empadronamiento Rural (AER) Compuesto
+335,010502,1,Selva,Área de Empadronamiento Rural (AER) Compuesto
+336,020802,2,Costa Centro,"De 2,000 a 19,999 habitantes"
+337,020804,2,Costa Centro,Área de Empadronamiento Rural (AER) Simple
+338,020101,2,Sierra Centro,"De 100,000 a 499,999 habitantes"
+339,021701,2,Sierra Centro,"De 2,000 a 19,999 habitantes"
+340,022005,2,Costa Centro,Área de Empadronamiento Rural (AER) Simple
+341,020110,2,Costa Centro,"De 500 a 1,999 habitantes"
+342,021406,2,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+343,022006,2,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+344,021003,2,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+345,020402,2,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+346,030109,3,Sierra Sur,"De 50,000 a 99,999 habitantes"
+347,030213,3,Sierra Sur,"De 50,000 a 99,999 habitantes"
+348,030104,3,Sierra Sur,"De 2,000 a 19,999 habitantes"
+349,030201,3,Sierra Sur,"De 50,000 a 99,999 habitantes"
+350,030202,3,Sierra Sur,"De 500 a 1,999 habitantes"
+351,030208,3,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+352,030213,3,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+353,030608,3,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+354,030602,3,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+355,040520,4,Costa Sur,"De 20,000 a 49,999 habitantes"
+356,040301,4,Costa Sur,"De 2,000 a 19,999 habitantes"
+357,040207,4,Costa Sur,Área de Empadronamiento Rural (AER) Compuesto
+358,040509,4,Sierra Sur,"De 500 a 1,999 habitantes"
+359,040508,4,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+360,050101,5,Sierra Centro,"De 100,000 a 499,999 habitantes"
+361,050116,5,Sierra Centro,"De 100,000 a 499,999 habitantes"
+362,050401,5,Sierra Centro,"De 20,000 a 49,999 habitantes"
+363,050801,5,Sierra Centro,"De 2,000 a 19,999 habitantes"
+364,050502,5,Sierra Centro,"De 2,000 a 19,999 habitantes"
+365,050605,5,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+366,051006,5,Sierra Centro,"De 500 a 1,999 habitantes"
+367,050612,5,Sierra Centro,"De 500 a 1,999 habitantes"
+368,051108,5,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+369,050205,5,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+370,050509,5,Selva,Área de Empadronamiento Rural (AER) Compuesto
+371,050408,5,Selva,Área de Empadronamiento Rural (AER) Compuesto
+372,060508,6,Costa Norte,"De 2,000 a 19,999 habitantes"
+373,060301,6,Sierra Norte,"De 2,000 a 19,999 habitantes"
+374,060802,6,Selva,"De 2,000 a 19,999 habitantes"
+375,060808,6,Selva,"De 2,000 a 19,999 habitantes"
+376,061001,6,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+377,060201,6,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+378,060111,6,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+379,061103,6,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+380,060102,6,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+381,060417,6,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+382,060905,6,Selva,Área de Empadronamiento Rural (AER) Compuesto
+383,060808,6,Selva,Área de Empadronamiento Rural (AER) Compuesto
+384,060807,6,Selva,"De 500 a 1,999 habitantes"
+385,060801,6,Selva,Área de Empadronamiento Rural (AER) Simple
+386,070103,7,Lima Metropolitana,"De 500,000 a más habitantes"
+387,080601,8,Sierra Sur,"De 20,000 a 49,999 habitantes"
+388,080801,8,Sierra Sur,"De 20,000 a 49,999 habitantes"
+389,080608,8,Sierra Sur,"De 2,000 a 19,999 habitantes"
+390,081301,8,Sierra Sur,"De 2,000 a 19,999 habitantes"
+391,080702,8,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+392,080706,8,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+393,080505,8,Sierra Sur,"De 500 a 1,999 habitantes"
+394,080601,8,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+395,080301,8,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+396,080806,8,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+397,090118,9,Sierra Centro,"De 20,000 a 49,999 habitantes"
+398,090701,9,Sierra Centro,"De 2,000 a 19,999 habitantes"
+399,090201,9,Sierra Centro,"De 2,000 a 19,999 habitantes"
+400,090602,9,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+401,090507,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+402,090206,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+403,090312,9,Sierra Centro,"De 500 a 1,999 habitantes"
+404,090702,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+405,090203,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+406,090116,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+407,090719,9,Sierra Centro,"De 500 a 1,999 habitantes"
+408,090103,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+409,100102,10,Selva,"De 100,000 a 499,999 habitantes"
+410,100201,10,Sierra Centro,"De 2,000 a 19,999 habitantes"
+411,100501,10,Sierra Centro,"De 2,000 a 19,999 habitantes"
+412,100604,10,Selva,"De 2,000 a 19,999 habitantes"
+413,100202,10,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+414,100504,10,Sierra Centro,"De 500 a 1,999 habitantes"
+415,101106,10,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+416,100804,10,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+417,100801,10,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+418,100203,10,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+419,100102,10,Selva,Área de Empadronamiento Rural (AER) Compuesto
+420,100902,10,Selva,Área de Empadronamiento Rural (AER) Compuesto
+421,110102,11,Costa Centro,"De 100,000 a 499,999 habitantes"
+422,110103,11,Costa Centro,"De 20,000 a 49,999 habitantes"
+423,110210,11,Costa Centro,"De 100,000 a 499,999 habitantes"
+424,110503,11,Costa Centro,"De 2,000 a 19,999 habitantes"
+425,110301,11,Costa Centro,"De 20,000 a 49,999 habitantes"
+426,110403,11,Costa Centro,"De 500 a 1,999 habitantes"
+427,110305,11,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+428,110114,11,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+429,120101,12,Sierra Centro,"De 100,000 a 499,999 habitantes"
+430,120434,12,Sierra Centro,"De 2,000 a 19,999 habitantes"
+431,120134,12,Sierra Centro,"De 2,000 a 19,999 habitantes"
+432,120808,12,Sierra Centro,"De 2,000 a 19,999 habitantes"
+433,120117,12,Sierra Centro,"De 2,000 a 19,999 habitantes"
+434,120130,12,Sierra Centro,"De 2,000 a 19,999 habitantes"
+435,120905,12,Sierra Centro,"De 2,000 a 19,999 habitantes"
+436,120503,12,Sierra Centro,"De 500 a 1,999 habitantes"
+437,120704,12,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+438,120215,12,Sierra Centro,"De 500 a 1,999 habitantes"
+439,120708,12,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+440,120419,12,Selva,Área de Empadronamiento Rural (AER) Simple
+441,120609,12,Selva,Área de Empadronamiento Rural (AER) Compuesto
+442,120601,12,Selva,Área de Empadronamiento Rural (AER) Compuesto
+443,130104,13,Costa Norte,"De 50,000 a 99,999 habitantes"
+444,131201,13,Costa Norte,"De 20,000 a 49,999 habitantes"
+445,130208,13,Costa Norte,"De 20,000 a 49,999 habitantes"
+446,130601,13,Sierra Norte,"De 2,000 a 19,999 habitantes"
+447,130901,13,Sierra Norte,"De 20,000 a 49,999 habitantes"
+448,130902,13,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+449,130305,13,Sierra Norte,"De 500 a 1,999 habitantes"
+450,130906,13,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+451,130802,13,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+452,140111,14,Costa Norte,"De 2,000 a 19,999 habitantes"
+453,140308,14,Costa Norte,"De 2,000 a 19,999 habitantes"
+454,140201,14,Costa Norte,"De 20,000 a 49,999 habitantes"
+455,140118,14,Costa Norte,"De 20,000 a 49,999 habitantes"
+456,140303,14,Costa Norte,"De 2,000 a 19,999 habitantes"
+457,140108,14,Costa Norte,"De 20,000 a 49,999 habitantes"
+458,140310,14,Costa Norte,"De 2,000 a 19,999 habitantes"
+459,140205,14,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+460,140312,14,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+461,150131,15,Lima Metropolitana,"De 500,000 a más habitantes"
+462,150107,15,Lima Metropolitana,"De 500,000 a más habitantes"
+463,150134,15,Lima Metropolitana,"De 500,000 a más habitantes"
+464,150111,15,Lima Metropolitana,"De 500,000 a más habitantes"
+465,150123,15,Lima Metropolitana,"De 500,000 a más habitantes"
+466,150121,15,Lima Metropolitana,"De 500,000 a más habitantes"
+467,150122,15,Lima Metropolitana,"De 500,000 a más habitantes"
+468,150108,15,Lima Metropolitana,"De 500,000 a más habitantes"
+469,150113,15,Lima Metropolitana,"De 500,000 a más habitantes"
+470,150205,15,Costa Centro,"De 50,000 a 99,999 habitantes"
+471,150812,15,Costa Centro,"De 20,000 a 49,999 habitantes"
+472,150810,15,Costa Centro,"De 100,000 a 499,999 habitantes"
+473,150601,15,Costa Centro,"De 50,000 a 99,999 habitantes"
+474,150512,15,Costa Centro,"De 2,000 a 19,999 habitantes"
+475,150507,15,Costa Centro,"De 100,000 a 499,999 habitantes"
+476,150705,15,Sierra Centro,"De 2,000 a 19,999 habitantes"
+477,150401,15,Sierra Centro,"De 2,000 a 19,999 habitantes"
+478,150702,15,Costa Centro,Área de Empadronamiento Rural (AER) Simple
+479,150723,15,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+480,150403,15,Sierra Centro,"De 500 a 1,999 habitantes"
+481,150706,15,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+482,150718,15,Sierra Centro,"De 500 a 1,999 habitantes"
+483,160501,16,Selva,"De 20,000 a 49,999 habitantes"
+484,160701,16,Selva,"De 2,000 a 19,999 habitantes"
+485,160210,16,Selva,Área de Empadronamiento Rural (AER) Compuesto
+486,160206,16,Selva,Área de Empadronamiento Rural (AER) Simple
+487,160403,16,Selva,Área de Empadronamiento Rural (AER) Compuesto
+488,160301,16,Selva,Área de Empadronamiento Rural (AER) Compuesto
+489,160502,16,Selva,"De 500 a 1,999 habitantes"
+490,160504,16,Selva,Área de Empadronamiento Rural (AER) Compuesto
+491,170102,17,Selva,"De 2,000 a 19,999 habitantes"
+492,170204,17,Selva,"De 2,000 a 19,999 habitantes"
+493,170303,17,Selva,"De 500 a 1,999 habitantes"
+494,170103,17,Selva,Área de Empadronamiento Rural (AER) Simple
+495,180104,18,Costa Sur,"De 50,000 a 99,999 habitantes"
+496,180101,18,Costa Sur,Área de Empadronamiento Rural (AER) Compuesto
+497,180105,18,Sierra Sur,"De 500 a 1,999 habitantes"
+498,190201,19,Sierra Centro,"De 2,000 a 19,999 habitantes"
+499,190104,19,Sierra Centro,"De 2,000 a 19,999 habitantes"
+500,190307,19,Selva,"De 2,000 a 19,999 habitantes"
+501,190304,19,Selva,Área de Empadronamiento Rural (AER) Compuesto
+502,190306,19,Selva,Área de Empadronamiento Rural (AER) Compuesto
+503,190306,19,Selva,Área de Empadronamiento Rural (AER) Simple
+504,190305,19,Selva,"De 500 a 1,999 habitantes"
+505,200114,20,Costa Norte,"De 20,000 a 49,999 habitantes"
+506,200702,20,Costa Norte,"De 2,000 a 19,999 habitantes"
+507,200109,20,Costa Norte,"De 20,000 a 49,999 habitantes"
+508,200701,20,Costa Norte,"De 50,000 a 99,999 habitantes"
+509,200105,20,Costa Norte,"De 50,000 a 99,999 habitantes"
+510,200703,20,Costa Norte,"De 2,000 a 19,999 habitantes"
+511,200301,20,Sierra Norte,"De 2,000 a 19,999 habitantes"
+512,200209,20,Costa Norte,Área de Empadronamiento Rural (AER) Simple
+513,200210,20,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+514,200408,20,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+515,200410,20,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+516,200201,20,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+517,211105,21,Sierra Sur,"De 100,000 a 499,999 habitantes"
+518,210801,21,Sierra Sur,"De 2,000 a 19,999 habitantes"
+519,210607,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+520,210103,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+521,210115,21,Sierra Sur,"De 500 a 1,999 habitantes"
+522,210904,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+523,210601,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+524,210608,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+525,210807,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+526,220105,22,Selva,"De 2,000 a 19,999 habitantes"
+527,220804,22,Selva,"De 20,000 a 49,999 habitantes"
+528,220103,22,Selva,"De 500 a 1,999 habitantes"
+529,220804,22,Selva,Área de Empadronamiento Rural (AER) Compuesto
+530,220803,22,Selva,Área de Empadronamiento Rural (AER) Compuesto
+531,220907,22,Selva,"De 2,000 a 19,999 habitantes"
+532,220203,22,Selva,Área de Empadronamiento Rural (AER) Compuesto
+533,220702,22,Selva,"De 500 a 1,999 habitantes"
+534,220910,22,Selva,Área de Empadronamiento Rural (AER) Compuesto
+535,230104,23,Costa Sur,Área de Empadronamiento Rural (AER) Compuesto
+536,230109,23,Costa Sur,Área de Empadronamiento Rural (AER) Compuesto
+537,240103,24,Costa Norte,"De 2,000 a 19,999 habitantes"
+538,240105,24,Costa Norte,Área de Empadronamiento Rural (AER) Simple
+539,240104,24,Costa Norte,Área de Empadronamiento Rural (AER) Simple
+540,250301,25,Selva,"De 20,000 a 49,999 habitantes"
+541,250301,25,Selva,Área de Empadronamiento Rural (AER) Simple
+542,250102,25,Selva,Área de Empadronamiento Rural (AER) Compuesto
+543,250304,25,Selva,Área de Empadronamiento Rural (AER) Compuesto
+544,250103,25,Selva,"De 500 a 1,999 habitantes"
+545,230109,23,Costa Sur,"De 2,000 a 19,999 habitantes"
+546,080407,8,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+547,010110,1,Sierra Norte,"De 2,000 a 19,999 habitantes"
+548,010523,1,Sierra Norte,"De 500 a 1,999 habitantes"
+549,010701,1,Selva,Área de Empadronamiento Rural (AER) Compuesto
+550,010522,1,Selva,"De 500 a 1,999 habitantes"
+551,010706,1,Selva,Área de Empadronamiento Rural (AER) Compuesto
+552,010707,1,Selva,Área de Empadronamiento Rural (AER) Compuesto
+553,010403,1,Selva,Área de Empadronamiento Rural (AER) Simple
+554,021807,2,Costa Centro,"De 2,000 a 19,999 habitantes"
+555,021105,2,Sierra Centro,"De 500 a 1,999 habitantes"
+556,021201,2,Sierra Centro,"De 2,000 a 19,999 habitantes"
+557,021004,2,Sierra Centro,"De 2,000 a 19,999 habitantes"
+558,020101,2,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+559,021601,2,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+560,021007,2,Sierra Centro,"De 500 a 1,999 habitantes"
+561,021201,2,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+562,020112,2,Sierra Centro,"De 500 a 1,999 habitantes"
+563,020102,2,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+564,030220,3,Sierra Sur,"De 2,000 a 19,999 habitantes"
+565,030210,3,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+566,030205,3,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+567,030410,3,Sierra Sur,"De 500 a 1,999 habitantes"
+568,030411,3,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+569,030501,3,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+570,040107,4,Sierra Sur,"De 500,000 a más habitantes"
+571,040109,4,Sierra Sur,"De 500,000 a más habitantes"
+572,040117,4,Sierra Sur,"De 500,000 a más habitantes"
+573,040201,4,Costa Sur,"De 20,000 a 49,999 habitantes"
+574,040204,4,Costa Sur,"De 20,000 a 49,999 habitantes"
+575,040108,4,Costa Sur,"De 20,000 a 49,999 habitantes"
+576,040202,4,Costa Sur,"De 20,000 a 49,999 habitantes"
+577,040115,4,Sierra Sur,"De 2,000 a 19,999 habitantes"
+578,040407,4,Costa Sur,"De 500 a 1,999 habitantes"
+579,040119,4,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+580,040408,4,Sierra Sur,"De 500 a 1,999 habitantes"
+581,040801,4,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+582,050705,5,Sierra Centro,"De 2,000 a 19,999 habitantes"
+583,050508,5,Sierra Centro,"De 2,000 a 19,999 habitantes"
+584,050406,5,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+585,050111,5,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+586,051106,5,Sierra Centro,"De 500 a 1,999 habitantes"
+587,050610,5,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+588,051105,5,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+589,051105,5,Sierra Centro,"De 500 a 1,999 habitantes"
+590,060505,6,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+591,061004,6,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+592,060311,6,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+593,060104,6,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+594,060106,6,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+595,060417,6,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+596,060419,6,Sierra Norte,"De 500 a 1,999 habitantes"
+597,060904,6,Selva,Área de Empadronamiento Rural (AER) Compuesto
+598,080108,8,Sierra Sur,"De 100,000 a 499,999 habitantes"
+599,080104,8,Sierra Sur,"De 100,000 a 499,999 habitantes"
+600,080701,8,Sierra Sur,"De 2,000 a 19,999 habitantes"
+601,080401,8,Sierra Sur,"De 2,000 a 19,999 habitantes"
+602,080703,8,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+603,080201,8,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+604,081105,8,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+605,080501,8,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+606,081104,8,Sierra Sur,"De 500 a 1,999 habitantes"
+607,080803,8,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+608,080902,8,Selva,Área de Empadronamiento Rural (AER) Simple
+609,090501,9,Sierra Centro,"De 2,000 a 19,999 habitantes"
+610,090308,9,Sierra Centro,"De 500 a 1,999 habitantes"
+611,090102,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+612,090117,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+613,090302,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+614,090706,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+615,090704,9,Sierra Centro,"De 500 a 1,999 habitantes"
+616,090312,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+617,100507,10,Selva,"De 2,000 a 19,999 habitantes"
+618,100702,10,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+619,100205,10,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+620,100501,10,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+621,100107,10,Sierra Centro,"De 500 a 1,999 habitantes"
+622,101002,10,Sierra Centro,"De 500 a 1,999 habitantes"
+623,100104,10,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+624,100507,10,Selva,Área de Empadronamiento Rural (AER) Compuesto
+625,100609,10,Selva,"De 500 a 1,999 habitantes"
+626,110401,11,Costa Centro,"De 2,000 a 19,999 habitantes"
+627,110202,11,Costa Centro,"De 2,000 a 19,999 habitantes"
+628,110205,11,Costa Centro,"De 2,000 a 19,999 habitantes"
+629,110112,11,Costa Centro,"De 20,000 a 49,999 habitantes"
+630,110304,11,Costa Centro,"De 2,000 a 19,999 habitantes"
+631,110204,11,Costa Centro,"De 2,000 a 19,999 habitantes"
+632,110301,11,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+633,110114,11,Costa Centro,Área de Empadronamiento Rural (AER) Simple
+634,120901,12,Sierra Centro,"De 2,000 a 19,999 habitantes"
+635,120301,12,Selva,"De 20,000 a 49,999 habitantes"
+636,120601,12,Selva,"De 20,000 a 49,999 habitantes"
+637,120302,12,Selva,"De 20,000 a 49,999 habitantes"
+638,120409,12,Sierra Centro,"De 500 a 1,999 habitantes"
+639,120133,12,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+640,120122,12,Sierra Centro,"De 500 a 1,999 habitantes"
+641,120709,12,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+642,120423,12,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+643,120303,12,Selva,Área de Empadronamiento Rural (AER) Simple
+644,120606,12,Selva,Área de Empadronamiento Rural (AER) Compuesto
+645,130111,13,Costa Norte,"De 500,000 a más habitantes"
+646,130401,13,Costa Norte,"De 20,000 a 49,999 habitantes"
+647,130703,13,Costa Norte,"De 2,000 a 19,999 habitantes"
+648,131203,13,Costa Norte,"De 2,000 a 19,999 habitantes"
+649,131101,13,Costa Norte,"De 2,000 a 19,999 habitantes"
+650,131103,13,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+651,131202,13,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+652,130605,13,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+653,130503,13,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+654,140205,14,Costa Norte,"De 2,000 a 19,999 habitantes"
+655,140309,14,Costa Norte,"De 2,000 a 19,999 habitantes"
+656,140305,14,Costa Norte,"De 2,000 a 19,999 habitantes"
+657,140115,14,Costa Norte,"De 2,000 a 19,999 habitantes"
+658,140108,14,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+659,140307,14,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+660,150136,15,Lima Metropolitana,"De 500,000 a más habitantes"
+661,150120,15,Lima Metropolitana,"De 500,000 a más habitantes"
+662,150139,15,Lima Metropolitana,"De 500,000 a más habitantes"
+663,150510,15,Costa Centro,"De 100,000 a 499,999 habitantes"
+664,150811,15,Costa Centro,Área de Empadronamiento Rural (AER) Simple
+665,150503,15,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+666,150512,15,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+667,150804,15,Sierra Centro,"De 500 a 1,999 habitantes"
+668,160211,16,Selva,"De 2,000 a 19,999 habitantes"
+669,160303,16,Selva,Área de Empadronamiento Rural (AER) Compuesto
+670,160105,16,Selva,Área de Empadronamiento Rural (AER) Simple
+671,160106,16,Selva,Área de Empadronamiento Rural (AER) Compuesto
+672,160604,16,Selva,Área de Empadronamiento Rural (AER) Compuesto
+673,160704,16,Selva,"De 500 a 1,999 habitantes"
+674,170102,17,Selva,Área de Empadronamiento Rural (AER) Compuesto
+675,170101,17,Selva,Área de Empadronamiento Rural (AER) Simple
+676,180106,18,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+677,190102,19,Sierra Centro,"De 2,000 a 19,999 habitantes"
+678,190111,19,Sierra Centro,"De 2,000 a 19,999 habitantes"
+679,190204,19,Sierra Centro,"De 500 a 1,999 habitantes"
+680,190108,19,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+681,200407,20,Costa Norte,"De 2,000 a 19,999 habitantes"
+682,200705,20,Costa Norte,"De 2,000 a 19,999 habitantes"
+683,200202,20,Costa Norte,"De 2,000 a 19,999 habitantes"
+684,200802,20,Costa Norte,"De 2,000 a 19,999 habitantes"
+685,200604,20,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+686,200607,20,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+687,200410,20,Costa Norte,"De 500 a 1,999 habitantes"
+688,200304,20,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+689,210701,21,Sierra Sur,"De 2,000 a 19,999 habitantes"
+690,211001,21,Sierra Sur,"De 2,000 a 19,999 habitantes"
+691,211002,21,Sierra Sur,"De 2,000 a 19,999 habitantes"
+692,210203,21,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+693,210307,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+694,210102,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+695,210801,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+696,210807,21,Sierra Sur,"De 500 a 1,999 habitantes"
+697,210101,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+698,210505,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+699,220501,22,Selva,"De 2,000 a 19,999 habitantes"
+700,220807,22,Selva,"De 2,000 a 19,999 habitantes"
+701,220803,22,Selva,"De 2,000 a 19,999 habitantes"
+702,220505,22,Selva,Área de Empadronamiento Rural (AER) Simple
+703,220101,22,Selva,Área de Empadronamiento Rural (AER) Simple
+704,220910,22,Selva,"De 100,000 a 499,999 habitantes"
+705,220904,22,Selva,"De 2,000 a 19,999 habitantes"
+706,220201,22,Selva,"De 2,000 a 19,999 habitantes"
+707,220601,22,Selva,Área de Empadronamiento Rural (AER) Simple
+708,220202,22,Selva,Área de Empadronamiento Rural (AER) Simple
+709,230102,23,Costa Sur,Área de Empadronamiento Rural (AER) Compuesto
+710,230111,23,Costa Sur,Área de Empadronamiento Rural (AER) Compuesto
+711,230406,23,Sierra Sur,"De 500 a 1,999 habitantes"
+712,240102,24,Costa Norte,"De 20,000 a 49,999 habitantes"
+713,240105,24,Costa Norte,"De 2,000 a 19,999 habitantes"
+714,240304,24,Costa Norte,"De 2,000 a 19,999 habitantes"
+715,240102,24,Costa Norte,Área de Empadronamiento Rural (AER) Simple
+716,250102,25,Selva,"De 2,000 a 19,999 habitantes"
+717,250105,25,Selva,Área de Empadronamiento Rural (AER) Simple
+718,250302,25,Selva,Área de Empadronamiento Rural (AER) Simple
+719,190306,19,Selva,"De 2,000 a 19,999 habitantes"
+720,150727,15,Costa Centro,"De 500 a 1,999 habitantes"
+721,021805,2,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+722,050906,5,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+723,060401,6,Sierra Norte,"De 20,000 a 49,999 habitantes"
+724,110103,11,Costa Centro,Área de Empadronamiento Rural (AER) Simple
+725,150806,15,Costa Centro,"De 100,000 a 499,999 habitantes"
+726,151003,15,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+727,010509,1,Sierra Norte,"De 2,000 a 19,999 habitantes"
+728,010514,1,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+729,010509,1,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+730,010110,1,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+731,010301,1,Selva,Área de Empadronamiento Rural (AER) Simple
+732,010205,1,Selva,Área de Empadronamiento Rural (AER) Simple
+733,010611,1,Selva,"De 500 a 1,999 habitantes"
+734,010403,1,Selva,"De 500 a 1,999 habitantes"
+735,020801,2,Costa Centro,"De 20,000 a 49,999 habitantes"
+736,021503,2,Sierra Centro,"De 2,000 a 19,999 habitantes"
+737,021503,2,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+738,021901,2,Sierra Centro,"De 2,000 a 19,999 habitantes"
+739,020112,2,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+740,021709,2,Sierra Centro,"De 500 a 1,999 habitantes"
+741,020402,2,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+742,020305,2,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+743,021203,2,Sierra Centro,"De 500 a 1,999 habitantes"
+744,021201,2,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+745,030506,3,Sierra Sur,"De 2,000 a 19,999 habitantes"
+746,030303,3,Sierra Sur,"De 500 a 1,999 habitantes"
+747,030505,3,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+748,030502,3,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+749,030211,3,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+750,030504,3,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+751,030401,3,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+752,040126,4,Sierra Sur,"De 500,000 a más habitantes"
+753,040116,4,Sierra Sur,"De 500,000 a más habitantes"
+754,040701,4,Costa Sur,"De 20,000 a 49,999 habitantes"
+755,040124,4,Sierra Sur,"De 2,000 a 19,999 habitantes"
+756,040520,4,Costa Sur,Área de Empadronamiento Rural (AER) Simple
+757,040520,4,Costa Sur,Área de Empadronamiento Rural (AER) Compuesto
+758,040127,4,Sierra Sur,"De 500 a 1,999 habitantes"
+759,050202,5,Sierra Centro,"De 2,000 a 19,999 habitantes"
+760,050619,5,Sierra Centro,"De 2,000 a 19,999 habitantes"
+761,050201,5,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+762,050103,5,Sierra Centro,"De 500 a 1,999 habitantes"
+763,050106,5,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+764,051012,5,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+765,050114,5,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+766,051002,5,Sierra Centro,"De 500 a 1,999 habitantes"
+767,050507,5,Selva,Área de Empadronamiento Rural (AER) Compuesto
+768,060106,6,Sierra Norte,"De 2,000 a 19,999 habitantes"
+769,060203,6,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+770,060301,6,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+771,061007,6,Sierra Norte,"De 500 a 1,999 habitantes"
+772,061101,6,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+773,060106,6,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+774,060108,6,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+775,060902,6,Selva,Área de Empadronamiento Rural (AER) Compuesto
+776,060901,6,Selva,Área de Empadronamiento Rural (AER) Compuesto
+777,070107,7,Lima Metropolitana,"De 500,000 a más habitantes"
+778,081211,8,Sierra Sur,"De 2,000 a 19,999 habitantes"
+779,080201,8,Sierra Sur,"De 2,000 a 19,999 habitantes"
+780,081201,8,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+781,080202,8,Sierra Sur,"De 500 a 1,999 habitantes"
+782,081101,8,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+783,080405,8,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+784,081212,8,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+785,080902,8,Selva,Área de Empadronamiento Rural (AER) Compuesto
+786,090703,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+787,090203,9,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+788,090110,9,Sierra Centro,"De 500 a 1,999 habitantes"
+789,090502,9,Sierra Centro,"De 500 a 1,999 habitantes"
+790,090401,9,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+791,090607,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+792,090502,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+793,090606,9,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+794,100701,10,Sierra Centro,"De 2,000 a 19,999 habitantes"
+795,100501,10,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+796,100208,10,Sierra Centro,"De 500 a 1,999 habitantes"
+797,100109,10,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+798,100704,10,Sierra Centro,"De 500 a 1,999 habitantes"
+799,100504,10,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+800,100607,10,Selva,Área de Empadronamiento Rural (AER) Compuesto
+801,100111,10,Selva,Área de Empadronamiento Rural (AER) Compuesto
+802,110110,11,Costa Centro,"De 2,000 a 19,999 habitantes"
+803,110303,11,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+804,110203,11,Sierra Centro,"De 500 a 1,999 habitantes"
+805,120128,12,Sierra Centro,"De 2,000 a 19,999 habitantes"
+806,120125,12,Sierra Centro,"De 2,000 a 19,999 habitantes"
+807,120908,12,Sierra Centro,"De 2,000 a 19,999 habitantes"
+808,120133,12,Sierra Centro,"De 2,000 a 19,999 habitantes"
+809,120303,12,Selva,"De 20,000 a 49,999 habitantes"
+810,120116,12,Sierra Centro,"De 500 a 1,999 habitantes"
+811,120120,12,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+812,120114,12,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+813,120504,12,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+814,120603,12,Selva,Área de Empadronamiento Rural (AER) Compuesto
+815,130402,13,Costa Norte,"De 2,000 a 19,999 habitantes"
+816,130205,13,Costa Norte,"De 20,000 a 49,999 habitantes"
+817,130206,13,Costa Norte,"De 2,000 a 19,999 habitantes"
+818,131001,13,Sierra Norte,"De 2,000 a 19,999 habitantes"
+819,130501,13,Sierra Norte,"De 2,000 a 19,999 habitantes"
+820,131201,13,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+821,131104,13,Sierra Norte,"De 500 a 1,999 habitantes"
+822,131001,13,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+823,140114,14,Costa Norte,"De 2,000 a 19,999 habitantes"
+824,140304,14,Costa Norte,"De 2,000 a 19,999 habitantes"
+825,140117,14,Costa Norte,"De 2,000 a 19,999 habitantes"
+826,140303,14,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+827,150116,15,Lima Metropolitana,"De 500,000 a más habitantes"
+828,150126,15,Lima Metropolitana,"De 500,000 a más habitantes"
+829,150504,15,Costa Centro,"De 2,000 a 19,999 habitantes"
+830,150805,15,Costa Centro,"De 100,000 a 499,999 habitantes"
+831,150604,15,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+832,150201,15,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+833,150707,15,Sierra Centro,"De 500 a 1,999 habitantes"
+834,160103,16,Selva,"De 2,000 a 19,999 habitantes"
+835,160504,16,Selva,"De 2,000 a 19,999 habitantes"
+836,160401,16,Selva,"De 2,000 a 19,999 habitantes"
+837,160601,16,Selva,Área de Empadronamiento Rural (AER) Compuesto
+838,160403,16,Selva,"De 500 a 1,999 habitantes"
+839,160402,16,Selva,Área de Empadronamiento Rural (AER) Compuesto
+840,160703,16,Selva,Área de Empadronamiento Rural (AER) Simple
+841,170203,17,Selva,"De 2,000 a 19,999 habitantes"
+842,170104,17,Selva,Área de Empadronamiento Rural (AER) Simple
+843,180303,18,Costa Sur,"De 50,000 a 99,999 habitantes"
+844,180201,18,Sierra Sur,"De 2,000 a 19,999 habitantes"
+845,180204,18,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+846,180204,18,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+847,190109,19,Sierra Centro,"De 50,000 a 99,999 habitantes"
+848,190207,19,Sierra Centro,"De 2,000 a 19,999 habitantes"
+849,190112,19,Sierra Centro,"De 2,000 a 19,999 habitantes"
+850,190104,19,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+851,190304,19,Selva,"De 500 a 1,999 habitantes"
+852,200805,20,Costa Norte,"De 2,000 a 19,999 habitantes"
+853,200603,20,Costa Norte,"De 20,000 a 49,999 habitantes"
+854,200409,20,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+855,200303,20,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+856,210209,21,Sierra Sur,"De 2,000 a 19,999 habitantes"
+857,210210,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+858,211201,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+859,210604,21,Sierra Sur,"De 500 a 1,999 habitantes"
+860,211301,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+861,211209,21,Selva,Área de Empadronamiento Rural (AER) Compuesto
+862,220102,22,Selva,"De 2,000 a 19,999 habitantes"
+863,220504,22,Selva,"De 2,000 a 19,999 habitantes"
+864,220805,22,Selva,Área de Empadronamiento Rural (AER) Compuesto
+865,220505,22,Selva,Área de Empadronamiento Rural (AER) Compuesto
+866,221002,22,Selva,"De 2,000 a 19,999 habitantes"
+867,220908,22,Selva,"De 2,000 a 19,999 habitantes"
+868,220904,22,Selva,Área de Empadronamiento Rural (AER) Simple
+869,220605,22,Selva,Área de Empadronamiento Rural (AER) Compuesto
+870,230106,23,Costa Sur,"De 500 a 1,999 habitantes"
+871,230101,23,Costa Sur,Área de Empadronamiento Rural (AER) Compuesto
+872,240201,24,Costa Norte,Área de Empadronamiento Rural (AER) Simple
+873,250104,25,Selva,"De 2,000 a 19,999 habitantes"
+874,250302,25,Selva,"De 2,000 a 19,999 habitantes"
+875,250305,25,Selva,Área de Empadronamiento Rural (AER) Simple
+876,250104,25,Selva,Área de Empadronamiento Rural (AER) Simple
+877,060410,6,Sierra Norte,"De 2,000 a 19,999 habitantes"
+878,010522,1,Selva,Área de Empadronamiento Rural (AER) Compuesto
+879,160112,16,Selva,Área de Empadronamiento Rural (AER) Compuesto
+880,250104,25,Selva,Área de Empadronamiento Rural (AER) Compuesto
+881,120426,12,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+882,120402,12,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+883,151008,15,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+884,150301,15,Sierra Centro,"De 500 a 1,999 habitantes"
+885,230303,23,Costa Sur,Área de Empadronamiento Rural (AER) Compuesto
+886,150511,15,Costa Centro,"De 500 a 1,999 habitantes"
+887,210903,21,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+888,221003,22,Selva,Área de Empadronamiento Rural (AER) Compuesto
+889,010114,1,Sierra Norte,"De 500 a 1,999 habitantes"
+890,010609,1,Selva,Área de Empadronamiento Rural (AER) Compuesto
+891,010206,1,Selva,Área de Empadronamiento Rural (AER) Simple
+892,010401,1,Selva,Área de Empadronamiento Rural (AER) Simple
+893,010402,1,Selva,Área de Empadronamiento Rural (AER) Simple
+894,010605,1,Selva,Área de Empadronamiento Rural (AER) Compuesto
+895,021502,2,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+896,020508,2,Sierra Centro,"De 2,000 a 19,999 habitantes"
+897,020202,2,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+898,021603,2,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+899,020302,2,Sierra Centro,"De 500 a 1,999 habitantes"
+900,022002,2,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+901,021014,2,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+902,030501,3,Sierra Sur,"De 2,000 a 19,999 habitantes"
+903,030504,3,Sierra Sur,"De 2,000 a 19,999 habitantes"
+904,030609,3,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+905,030402,3,Sierra Sur,"De 500 a 1,999 habitantes"
+906,030713,3,Sierra Sur,"De 500 a 1,999 habitantes"
+907,030218,3,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+908,030209,3,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+909,030216,3,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+910,040703,4,Costa Sur,"De 2,000 a 19,999 habitantes"
+911,040208,4,Costa Sur,"De 20,000 a 49,999 habitantes"
+912,040404,4,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+913,040111,4,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+914,040513,4,Sierra Sur,"De 500 a 1,999 habitantes"
+915,040809,4,Sierra Sur,"De 500 a 1,999 habitantes"
+916,050603,5,Sierra Centro,"De 2,000 a 19,999 habitantes"
+917,050203,5,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+918,050702,5,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+919,050502,5,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+920,051012,5,Sierra Centro,"De 500 a 1,999 habitantes"
+921,050108,5,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+922,050510,5,Selva,"De 500 a 1,999 habitantes"
+923,060701,6,Sierra Norte,"De 2,000 a 19,999 habitantes"
+924,060601,6,Sierra Norte,"De 20,000 a 49,999 habitantes"
+925,060614,6,Selva,"De 2,000 a 19,999 habitantes"
+926,060109,6,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+927,060413,6,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+928,060410,6,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+929,060504,6,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+930,060105,6,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+931,061103,6,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+932,060703,6,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+933,060810,6,Selva,Área de Empadronamiento Rural (AER) Compuesto
+934,080305,8,Sierra Sur,"De 2,000 a 19,999 habitantes"
+935,081201,8,Sierra Sur,"De 2,000 a 19,999 habitantes"
+936,081306,8,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+937,081212,8,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+938,080404,8,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+939,080502,8,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+940,080702,8,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+941,081205,8,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+942,080912,8,Selva,"De 500 a 1,999 habitantes"
+943,090711,9,Sierra Centro,"De 2,000 a 19,999 habitantes"
+944,090718,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+945,090202,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+946,090201,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+947,090303,9,Sierra Centro,"De 500 a 1,999 habitantes"
+948,090119,9,Sierra Centro,"De 500 a 1,999 habitantes"
+949,090509,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+950,090721,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+951,100702,10,Sierra Centro,"De 2,000 a 19,999 habitantes"
+952,100103,10,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+953,100107,10,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+954,101007,10,Sierra Centro,"De 500 a 1,999 habitantes"
+955,100404,10,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+956,100705,10,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+957,100509,10,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+958,100601,10,Selva,Área de Empadronamiento Rural (AER) Compuesto
+959,100604,10,Selva,Área de Empadronamiento Rural (AER) Simple
+960,110206,11,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+961,110302,11,Costa Centro,Área de Empadronamiento Rural (AER) Simple
+962,110504,11,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+963,120801,12,Sierra Centro,"De 2,000 a 19,999 habitantes"
+964,120704,12,Sierra Centro,"De 2,000 a 19,999 habitantes"
+965,120119,12,Sierra Centro,"De 20,000 a 49,999 habitantes"
+966,120402,12,Sierra Centro,"De 2,000 a 19,999 habitantes"
+967,120707,12,Sierra Centro,"De 500 a 1,999 habitantes"
+968,120427,12,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+969,120408,12,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+970,120405,12,Sierra Centro,"De 500 a 1,999 habitantes"
+971,120902,12,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+972,120601,12,Selva,Área de Empadronamiento Rural (AER) Simple
+973,120607,12,Selva,Área de Empadronamiento Rural (AER) Compuesto
+974,130107,13,Costa Norte,"De 20,000 a 49,999 habitantes"
+975,130207,13,Costa Norte,"De 2,000 a 19,999 habitantes"
+976,130614,13,Sierra Norte,"De 2,000 a 19,999 habitantes"
+977,130809,13,Sierra Norte,"De 2,000 a 19,999 habitantes"
+978,130110,13,Costa Norte,"De 500 a 1,999 habitantes"
+979,130106,13,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+980,130602,13,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+981,130608,13,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+982,140113,14,Costa Norte,"De 2,000 a 19,999 habitantes"
+983,140119,14,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+984,140305,14,Costa Norte,Área de Empadronamiento Rural (AER) Simple
+985,140301,14,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+986,150502,15,Costa Centro,"De 2,000 a 19,999 habitantes"
+987,150714,15,Costa Centro,"De 2,000 a 19,999 habitantes"
+988,150204,15,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+989,150806,15,Costa Centro,Área de Empadronamiento Rural (AER) Simple
+990,150902,15,Sierra Centro,"De 500 a 1,999 habitantes"
+991,160703,16,Selva,"De 2,000 a 19,999 habitantes"
+992,160106,16,Selva,"De 2,000 a 19,999 habitantes"
+993,160706,16,Selva,Área de Empadronamiento Rural (AER) Compuesto
+994,160104,16,Selva,Área de Empadronamiento Rural (AER) Simple
+995,160108,16,Selva,Área de Empadronamiento Rural (AER) Compuesto
+996,160305,16,Selva,Área de Empadronamiento Rural (AER) Compuesto
+997,160202,16,Selva,Área de Empadronamiento Rural (AER) Compuesto
+998,170104,17,Selva,"De 2,000 a 19,999 habitantes"
+999,170303,17,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1000,180207,18,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1001,180102,18,Sierra Sur,"De 500 a 1,999 habitantes"
+1002,190201,19,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1003,190110,19,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1004,190302,19,Selva,Área de Empadronamiento Rural (AER) Simple
+1005,200607,20,Costa Norte,"De 20,000 a 49,999 habitantes"
+1006,200706,20,Costa Norte,"De 2,000 a 19,999 habitantes"
+1007,200111,20,Costa Norte,"De 2,000 a 19,999 habitantes"
+1008,200308,20,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1009,200303,20,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1010,211103,21,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1011,210806,21,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1012,210106,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1013,210104,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1014,210105,21,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1015,210401,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1016,210204,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1017,220301,22,Selva,"De 2,000 a 19,999 habitantes"
+1018,220303,22,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1019,220503,22,Selva,Área de Empadronamiento Rural (AER) Simple
+1020,220301,22,Selva,Área de Empadronamiento Rural (AER) Simple
+1021,220701,22,Selva,"De 2,000 a 19,999 habitantes"
+1022,220203,22,Selva,"De 2,000 a 19,999 habitantes"
+1023,220911,22,Selva,"De 500 a 1,999 habitantes"
+1024,230301,23,Costa Sur,"De 500 a 1,999 habitantes"
+1025,230302,23,Costa Sur,Área de Empadronamiento Rural (AER) Simple
+1026,240106,24,Costa Norte,"De 2,000 a 19,999 habitantes"
+1027,240104,24,Costa Norte,"De 2,000 a 19,999 habitantes"
+1028,250301,25,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1029,250201,25,Selva,Área de Empadronamiento Rural (AER) Simple
+1030,051004,5,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1031,240302,24,Costa Norte,Área de Empadronamiento Rural (AER) Simple
+1032,150901,15,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1033,150604,15,Costa Centro,Área de Empadronamiento Rural (AER) Simple
+1034,150404,15,Sierra Centro,"De 500 a 1,999 habitantes"
+1035,180210,18,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1036,010502,1,Selva,"De 2,000 a 19,999 habitantes"
+1037,010520,1,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1038,010507,1,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1039,010701,1,Selva,Área de Empadronamiento Rural (AER) Simple
+1040,010604,1,Selva,"De 500 a 1,999 habitantes"
+1041,010703,1,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1042,010704,1,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1043,010403,1,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1044,021509,2,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1045,021104,2,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1046,020601,2,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1047,020205,2,Sierra Centro,"De 500 a 1,999 habitantes"
+1048,020701,2,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1049,020606,2,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1050,021909,2,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1051,021707,2,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1052,030215,3,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1053,030204,3,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1054,030101,3,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1055,030703,3,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1056,030109,3,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1057,030609,3,Sierra Sur,"De 500 a 1,999 habitantes"
+1058,030108,3,Sierra Sur,"De 500 a 1,999 habitantes"
+1059,040123,4,Sierra Sur,"De 500,000 a más habitantes"
+1060,040307,4,Costa Sur,"De 2,000 a 19,999 habitantes"
+1061,040312,4,Costa Sur,"De 500 a 1,999 habitantes"
+1062,040511,4,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1063,040306,4,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1064,050105,5,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1065,050301,5,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1066,050401,5,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1067,050402,5,Sierra Centro,"De 500 a 1,999 habitantes"
+1068,050102,5,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1069,050403,5,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1070,050114,5,Sierra Centro,"De 500 a 1,999 habitantes"
+1071,050403,5,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1072,050409,5,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1073,061001,6,Sierra Norte,"De 2,000 a 19,999 habitantes"
+1074,060903,6,Selva,"De 2,000 a 19,999 habitantes"
+1075,060407,6,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1076,061110,6,Costa Norte,Área de Empadronamiento Rural (AER) Simple
+1077,060601,6,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1078,061105,6,Sierra Norte,"De 500 a 1,999 habitantes"
+1079,060304,6,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1080,061310,6,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1081,060610,6,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1082,060602,6,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1083,060802,6,Selva,Área de Empadronamiento Rural (AER) Simple
+1084,081210,8,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1085,080901,8,Selva,"De 2,000 a 19,999 habitantes"
+1086,080604,8,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1087,080608,8,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1088,080306,8,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1089,080807,8,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1090,080801,8,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1091,080802,8,Sierra Sur,"De 500 a 1,999 habitantes"
+1092,081209,8,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1093,090103,9,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1094,090301,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1095,090705,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1096,090710,9,Sierra Centro,"De 500 a 1,999 habitantes"
+1097,090711,9,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1098,090207,9,Sierra Centro,"De 500 a 1,999 habitantes"
+1099,090103,9,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1100,090704,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1101,090503,9,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1102,100103,10,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1103,100901,10,Selva,"De 2,000 a 19,999 habitantes"
+1104,100608,10,Selva,"De 50,000 a 99,999 habitantes"
+1105,100105,10,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1106,101104,10,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1107,101001,10,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1108,101005,10,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1109,100609,10,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1110,100902,10,Selva,Área de Empadronamiento Rural (AER) Simple
+1111,100901,10,Selva,Área de Empadronamiento Rural (AER) Simple
+1112,100101,10,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1113,110104,11,Costa Centro,"De 2,000 a 19,999 habitantes"
+1114,110111,11,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+1115,120129,12,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1116,120501,12,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1117,120422,12,Sierra Centro,"De 500 a 1,999 habitantes"
+1118,120101,12,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1119,120205,12,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1120,120708,12,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1121,120302,12,Selva,Área de Empadronamiento Rural (AER) Simple
+1122,130109,13,Costa Norte,"De 2,000 a 19,999 habitantes"
+1123,130803,13,Sierra Norte,"De 2,000 a 19,999 habitantes"
+1124,130901,13,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1125,130802,13,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1126,130501,13,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1127,130504,13,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1128,140103,14,Costa Norte,"De 2,000 a 19,999 habitantes"
+1129,140306,14,Costa Norte,"De 2,000 a 19,999 habitantes"
+1130,140104,14,Costa Norte,"De 2,000 a 19,999 habitantes"
+1131,140310,14,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1132,140305,14,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1133,150515,15,Costa Centro,"De 2,000 a 19,999 habitantes"
+1134,150604,15,Costa Centro,"De 2,000 a 19,999 habitantes"
+1135,150407,15,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+1136,151007,15,Sierra Centro,"De 500 a 1,999 habitantes"
+1137,150301,15,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1138,160104,16,Selva,"De 2,000 a 19,999 habitantes"
+1139,160113,16,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1140,160303,16,Selva,"De 500 a 1,999 habitantes"
+1141,160104,16,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1142,160601,16,Selva,Área de Empadronamiento Rural (AER) Simple
+1143,170201,17,Selva,"De 500 a 1,999 habitantes"
+1144,180105,18,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1145,180102,18,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1146,180207,18,Sierra Sur,"De 500 a 1,999 habitantes"
+1147,190308,19,Selva,"De 2,000 a 19,999 habitantes"
+1148,190204,19,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1149,190106,19,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1150,190206,19,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1151,200506,20,Costa Norte,"De 2,000 a 19,999 habitantes"
+1152,200602,20,Costa Norte,"De 100,000 a 499,999 habitantes"
+1153,200306,20,Costa Norte,"De 2,000 a 19,999 habitantes"
+1154,200405,20,Costa Norte,"De 2,000 a 19,999 habitantes"
+1155,200803,20,Costa Norte,"De 2,000 a 19,999 habitantes"
+1156,200202,20,Costa Norte,Área de Empadronamiento Rural (AER) Simple
+1157,200101,20,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1158,200408,20,Costa Norte,Área de Empadronamiento Rural (AER) Simple
+1159,210402,21,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1160,210406,21,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1161,211301,21,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1162,210503,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1163,210503,21,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1164,210805,21,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1165,210212,21,Sierra Sur,"De 500 a 1,999 habitantes"
+1166,210203,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1167,211101,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1168,220809,22,Selva,"De 2,000 a 19,999 habitantes"
+1169,220502,22,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1170,220806,22,Selva,"De 500 a 1,999 habitantes"
+1171,220105,22,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1172,220603,22,Selva,"De 2,000 a 19,999 habitantes"
+1173,220707,22,Selva,"De 2,000 a 19,999 habitantes"
+1174,220202,22,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1175,221005,22,Selva,Área de Empadronamiento Rural (AER) Simple
+1176,230105,23,Costa Sur,Área de Empadronamiento Rural (AER) Compuesto
+1177,230201,23,Sierra Sur,"De 500 a 1,999 habitantes"
+1178,240304,24,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1179,250202,25,Selva,"De 2,000 a 19,999 habitantes"
+1180,250303,25,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1181,250101,25,Selva,Área de Empadronamiento Rural (AER) Simple
+1182,160103,16,Selva,Área de Empadronamiento Rural (AER) Simple
+1183,020302,2,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1184,151031,15,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1185,170101,17,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1186,150501,15,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+1187,010117,1,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1188,010521,1,Sierra Norte,"De 500 a 1,999 habitantes"
+1189,010506,1,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1190,010704,1,Selva,Área de Empadronamiento Rural (AER) Simple
+1191,010602,1,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1192,010512,1,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1193,021801,2,Costa Centro,Área de Empadronamiento Rural (AER) Simple
+1194,022005,2,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+1195,020604,2,Sierra Centro,"De 500 a 1,999 habitantes"
+1196,022008,2,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1197,020509,2,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1198,021301,2,Sierra Centro,"De 500 a 1,999 habitantes"
+1199,030702,3,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1200,030415,3,Sierra Sur,"De 500 a 1,999 habitantes"
+1201,030104,3,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1202,030301,3,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1203,040702,4,Costa Sur,"De 2,000 a 19,999 habitantes"
+1204,040409,4,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1205,040108,4,Costa Sur,Área de Empadronamiento Rural (AER) Compuesto
+1206,040603,4,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1207,040504,4,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1208,050201,5,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1209,051101,5,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1210,050601,5,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1211,050107,5,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1212,050101,5,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1213,050104,5,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1214,050613,5,Sierra Centro,"De 500 a 1,999 habitantes"
+1215,050803,5,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1216,050805,5,Sierra Centro,"De 500 a 1,999 habitantes"
+1217,050206,5,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1218,061101,6,Sierra Norte,"De 2,000 a 19,999 habitantes"
+1219,060901,6,Selva,"De 2,000 a 19,999 habitantes"
+1220,060109,6,Costa Norte,Área de Empadronamiento Rural (AER) Simple
+1221,060310,6,Sierra Norte,"De 500 a 1,999 habitantes"
+1222,060103,6,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1223,060409,6,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1224,060203,6,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1225,060411,6,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1226,060802,6,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1227,060906,6,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1228,060607,6,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1229,081306,8,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1230,080604,8,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1231,080301,8,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1232,080910,8,Selva,"De 2,000 a 19,999 habitantes"
+1233,080701,8,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1234,080602,8,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1235,080604,8,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1236,080906,8,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1237,090723,9,Sierra Centro,"De 500 a 1,999 habitantes"
+1238,090119,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1239,090401,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1240,090407,9,Sierra Centro,"De 500 a 1,999 habitantes"
+1241,090310,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1242,090107,9,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1243,090606,9,Sierra Centro,"De 500 a 1,999 habitantes"
+1244,090306,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1245,100902,10,Selva,"De 2,000 a 19,999 habitantes"
+1246,100605,10,Selva,"De 2,000 a 19,999 habitantes"
+1247,100105,10,Sierra Centro,"De 500 a 1,999 habitantes"
+1248,100510,10,Sierra Centro,"De 500 a 1,999 habitantes"
+1249,101005,10,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1250,100313,10,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1251,101101,10,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1252,100607,10,Selva,Área de Empadronamiento Rural (AER) Simple
+1253,110508,11,Costa Centro,"De 100,000 a 499,999 habitantes"
+1254,110107,11,Costa Centro,"De 2,000 a 19,999 habitantes"
+1255,110503,11,Costa Centro,Área de Empadronamiento Rural (AER) Simple
+1256,110303,11,Costa Centro,"De 500 a 1,999 habitantes"
+1257,120430,12,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1258,120702,12,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1259,120121,12,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1260,120431,12,Sierra Centro,"De 500 a 1,999 habitantes"
+1261,120606,12,Selva,Área de Empadronamiento Rural (AER) Simple
+1262,120305,12,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1263,130611,13,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1264,130903,13,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1265,130602,13,Sierra Norte,"De 500 a 1,999 habitantes"
+1266,140204,14,Costa Norte,Área de Empadronamiento Rural (AER) Simple
+1267,140118,14,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1268,140202,14,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1269,150811,15,Costa Centro,"De 2,000 a 19,999 habitantes"
+1270,150803,15,Costa Centro,"De 100,000 a 499,999 habitantes"
+1271,151001,15,Sierra Centro,"De 500 a 1,999 habitantes"
+1272,160105,16,Selva,"De 2,000 a 19,999 habitantes"
+1273,160605,16,Selva,"De 2,000 a 19,999 habitantes"
+1274,160706,16,Selva,"De 500 a 1,999 habitantes"
+1275,160110,16,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1276,160303,16,Selva,Área de Empadronamiento Rural (AER) Simple
+1277,160803,16,Selva,Área de Empadronamiento Rural (AER) Simple
+1278,160401,16,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1279,160305,16,Selva,Área de Empadronamiento Rural (AER) Simple
+1280,170204,17,Selva,Área de Empadronamiento Rural (AER) Simple
+1281,170102,17,Selva,Área de Empadronamiento Rural (AER) Simple
+1282,180104,18,Costa Sur,Área de Empadronamiento Rural (AER) Simple
+1283,190105,19,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1284,190107,19,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1285,190202,19,Sierra Centro,"De 500 a 1,999 habitantes"
+1286,190113,19,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1287,190301,19,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1288,200404,20,Costa Norte,"De 2,000 a 19,999 habitantes"
+1289,200201,20,Sierra Norte,"De 2,000 a 19,999 habitantes"
+1290,200202,20,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1291,200302,20,Costa Norte,Área de Empadronamiento Rural (AER) Simple
+1292,200805,20,Costa Norte,Área de Empadronamiento Rural (AER) Simple
+1293,210403,21,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1294,210301,21,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1295,210503,21,Sierra Sur,"De 500 a 1,999 habitantes"
+1296,210701,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1297,210301,21,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1298,210407,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1299,210709,21,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1300,211303,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1301,220304,22,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1302,220305,22,Selva,"De 500 a 1,999 habitantes"
+1303,221001,22,Selva,"De 2,000 a 19,999 habitantes"
+1304,220602,22,Selva,Área de Empadronamiento Rural (AER) Simple
+1305,220912,22,Selva,"De 500 a 1,999 habitantes"
+1306,220205,22,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1307,230103,23,Costa Sur,Área de Empadronamiento Rural (AER) Compuesto
+1308,240303,24,Costa Norte,"De 2,000 a 19,999 habitantes"
+1309,240202,24,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1310,250305,25,Selva,"De 2,000 a 19,999 habitantes"
+1311,250102,25,Selva,Área de Empadronamiento Rural (AER) Simple
+1312,250204,25,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1313,040125,4,Costa Sur,"De 500 a 1,999 habitantes"
+1314,150715,15,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1315,220404,22,Selva,Área de Empadronamiento Rural (AER) Simple
+1316,030302,3,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1317,250401,25,Selva,"De 500 a 1,999 habitantes"
+1318,150601,15,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+1319,120434,12,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1320,010306,1,Sierra Norte,"De 2,000 a 19,999 habitantes"
+1321,010120,1,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1322,010706,1,Selva,Área de Empadronamiento Rural (AER) Simple
+1323,010301,1,Selva,"De 500 a 1,999 habitantes"
+1324,010402,1,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1325,010202,1,Selva,Área de Empadronamiento Rural (AER) Simple
+1326,021802,2,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+1327,021501,2,Sierra Centro,"De 500 a 1,999 habitantes"
+1328,020702,2,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1329,020601,2,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1330,020504,2,Sierra Centro,"De 500 a 1,999 habitantes"
+1331,020511,2,Sierra Centro,"De 500 a 1,999 habitantes"
+1332,022002,2,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1333,021206,2,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1334,030216,3,Sierra Sur,"De 50,000 a 99,999 habitantes"
+1335,030604,3,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1336,030406,3,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1337,030108,3,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1338,030404,3,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1339,030209,3,Sierra Sur,"De 500 a 1,999 habitantes"
+1340,030209,3,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1341,030603,3,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1342,040303,4,Costa Sur,"De 2,000 a 19,999 habitantes"
+1343,040801,4,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1344,040501,4,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1345,040807,4,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1346,050108,5,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1347,051005,5,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1348,050505,5,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1349,050701,5,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1350,050405,5,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1351,050508,5,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1352,050403,5,Sierra Centro,"De 500 a 1,999 habitantes"
+1353,050616,5,Sierra Centro,"De 500 a 1,999 habitantes"
+1354,050612,5,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1355,061301,6,Sierra Norte,"De 2,000 a 19,999 habitantes"
+1356,061201,6,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1357,061006,6,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1358,060419,6,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1359,060107,6,Sierra Norte,"De 500 a 1,999 habitantes"
+1360,060805,6,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1361,060903,6,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1362,080907,8,Selva,"De 2,000 a 19,999 habitantes"
+1363,080308,8,Sierra Sur,"De 500 a 1,999 habitantes"
+1364,081103,8,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1365,081205,8,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1366,081302,8,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1367,080408,8,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1368,080910,8,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1369,080905,8,Selva,Área de Empadronamiento Rural (AER) Simple
+1370,090409,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1371,090501,9,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1372,090501,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1373,090101,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1374,090510,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1375,090401,9,Sierra Centro,"De 500 a 1,999 habitantes"
+1376,100317,10,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1377,100313,10,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1378,100201,10,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1379,100503,10,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1380,100701,10,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1381,101105,10,Sierra Centro,"De 500 a 1,999 habitantes"
+1382,100602,10,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1383,100901,10,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1384,110505,11,Costa Centro,"De 2,000 a 19,999 habitantes"
+1385,110204,11,Costa Centro,Área de Empadronamiento Rural (AER) Simple
+1386,110503,11,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+1387,120213,12,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1388,120607,12,Selva,"De 2,000 a 19,999 habitantes"
+1389,120701,12,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1390,120411,12,Sierra Centro,"De 500 a 1,999 habitantes"
+1391,120607,12,Selva,Área de Empadronamiento Rural (AER) Simple
+1392,120608,12,Selva,Área de Empadronamiento Rural (AER) Simple
+1393,120604,12,Selva,Área de Empadronamiento Rural (AER) Simple
+1394,130203,13,Costa Norte,"De 2,000 a 19,999 habitantes"
+1395,130202,13,Costa Norte,"De 2,000 a 19,999 habitantes"
+1396,130107,13,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1397,130206,13,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1398,130808,13,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1399,131001,13,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1400,140312,14,Costa Norte,"De 2,000 a 19,999 habitantes"
+1401,140110,14,Costa Norte,"De 2,000 a 19,999 habitantes"
+1402,140304,14,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1403,140107,14,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1404,150509,15,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+1405,150811,15,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+1406,150906,15,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1407,150606,15,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1408,150607,15,Sierra Centro,"De 500 a 1,999 habitantes"
+1409,160305,16,Selva,"De 2,000 a 19,999 habitantes"
+1410,160606,16,Selva,"De 2,000 a 19,999 habitantes"
+1411,160107,16,Selva,Área de Empadronamiento Rural (AER) Simple
+1412,160108,16,Selva,Área de Empadronamiento Rural (AER) Simple
+1413,160102,16,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1414,160105,16,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1415,170204,17,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1416,180203,18,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1417,190106,19,Sierra Centro,"De 500 a 1,999 habitantes"
+1418,190307,19,Selva,Área de Empadronamiento Rural (AER) Simple
+1419,190307,19,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1420,190304,19,Selva,Área de Empadronamiento Rural (AER) Simple
+1421,200505,20,Costa Norte,"De 2,000 a 19,999 habitantes"
+1422,200304,20,Sierra Norte,"De 2,000 a 19,999 habitantes"
+1423,200401,20,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1424,200403,20,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1425,200206,20,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1426,210809,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1427,210401,21,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1428,210105,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1429,211307,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1430,211210,21,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1431,220502,22,Selva,"De 2,000 a 19,999 habitantes"
+1432,220510,22,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1433,220202,22,Selva,"De 2,000 a 19,999 habitantes"
+1434,220909,22,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1435,230206,23,Sierra Sur,"De 500 a 1,999 habitantes"
+1436,240203,24,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1437,250106,25,Selva,"De 2,000 a 19,999 habitantes"
+1438,250107,25,Selva,Área de Empadronamiento Rural (AER) Simple
+1439,250401,25,Selva,Área de Empadronamiento Rural (AER) Simple
+1440,250106,25,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1441,220802,22,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1442,170201,17,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1443,040705,4,Costa Sur,"De 500 a 1,999 habitantes"
+1444,160304,16,Selva,Área de Empadronamiento Rural (AER) Simple
+1445,010609,1,Selva,Área de Empadronamiento Rural (AER) Simple
+1446,150508,15,Costa Centro,"De 2,000 a 19,999 habitantes"
+1447,151032,15,Sierra Centro,"De 500 a 1,999 habitantes"
+1448,090306,9,Sierra Centro,"De 500 a 1,999 habitantes"
+1449,120105,12,Sierra Centro,"De 500 a 1,999 habitantes"
+1450,010312,1,Selva,"De 2,000 a 19,999 habitantes"
+1451,010306,1,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1452,010515,1,Sierra Norte,"De 500 a 1,999 habitantes"
+1453,010506,1,Sierra Norte,"De 500 a 1,999 habitantes"
+1454,010114,1,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1455,010703,1,Selva,Área de Empadronamiento Rural (AER) Simple
+1456,021805,2,Costa Centro,"De 2,000 a 19,999 habitantes"
+1457,022003,2,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1458,021001,2,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1459,020202,2,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1460,021906,2,Sierra Centro,"De 500 a 1,999 habitantes"
+1461,021205,2,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1462,021004,2,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1463,021908,2,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1464,030204,3,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1465,030416,3,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1466,030606,3,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1467,030206,3,Sierra Sur,"De 500 a 1,999 habitantes"
+1468,030202,3,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1469,030301,3,Sierra Sur,"De 500 a 1,999 habitantes"
+1470,030605,3,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1471,040206,4,Costa Sur,Área de Empadronamiento Rural (AER) Compuesto
+1472,040517,4,Sierra Sur,"De 500 a 1,999 habitantes"
+1473,040406,4,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1474,050507,5,Selva,"De 2,000 a 19,999 habitantes"
+1475,051005,5,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1476,050103,5,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1477,051101,5,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1478,050606,5,Sierra Centro,"De 500 a 1,999 habitantes"
+1479,050301,5,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1480,050702,5,Sierra Centro,"De 500 a 1,999 habitantes"
+1481,060411,6,Sierra Norte,"De 2,000 a 19,999 habitantes"
+1482,060418,6,Costa Norte,"De 500 a 1,999 habitantes"
+1483,061111,6,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1484,060402,6,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1485,060902,6,Selva,Área de Empadronamiento Rural (AER) Simple
+1486,060801,6,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1487,060803,6,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1488,080701,8,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1489,080505,8,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1490,081210,8,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1491,081002,8,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1492,081008,8,Sierra Sur,"De 500 a 1,999 habitantes"
+1493,080909,8,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1494,080901,8,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1495,090117,9,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1496,090701,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1497,090613,9,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1498,090202,9,Sierra Centro,"De 500 a 1,999 habitantes"
+1499,090714,9,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1500,090717,9,Sierra Centro,"De 500 a 1,999 habitantes"
+1501,090604,9,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1502,100803,10,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1503,100207,10,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1504,100404,10,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1505,101107,10,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1506,100208,10,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1507,101106,10,Sierra Centro,"De 500 a 1,999 habitantes"
+1508,100801,10,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1509,110105,11,Costa Centro,"De 2,000 a 19,999 habitantes"
+1510,110102,11,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+1511,110106,11,Costa Centro,Área de Empadronamiento Rural (AER) Simple
+1512,120428,12,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1513,120805,12,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1514,120708,12,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1515,120210,12,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1516,120208,12,Sierra Centro,"De 500 a 1,999 habitantes"
+1517,120204,12,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1518,120602,12,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1519,130701,13,Costa Norte,"De 2,000 a 19,999 habitantes"
+1520,130303,13,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1521,131007,13,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1522,130904,13,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1523,140116,14,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1524,140203,14,Sierra Norte,"De 500 a 1,999 habitantes"
+1525,150701,15,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1526,150810,15,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+1527,150602,15,Sierra Centro,"De 500 a 1,999 habitantes"
+1528,151020,15,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1529,160601,16,Selva,"De 2,000 a 19,999 habitantes"
+1530,160201,16,Selva,Área de Empadronamiento Rural (AER) Simple
+1531,160201,16,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1532,160605,16,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1533,160706,16,Selva,Área de Empadronamiento Rural (AER) Simple
+1534,180202,18,Sierra Sur,"De 500 a 1,999 habitantes"
+1535,190208,19,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1536,190308,19,Selva,Área de Empadronamiento Rural (AER) Simple
+1537,190305,19,Selva,Área de Empadronamiento Rural (AER) Simple
+1538,200608,20,Costa Norte,"De 2,000 a 19,999 habitantes"
+1539,200108,20,Costa Norte,"De 2,000 a 19,999 habitantes"
+1540,200208,20,Costa Norte,"De 500 a 1,999 habitantes"
+1541,200114,20,Costa Norte,Área de Empadronamiento Rural (AER) Simple
+1542,200403,20,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1543,210306,21,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1544,210201,21,Sierra Sur,"De 20,000 a 49,999 habitantes"
+1545,211104,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1546,210112,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1547,211203,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1548,210702,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1549,210405,21,Sierra Sur,"De 500 a 1,999 habitantes"
+1550,220506,22,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1551,220405,22,Selva,"De 500 a 1,999 habitantes"
+1552,221005,22,Selva,"De 2,000 a 19,999 habitantes"
+1553,220913,22,Selva,"De 2,000 a 19,999 habitantes"
+1554,220708,22,Selva,"De 2,000 a 19,999 habitantes"
+1555,220710,22,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1556,221001,22,Selva,Área de Empadronamiento Rural (AER) Simple
+1557,220707,22,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1558,230301,23,Costa Sur,Área de Empadronamiento Rural (AER) Compuesto
+1559,230303,23,Costa Sur,"De 500 a 1,999 habitantes"
+1560,230108,23,Costa Sur,Área de Empadronamiento Rural (AER) Compuesto
+1561,240201,24,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1562,250203,25,Selva,Área de Empadronamiento Rural (AER) Simple
+1563,250203,25,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1564,050304,5,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1565,170202,17,Selva,Área de Empadronamiento Rural (AER) Simple
+1566,150129,15,Lima Metropolitana,"De 500,000 a más habitantes"
+1567,010203,1,Selva,"De 2,000 a 19,999 habitantes"
+1568,010202,1,Selva,"De 2,000 a 19,999 habitantes"
+1569,010608,1,Selva,Área de Empadronamiento Rural (AER) Simple
+1570,010705,1,Selva,"De 500 a 1,999 habitantes"
+1571,010705,1,Selva,Área de Empadronamiento Rural (AER) Simple
+1572,010702,1,Selva,Área de Empadronamiento Rural (AER) Simple
+1573,021806,2,Costa Centro,"De 2,000 a 19,999 habitantes"
+1574,021103,2,Costa Centro,"De 500 a 1,999 habitantes"
+1575,020701,2,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1576,021008,2,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1577,020105,2,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1578,021007,2,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1579,022001,2,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1580,021005,2,Sierra Centro,"De 500 a 1,999 habitantes"
+1581,030204,3,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1582,030604,3,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1583,030306,3,Sierra Sur,"De 500 a 1,999 habitantes"
+1584,030707,3,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1585,030503,3,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1586,040706,4,Costa Sur,"De 2,000 a 19,999 habitantes"
+1587,040309,4,Costa Sur,Área de Empadronamiento Rural (AER) Compuesto
+1588,040312,4,Costa Sur,Área de Empadronamiento Rural (AER) Compuesto
+1589,040106,4,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1590,040802,4,Sierra Sur,"De 500 a 1,999 habitantes"
+1591,050509,5,Selva,"De 2,000 a 19,999 habitantes"
+1592,050407,5,Selva,"De 2,000 a 19,999 habitantes"
+1593,051106,5,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1594,051004,5,Sierra Centro,"De 500 a 1,999 habitantes"
+1595,050205,5,Sierra Centro,"De 500 a 1,999 habitantes"
+1596,050202,5,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1597,050103,5,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1598,060904,6,Selva,"De 2,000 a 19,999 habitantes"
+1599,060308,6,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1600,060203,6,Sierra Norte,"De 500 a 1,999 habitantes"
+1601,060102,6,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1602,060303,6,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1603,060812,6,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1604,060907,6,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1605,060606,6,Selva,Área de Empadronamiento Rural (AER) Simple
+1606,081101,8,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1607,080805,8,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1608,080408,8,Selva,"De 2,000 a 19,999 habitantes"
+1609,080307,8,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1610,080705,8,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1611,081305,8,Sierra Sur,"De 500 a 1,999 habitantes"
+1612,081301,8,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1613,080403,8,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1614,080908,8,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1615,090717,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1616,090509,9,Sierra Centro,"De 500 a 1,999 habitantes"
+1617,090112,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1618,090715,9,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1619,090613,9,Sierra Centro,"De 500 a 1,999 habitantes"
+1620,090118,9,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1621,100311,10,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1622,100205,10,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1623,100323,10,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1624,100323,10,Sierra Centro,"De 500 a 1,999 habitantes"
+1625,100113,10,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1626,100311,10,Sierra Centro,"De 500 a 1,999 habitantes"
+1627,100604,10,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1628,110211,11,Costa Centro,"De 2,000 a 19,999 habitantes"
+1629,110202,11,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+1630,110403,11,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+1631,110402,11,Costa Centro,"De 500 a 1,999 habitantes"
+1632,120201,12,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1633,120904,12,Sierra Centro,"De 500 a 1,999 habitantes"
+1634,120206,12,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1635,120706,12,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1636,120424,12,Sierra Centro,"De 500 a 1,999 habitantes"
+1637,120124,12,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1638,120902,12,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1639,120304,12,Selva,Área de Empadronamiento Rural (AER) Simple
+1640,130401,13,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1641,130107,13,Costa Norte,Área de Empadronamiento Rural (AER) Simple
+1642,130601,13,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1643,130809,13,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1644,150807,15,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1645,151030,15,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1646,150711,15,Sierra Centro,"De 500 a 1,999 habitantes"
+1647,160702,16,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1648,160301,16,Selva,Área de Empadronamiento Rural (AER) Simple
+1649,160602,16,Selva,"De 500 a 1,999 habitantes"
+1650,160507,16,Selva,Área de Empadronamiento Rural (AER) Simple
+1651,170301,17,Selva,"De 500 a 1,999 habitantes"
+1652,170303,17,Selva,Área de Empadronamiento Rural (AER) Simple
+1653,180201,18,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1654,180103,18,Sierra Sur,"De 500 a 1,999 habitantes"
+1655,190302,19,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1656,200504,20,Costa Norte,"De 2,000 a 19,999 habitantes"
+1657,200507,20,Costa Norte,"De 2,000 a 19,999 habitantes"
+1658,200207,20,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1659,200302,20,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1660,200111,20,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1661,200206,20,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1662,210204,21,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1663,210601,21,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1664,210310,21,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1665,211301,21,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1666,210201,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1667,211003,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1668,210603,21,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1669,211002,21,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1670,210403,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1671,220404,22,Selva,"De 2,000 a 19,999 habitantes"
+1672,220504,22,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1673,220301,22,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1674,220206,22,Selva,"De 2,000 a 19,999 habitantes"
+1675,220708,22,Selva,Área de Empadronamiento Rural (AER) Simple
+1676,221002,22,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1677,230111,23,Costa Sur,"De 500 a 1,999 habitantes"
+1678,240103,24,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1679,250105,25,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1680,030601,3,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1681,250302,25,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1682,230402,23,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1683,150603,15,Costa Centro,"De 500 a 1,999 habitantes"
+1684,190108,19,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1685,090204,9,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1686,090720,9,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1687,010205,1,Selva,"De 2,000 a 19,999 habitantes"
+1688,010109,1,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1689,010115,1,Sierra Norte,"De 500 a 1,999 habitantes"
+1690,010312,1,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1691,010201,1,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1692,010601,1,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1693,010707,1,Selva,Área de Empadronamiento Rural (AER) Simple
+1694,021803,2,Costa Centro,"De 100,000 a 499,999 habitantes"
+1695,020801,2,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+1696,020901,2,Sierra Centro,"De 500 a 1,999 habitantes"
+1697,020108,2,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1698,020105,2,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1699,021308,2,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1700,020703,2,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1701,020601,2,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1702,030107,3,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1703,030102,3,Sierra Sur,"De 500 a 1,999 habitantes"
+1704,030414,3,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1705,030502,3,Sierra Sur,"De 500 a 1,999 habitantes"
+1706,030207,3,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1707,040206,4,Costa Sur,"De 2,000 a 19,999 habitantes"
+1708,040203,4,Costa Sur,Área de Empadronamiento Rural (AER) Compuesto
+1709,040401,4,Costa Sur,Área de Empadronamiento Rural (AER) Compuesto
+1710,040519,4,Sierra Sur,"De 500 a 1,999 habitantes"
+1711,040608,4,Sierra Sur,"De 500 a 1,999 habitantes"
+1712,050408,5,Selva,"De 2,000 a 19,999 habitantes"
+1713,050903,5,Sierra Centro,"De 500 a 1,999 habitantes"
+1714,051002,5,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1715,050410,5,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1716,050606,5,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1717,061201,6,Sierra Norte,"De 2,000 a 19,999 habitantes"
+1718,061309,6,Sierra Norte,"De 500 a 1,999 habitantes"
+1719,060415,6,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1720,060202,6,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1721,060202,6,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1722,061113,6,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1723,060307,6,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1724,060607,6,Selva,Área de Empadronamiento Rural (AER) Simple
+1725,080501,8,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1726,080705,8,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1727,081202,8,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1728,081001,8,Sierra Sur,"De 500 a 1,999 habitantes"
+1729,081101,8,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1730,080909,8,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1731,080503,8,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1732,081303,8,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1733,081106,8,Selva,Área de Empadronamiento Rural (AER) Simple
+1734,090601,9,Sierra Centro,"De 500 a 1,999 habitantes"
+1735,090504,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1736,090412,9,Sierra Centro,"De 500 a 1,999 habitantes"
+1737,090402,9,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1738,090714,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1739,090603,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1740,090208,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1741,100401,10,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1742,101001,10,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1743,100401,10,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1744,100113,10,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1745,100323,10,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1746,101007,10,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1747,110504,11,Costa Centro,"De 2,000 a 19,999 habitantes"
+1748,110111,11,Costa Centro,Área de Empadronamiento Rural (AER) Simple
+1749,110209,11,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1750,120810,12,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1751,120210,12,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1752,120802,12,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1753,120403,12,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1754,120901,12,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1755,120502,12,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1756,120412,12,Sierra Centro,"De 500 a 1,999 habitantes"
+1757,130808,13,Sierra Norte,"De 2,000 a 19,999 habitantes"
+1758,131006,13,Sierra Norte,"De 2,000 a 19,999 habitantes"
+1759,130702,13,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1760,130801,13,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1761,130503,13,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1762,140119,14,Costa Norte,"De 2,000 a 19,999 habitantes"
+1763,140107,14,Costa Norte,"De 2,000 a 19,999 habitantes"
+1764,140106,14,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1765,140203,14,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1766,150138,15,Lima Metropolitana,"De 500,000 a más habitantes"
+1767,150723,15,Sierra Centro,"De 500 a 1,999 habitantes"
+1768,150304,15,Sierra Centro,"De 500 a 1,999 habitantes"
+1769,150403,15,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1770,160112,16,Selva,Área de Empadronamiento Rural (AER) Simple
+1771,160802,16,Selva,"De 500 a 1,999 habitantes"
+1772,160509,16,Selva,Área de Empadronamiento Rural (AER) Simple
+1773,180211,18,Sierra Sur,"De 500 a 1,999 habitantes"
+1774,190303,19,Selva,"De 2,000 a 19,999 habitantes"
+1775,190208,19,Sierra Centro,"De 500 a 1,999 habitantes"
+1776,190303,19,Selva,Área de Empadronamiento Rural (AER) Simple
+1777,200406,20,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1778,200607,20,Costa Norte,Área de Empadronamiento Rural (AER) Simple
+1779,200601,20,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1780,210305,21,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1781,210206,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1782,210608,21,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1783,210808,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1784,210214,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1785,211208,21,Selva,"De 500 a 1,999 habitantes"
+1786,220401,22,Selva,"De 2,000 a 19,999 habitantes"
+1787,220802,22,Selva,"De 2,000 a 19,999 habitantes"
+1788,220804,22,Selva,Área de Empadronamiento Rural (AER) Simple
+1789,220104,22,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1790,220104,22,Selva,Área de Empadronamiento Rural (AER) Simple
+1791,221001,22,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1792,230107,23,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1793,230401,23,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1794,230408,23,Sierra Sur,"De 500 a 1,999 habitantes"
+1795,250303,25,Selva,Área de Empadronamiento Rural (AER) Simple
+1796,190107,19,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1797,100202,10,Sierra Centro,"De 500 a 1,999 habitantes"
+1798,170203,17,Selva,Área de Empadronamiento Rural (AER) Simple
+1799,150724,15,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1800,010206,1,Selva,"De 2,000 a 19,999 habitantes"
+1801,010504,1,Sierra Norte,"De 500 a 1,999 habitantes"
+1802,010113,1,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1803,010607,1,Selva,"De 500 a 1,999 habitantes"
+1804,010604,1,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1805,010607,1,Selva,Área de Empadronamiento Rural (AER) Simple
+1806,020804,2,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+1807,021909,2,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1808,021407,2,Sierra Centro,"De 500 a 1,999 habitantes"
+1809,021302,2,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1810,020108,2,Sierra Centro,"De 500 a 1,999 habitantes"
+1811,020605,2,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1812,030215,3,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1813,030212,3,Sierra Sur,"De 500 a 1,999 habitantes"
+1814,030103,3,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1815,030605,3,Sierra Sur,"De 500 a 1,999 habitantes"
+1816,030415,3,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1817,030105,3,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1818,030708,3,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1819,040511,4,Sierra Sur,"De 500 a 1,999 habitantes"
+1820,050501,5,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1821,050105,5,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1822,050303,5,Sierra Centro,"De 500 a 1,999 habitantes"
+1823,050804,5,Sierra Centro,"De 500 a 1,999 habitantes"
+1824,051108,5,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1825,050407,5,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1826,061305,6,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1827,060302,6,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1828,060507,6,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1829,061301,6,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1830,060604,6,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1831,060604,6,Selva,"De 500 a 1,999 habitantes"
+1832,081208,8,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1833,080902,8,Selva,"De 2,000 a 19,999 habitantes"
+1834,080805,8,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1835,081006,8,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1836,080206,8,Sierra Sur,"De 500 a 1,999 habitantes"
+1837,080505,8,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1838,080301,8,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1839,090206,9,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1840,090105,9,Sierra Centro,"De 500 a 1,999 habitantes"
+1841,090609,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1842,090118,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1843,090204,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1844,090711,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1845,090707,9,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1846,100207,10,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1847,100802,10,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1848,100703,10,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1849,100803,10,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1850,100112,10,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1851,100104,10,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1852,100903,10,Selva,"De 500 a 1,999 habitantes"
+1853,110113,11,Costa Centro,"De 2,000 a 19,999 habitantes"
+1854,110104,11,Costa Centro,Área de Empadronamiento Rural (AER) Compuesto
+1855,120212,12,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1856,120126,12,Sierra Centro,"De 2,000 a 19,999 habitantes"
+1857,120702,12,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1858,120903,12,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1859,120135,12,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1860,120604,12,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1861,120304,12,Selva,"De 500 a 1,999 habitantes"
+1862,130403,13,Costa Norte,"De 2,000 a 19,999 habitantes"
+1863,130908,13,Sierra Norte,Área de Empadronamiento Rural (AER) Compuesto
+1864,130907,13,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1865,130502,13,Sierra Norte,"De 500 a 1,999 habitantes"
+1866,140206,14,Costa Norte,"De 2,000 a 19,999 habitantes"
+1867,140112,14,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1868,150728,15,Costa Centro,"De 2,000 a 19,999 habitantes"
+1869,150507,15,Costa Centro,Área de Empadronamiento Rural (AER) Simple
+1870,151023,15,Costa Centro,"De 500 a 1,999 habitantes"
+1871,150713,15,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1872,150302,15,Sierra Centro,"De 500 a 1,999 habitantes"
+1873,150802,15,Sierra Centro,Área de Empadronamiento Rural (AER) Compuesto
+1874,160510,16,Selva,"De 2,000 a 19,999 habitantes"
+1875,160801,16,Selva,"De 2,000 a 19,999 habitantes"
+1876,160505,16,Selva,Área de Empadronamiento Rural (AER) Simple
+1877,190103,19,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1878,200208,20,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1879,200306,20,Costa Norte,Área de Empadronamiento Rural (AER) Compuesto
+1880,200304,20,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1881,200201,20,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1882,210102,21,Sierra Sur,"De 2,000 a 19,999 habitantes"
+1883,210308,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1884,210111,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1885,210301,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1886,210707,21,Sierra Sur,"De 500 a 1,999 habitantes"
+1887,210307,21,Sierra Sur,"De 500 a 1,999 habitantes"
+1888,211204,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1889,211001,21,Sierra Sur,Área de Empadronamiento Rural (AER) Compuesto
+1890,210106,21,Sierra Sur,Área de Empadronamiento Rural (AER) Simple
+1891,220303,22,Selva,"De 2,000 a 19,999 habitantes"
+1892,220805,22,Selva,"De 2,000 a 19,999 habitantes"
+1893,220405,22,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1894,221003,22,Selva,"De 2,000 a 19,999 habitantes"
+1895,220602,22,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1896,220907,22,Selva,Área de Empadronamiento Rural (AER) Compuesto
+1897,220703,22,Selva,"De 500 a 1,999 habitantes"
+1898,230403,23,Sierra Sur,"De 500 a 1,999 habitantes"
+1899,240202,24,Costa Norte,Área de Empadronamiento Rural (AER) Simple
+1900,040413,4,Costa Sur,Área de Empadronamiento Rural (AER) Simple
+1901,160404,16,Selva,Área de Empadronamiento Rural (AER) Simple
+1902,140203,14,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1903,010503,1,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
+1904,050615,5,Sierra Centro,Área de Empadronamiento Rural (AER) Simple
+1905,060601,6,Sierra Norte,Área de Empadronamiento Rural (AER) Simple
