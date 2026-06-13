@@ -1,0 +1,5 @@
+﻿ID_SEGMENTO,SEGMENTO,DESCRIPCION,COLOR_HEX
+1,Ahorrador Sólido,Ahorra 15% o más de su ingreso.,#2CA02C
+2,Equilibrio / Supervivencia,"Ahorra menos del 15%, pero no tiene déficit.",#FF7F0E
+3,Déficit Leve,Gasta hasta un 15% más de lo que ingresa.,#D62728
+4,Déficit Crítico,Gasta más de un 15% por encima de su ingreso.,#8C564B

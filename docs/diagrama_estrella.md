@@ -17,6 +17,8 @@ erDiagram
         float GAS_PERCAPITA "Gasto Per Cápita"
         float BRECHA_PERCAPITA "Brecha Per Cápita"
         float GRU11HD_PCT "8 métricas de porcentajes"
+        float TASA_AHORRO "Métrica Derivada (E4)"
+        int ID_SEGMENTO FK "Llave Foránea (E4)"
     }
 
     %% Definición de las Dimensiones
@@ -40,8 +42,15 @@ erDiagram
         int EN_DEFICIT "0=Sin déficit, 1=Con déficit"
     }
 
+    DIM_SEGMENTO {
+        int ID_SEGMENTO PK "Clave Primaria"
+        string SEGMENTO "Perfil de Ahorro"
+        string DESCRIPCION "Lógica Analítica"
+    }
+
     %% Relaciones (1 a Muchos)
     DIM_GEOGRAFIA ||--o{ FACT_HOGARES : "Filtra"
     DIM_TIEMPO ||--o{ FACT_HOGARES : "Filtra"
     DIM_POBREZA ||--o{ FACT_HOGARES : "Filtra"
+    DIM_SEGMENTO ||--o{ FACT_HOGARES : "Filtra"
 ```
