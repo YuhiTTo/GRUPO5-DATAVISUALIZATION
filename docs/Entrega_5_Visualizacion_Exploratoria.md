@@ -12,7 +12,7 @@ Acatando las mejores prácticas de diseño ejecutivo y las directrices metodoló
 
 > **Focalización MIDIS 2024: ¿Qué departamentos concentran la mayor incidencia de hogares en Déficit Crítico operativo y cuál es el impacto en su seguridad alimentaria?**
 
-* **El Problema Crítico de Negocio:** El **23.8% de los hogares peruanos (casi 1 de cada 4)** opera bajo un régimen de **Déficit Crítico financiero** (`ID_SEGMENTO = 4`, Tasa de Ahorro < -15%). El análisis exploratorio evidencia que estas familias no sufren de un endeudamiento suntuario o secundario, sino de un déficit de subsistencia primaria: destinan en promedio el **46.2% de su gasto monetario exclusivamente a alimentarse (`GRU11HD_PCT`)**, dejándolos con un margen de holgura nulo ante choques inflacionarios en la canasta básica.
+* **El Problema Crítico de Negocio:** El **23.8% de los hogares peruanos (casi 1 de cada 4)** opera bajo un régimen de **Déficit Crítico financiero** (`ID_SEGMENTO = 4`, Tasa de Ahorro < -15%). El análisis exploratorio evidencia que estas familias no sufren de un endeudamiento suntuario o secundario, sino de un déficit de subsistencia primaria: destinan en promedio el **48.0% de su gasto monetario exclusivamente a alimentarse (`GRU11HD_PCT`)**, dejándolos con un margen de holgura nulo ante choques inflacionarios en la canasta básica.
 
 ---
 
@@ -38,7 +38,7 @@ Para demostrar rigor metodológico, **se evitó documentar descartes genéricos 
    * **Justificación de descarte contextual:** Al proyectar simultáneamente los 33,691 puntos individuales del módulo Sumaria, se produce un colapso visual severo denominado **Overplotting** (solapamiento masivo): los puntos se amontonan en los deciles medios y bajos formando una mancha oscura ilegible que oculta la verdadera densidad de vulnerabilidad. Para garantizar una toma de decisiones de políticas públicas en milisegundos por parte del MIDIS, es fisiológicamente superior sintetizar la relación en los **4 Clústeres Financieros (`dim_segmento`)**.
 2. **Descarte Técnico 2: Diagrama de árbol (Treemap) o Gráfico de burbujas apiladas**
    * **Pertenencia al sílabo:** Enseñados como alternativas visuales para mostrar la composición de partes de un todo.
-   * **Justificación de descarte contextual:** Los 8 rubros de gasto de la ENAHO presentan una disparidad de magnitud extrema (Alimentos representa ~46%, mientras que Salud o Enseñanza apenas ~2%). En un *Treemap* o *Burbujas*, los recuadros o círculos de los rubros pequeños colapsan visualmente y sus etiquetas numéricas se truncan en errores legibles (`###`). Fisiológicamente, el ojo humano evalúa proporciones con mayor precisión al comparar longitudes alineadas sobre un eje base (*Stacked Bar*) que áreas bidimensionales flotantes.
+   * **Justificación de descarte contextual:** Los 8 rubros de gasto de la ENAHO presentan una disparidad de magnitud extrema (Alimentos representa ~48%, mientras que Salud o Enseñanza apenas ~2%). En un *Treemap* o *Burbujas*, los recuadros o círculos de los rubros pequeños colapsan visualmente y sus etiquetas numéricas se truncan en errores legibles (`###`). Fisiológicamente, el ojo humano evalúa proporciones con mayor precisión al comparar longitudes alineadas sobre un eje base (*Stacked Bar*) que áreas bidimensionales flotantes.
 
 ---
 
@@ -48,21 +48,21 @@ Para cumplir con el requisito de la rúbrica oficial (*"documento corto con 3 a 
 
 ### 3.1. Insight 1 (Incrustado en Dashboard Alpha): Asfixia Alimentaria y Trampa Rural del Déficit Crítico
 * **1 - FOCO (El problema operativo dominante):**  
-  El **23.8% de los hogares peruanos (~2.4 millones de familias ponderadas)** opera en Déficit Crítico operativo permanente (`ID_SEGMENTO = 4`). Su canasta básica presenta asfixia calórica severa: destinan el **46.2% de su efectivo exclusivamente a comprar alimentos (`GRU11HD_PCT` en Vista Principal)**, operando con una brecha media de **-S/ 312 mensuales per cápita**.
+  El **23.8% de los hogares peruanos (~2.4 millones de familias ponderadas)** opera en Déficit Crítico operativo permanente (`ID_SEGMENTO = 4`). Su canasta básica presenta asfixia calórica severa: destinan el **48.0% de su efectivo exclusivamente a comprar alimentos (`GRU11HD_PCT` en Vista Principal)**, operando con una brecha media de **-S/ 286 mensuales per cápita**.
 * **2 - DRIVER (Explicadores espaciales y temporales):**  
-  La trampa financiera se concentra territorialmente en **Cajamarca, Loreto y Puno (>38% de déficit crítico en el Ranking del Soporte A)** debido al desacople entre ingresos agropecuarios y costos fijos productivos. Asimismo, la serie longitudinal (**Soporte B**) revela que este déficit se agudiza drásticamente en **marzo (-18% vs promedio)** por el gasto escolar (`GRU71HD`).
+  La trampa financiera se concentra territorialmente en el sur y norte rural, liderado por **Puno (38.3% en Déficit Crítico), Loreto (30.5%) y Cajamarca (26.2%)** en el Ranking del *Soporte A*, debido al desacople entre ingresos agropecuarios y costos fijos productivos. Asimismo, la serie longitudinal (*Soporte B*) revela una oscilación anual de 3.9 pp en la incidencia de déficit (peor mes en marzo con 25.8% vs mejor mes en diciembre con 21.9%) y una tensión financiera máxima en enero (-10.3% de brecha).
 * **3 - ACCIÓN (Sugerencia de mitigación MIDIS):**  
-  Priorizar la focalización del **Programa de Complementación Alimentaria (PCA)** en las provincias críticas del Ranking (*Soporte A*), otorgando subsidios económicos e insumos directos a **comedores populares y ollas comunes** para garantizar raciones de alimentos calóricos a las familias del Clúster 4. Complementariamente, **adelantar la entrega gubernamental del apoyo escolar a febrero** para amortiguar el choque financiero de marzo (*Soporte B*).
+  Priorizar la focalización del **Programa de Complementación Alimentaria (PCA)** en las provincias críticas del Ranking (*Soporte A*), otorgando subsidios económicos e insumos directos a **comedores populares y ollas comunes** para garantizar raciones de alimentos calóricos a las familias del Clúster 4. Complementariamente, **reforzar la asistencia temporal a inicios de año** para amortiguar la tensión financiera del primer trimestre (*Soporte B*).
 
-### 3.2. Insight 2 (Exploración Longitudinal en Workbook): El Choque Escolar de Marzo y su Efecto Dominó
-* **1 - FOCO:** La holgura financiera nacional sufre una caída poblacional crítica del ~18% durante el mes de marzo. Este choque escolar empuja temporalmente a un **12% de hogares situados en "Equilibrio" (`ID_SEGMENTO = 2`) y "Déficit Leve" (`ID_SEGMENTO = 3`) directamente hacia la zona de Déficit Crítico (`ID_SEGMENTO = 4`)**, incrementando drásticamente la vulnerabilidad extrema durante el primer trimestre.
-* **2 - DRIVER:** El gasto monetario en el rubro de Enseñanza y Cultura (`GRU71HD`) experimenta un crecimiento del **115% entre febrero y marzo** asociado al pago de matrículas, textos y uniformes escolares, absorbiendo hasta el 35% del ingreso mensual disponible en familias intermedias.
-* **3 - ACCIÓN:** Promover ferias escolares públicas a costo social coordinadas con municipalidades provinciales y normar el fraccionamiento de cuotas extraordinarias en entidades educativas durante el primer trimestre para evitar la descapitalización familiar violenta.
+### 3.2. Insight 2 (Exploración de Composición en Workbook): El Gasto en Salud como Señal de Déficit Oculto
+* **1 - FOCO:** De forma contraintuitiva, los hogares en Déficit Crítico (`ID_SEGMENTO = 4`) gastan **más en salud en términos absolutos que los Ahorradores Sólidos (`ID_SEGMENTO = 1`)**: destinan **S/ 1,417 vs S/ 1,048 anuales**. En peso relativo, la salud absorbe el **7.1% de su canasta monetaria frente al 5.6%** de los sectores con superávit (`GRU81HD_PCT`).
+* **2 - DRIVER:** Este comportamiento revela que la caída en déficit crítico no obedece a consumos superfluos o suntuarios, sino a eventos médicos inelásticos y emergencias de salud no cubiertas que obligan a las familias vulnerables a descapitalizarse mediante gasto de bolsillo (*out-of-pocket*).
+* **3 - ACCIÓN:** Ampliar la cobertura financiera, de medicamentos e intervenciones del **Seguro Integral de Salud (SIS)** con focalización prioritaria en los hogares del Clúster 4, liberando este gasto cautivo para que el presupuesto familiar pueda redirigirse a la nutrición básica.
 
-### 3.3. Insight 3 (Exploración de Distribución en Workbook): Umbral Demográfico y Falsos Positivos Urbanos
-* **1 - FOCO:** Regiones con baja pobreza monetaria oficial (como Ica, Callao o Arequipa) ocultan bolsones intermedios donde la capacidad financiera (`TASA_AHORRO` en Boxplot) cae abruptamente a terreno negativo a partir del quinto miembro del hogar (`MIEPERHO >= 5`).
-* **2 - DRIVER:** Las economías de escala internas amortiguan los gastos de vivienda (`GRU31HD`), pero colapsan al superar los 4 integrantes. En hogares medianos y grandes, el gasto variable en transporte (`GRU61HD`) y salud (`GRU81HD`) crece de forma exponencial, destruyendo el margen de ahorro en el 68% de los registros.
-* **3 - ACCIÓN:** Rediseñar los baremos de elegibilidad de programas de protección social urbana (*Cuna Más*, becas técnicas) para incorporar la carga de dependencia demográfica (`MIEPERHO`) como factor crítico de puntuación, evitando excluir a familias numerosas en vulnerabilidad oculta.
+### 3.3. Insight 3 (Exploración Relacional en Workbook): La Paradoja del "No Pobre" en Déficit Crítico
+* **1 - FOCO:** El **81.7% de los hogares en Déficit Crítico (`ID_SEGMENTO = 4`) es clasificado oficialmente como "No Pobre"** según la metodología monetaria tradicional del INEI (6,545 de 8,009 hogares encuestados en asfixia severa no aparecen en los padrones de pobreza oficial).
+* **2 - DRIVER:** Existe una fractura estructural entre la medición oficial de pobreza (evaluada únicamente por umbrales de ingreso bruto per cápita) y la vulnerabilidad financiera operativa real (evaluada por el balance neto de ingresos menos gastos y la capacidad de ahorro familiar).
+* **3 - ACCIÓN:** Incorporar la variable **`TASA_AHORRO` y el balance operativo de los hogares como criterios complementarios de elegibilidad** en el Sistema de Focalización de Hogares (SISFOH) del MIDIS, evitando que casi 1 de cada 4 familias "no pobres" que vive en asfixia permanente quede excluida de las redes de protección del Estado.
 
 ---
 
@@ -76,18 +76,18 @@ El prototipo funcional en Tableau replica fielmente la jerarquía visual operati
 |          Periodo: 2024 enero a diciembre | Filtros: [Dominio] [Estrato] [Clúster] [Trimestre/Mes]|
 +------------------------+------------------------+------------------------+------------------------+
 |  KPI 1: HOGARES DÉFICIT|  KPI 2: BRECHA MEDIA   |  KPI 3: PESO ALIMENTOS |  KPI 4: AHORRO PAÍS    |
-|  23.8%                 |  -S/ 312 / mes         |  46.2% / canasta       |  14.2%                 |
-|  Alerta crítica (>20%) |  Media poblacional     |  Inelasticidad severa  |  Promedio nacional     |
+|  23.8%                 |  -S/ 286 / mes         |  48.0% / canasta       |  11.2%                 |
+|  Alerta crítica (>20%) |  Media poblacional     |  Inelasticidad severa  |  Mediana nacional      |
 +------------------------+------------------------+------------------------+------------------------+
 |                                                  | PANEL DE INSIGHTS (Barra Lateral Derecha)       |
 |  VISTA PRINCIPAL DOMINANTE                       | Donde priorizar capacidad presupuestaria MIDIS  |
 |  Gráfico de Barras Apiladas 100%                 |                                                 |
 |  • Eje X: Clústeres Financieros (Segmentos 1 al 4) | 1 - FOCO: Déficit alimentario severo            |
-|  • Eje Y: % de participación por rubro (1 al 8)  | El Clúster 4 destina 46.2% a comer; nulo margen |
+|  • Eje Y: % de participación por rubro (1 al 8)  | El Clúster 4 destina 48.0% a comer; nulo margen |
 |                                                  | ante shocks de precios agrícolas.               |
 |  Dominancia visual: Resalta en verde el enorme   |                                                 |
-|  bloque alimentario del Clúster 4.               | 2 - DRIVER: Sierra Norte y Selva rural          |
-|                                                  | Cajamarca y Loreto superan el 38% de déficit    |
+|  bloque alimentario del Clúster 4.               | 2 - DRIVER: Sur y Norte rural                   |
+|                                                  | Puno supera el 38% y Loreto el 30% de déficit   |
 +-------------------------+------------------------+ por desacople de ingresos agropecuarios.        |
 |  SOPORTE A (Driver)     | SOPORTE B (Excepción)  |                                                 |
 |  Ranking Departamentos  | Tendencia Estacional   | 3 - ACCION: Subsidios e insumos directos PCA    |
