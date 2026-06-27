@@ -24,10 +24,10 @@ La selección visual del **Workbook preliminar en Tableau** responde estrictamen
 
 | Eje Analítico | Gráfico Oficial Seleccionado | Variables Mapeadas en Tableau | Justificación Técnica Breve (Matriz de Elección del Curso) | Ubicación Operativa |
 | :--- | :--- | :--- | :--- | :--- |
-| **Relación / Composición** | **Gráfico de barras apiladas (Stacked Bar 100%)** | • Eje X: `ID_SEGMENTO` (Clúster 1 al 4)<br>• Eje Y: `GRU11HD_PCT` a `GRU81HD_PCT`<br>• Color: Paleta semántica de rubros | **Regla oficial:** *"Composición: Stacked bar (no pie)"*. Normaliza canastas monetarias heterogéneas al 100%. Evidencia de forma dominante la asfixia estructural del Clúster 4, donde el rubro Alimentos (verde) absorbe casi la mitad del presupuesto. | **Vista Principal Dominante (Lienzo Central)** |
+| **Relación / Composición** | **Resaltar Tabla (Highlight Table / Cuadrícula de Calor)** | • Columnas: `ID_SEGMENTO` (Clúster 1 al 4)<br>• Filas: `Nombres de medida` (`GRU11HD_PCT` a `GRU81HD_PCT`)<br>• Texto y Color: `Valores de medida` | **Regla oficial:** *"Composición / Relación: Resaltar Tabla (Highlight Table)"*. Presenta una matriz visual limpia con porcentajes exactos impresos en cada celda sin solapamiento ni adivinanzas. Mediante leyendas separadas, evidencia con intensidad semántica roja que el rubro Alimentos absorbe el 48.0% del Clúster 4. | **Vista Principal Dominante (Lienzo Central)** |
 | **Comparación / Ranking** | **Gráfico de barras horizontales ordenadas** | • Eje Y: `DEPARTAMENTO`<br>• Eje X: % de Hogares en `ID_SEGMENTO = 4`<br>• Orden: Descendente | **Regla oficial:** *"Ranking: Barras ordenadas"*. Reemplaza al mapa tradicional para garantizar una lectura limpia y comparativa de magnitudes territoriales en espacios compactos, evitando que departamentos geográficamente pequeños (ej. Ica, Callao, Tumbes) pierden visibilidad. | **Soporte A (Recuadro Inferior Izquierdo)** |
-| **Tendencia Temporal** | **Gráfico de líneas continuas** | • Eje X: `MES_NUM` (Meses cronológicos 1-12)<br>• Eje Y: Promedio de `BRECHA_PERCAPITA`<br>• Color: `ID_SEGMENTO` | **Regla oficial:** *"Tendencia vs Meta: Línea"*. Conecta observaciones agregadas longitudinales, revelando puntos de inflexión estacionales poblacionales y caídas abruptas de holgura operativa. | **Soporte B (Recuadro Inferior Derecho)** |
-| **Distribución** | **Diagrama de caja y bigotes (Boxplot)** | • Eje X: `DOMINIO` (Regiones naturales)<br>• Eje Y: `TASA_AHORRO`<br>• Detalle: `ID_HOGAR` | **Regla oficial:** *"Distribución: Dot plot o boxplot"*. Evalúa la mediana central, dispersión intercuartílica (IQR) y valores atípicos territoriales de la capacidad financiera familiar. | **Dashboard Alpha (Integrado en Tooltip visual sobre Soporte A / accesible en navegación de pestañas)** |
+| **Tendencia Temporal** | **Gráfico de líneas continuas** | • Eje X: `MES` (Enero a Diciembre)<br>• Eje Y: `% de Déficit Crítico` (`AGR`) | **Regla oficial:** *"Tendencia vs Meta: Línea"*. Conecta observaciones agregadas longitudinales, revelando puntos de inflexión estacionales donde la incidencia de quiebra familiar alcanza su pico crítico en el primer trimestre (abril con 27.6%) antes de moderarse hacia diciembre (22.0%). | **Soporte B (Recuadro Inferior Derecho)** |
+| **Distribución** | **Diagrama de caja y bigotes (Boxplot)** | • Eje X: `DOMINIO` (Regiones naturales)<br>• Eje Y: `TASA_AHORRO` (eje fijo -15% a +15%)<br>• Detalle: `ID_HOGAR` | **Regla oficial:** *"Distribución: Dot plot o boxplot"*. Evalúa la mediana central, dispersión intercuartílica (IQR) y valores atípicos territoriales de la capacidad financiera familiar mediante truncamiento visual de escala para maximizar la legibilidad. | **Dashboard Alpha (Integrado en Tooltip visual sobre Soporte A / accesible en navegación de pestañas)** |
 
 ### 2.2. Gráficos Descartados (Exclusivamente del sílabo oficial de 24 gráficos)
 
@@ -50,9 +50,9 @@ Para cumplir con el requisito de la rúbrica oficial (*"documento corto con 3 a 
 * **1 - FOCO (El problema operativo dominante):**  
   El **23.8% de los hogares peruanos (~2.4 millones de familias ponderadas)** opera en Déficit Crítico operativo permanente (`ID_SEGMENTO = 4`). Su canasta básica presenta asfixia calórica severa: destinan el **48.0% de su efectivo exclusivamente a comprar alimentos (`GRU11HD_PCT` en Vista Principal)**, operando con una brecha media de **-S/ 286 mensuales per cápita**.
 * **2 - DRIVER (Explicadores espaciales y temporales):**  
-  La trampa financiera se concentra territorialmente en el sur y norte rural, liderado por **Puno (38.3% en Déficit Crítico), Loreto (30.5%) y Cajamarca (26.2%)** en el Ranking del *Soporte A*, debido al desacople entre ingresos agropecuarios y costos fijos productivos. Asimismo, la serie longitudinal (*Soporte B*) revela una oscilación anual de 3.9 pp en la incidencia de déficit (peor mes en marzo con 25.8% vs mejor mes en diciembre con 21.9%) y una tensión financiera máxima en enero (-10.3% de brecha).
+  La trampa financiera se concentra territorialmente en el sur y norte rural, liderado por **Puno (37.3% en Déficit Crítico), Huancavelica (31.2%) y Loreto (30.6%)** en el Ranking del *Soporte A*, debido al desacople entre ingresos agropecuarios y costos fijos productivos. Asimismo, la serie longitudinal (*Soporte B*) revela una oscilación anual en la incidencia de quiebra familiar (peor pico en abril con 27.6% vs mes más holgado en diciembre con 22.0%).
 * **3 - ACCIÓN (Sugerencia de mitigación MIDIS):**  
-  Priorizar la focalización del **Programa de Complementación Alimentaria (PCA)** en las provincias críticas del Ranking (*Soporte A*), otorgando subsidios económicos e insumos directos a **comedores populares y ollas comunes** para garantizar raciones de alimentos calóricos a las familias del Clúster 4. Complementariamente, **reforzar la asistencia temporal a inicios de año** para amortiguar la tensión financiera del primer trimestre (*Soporte B*).
+  Priorizar la focalización del **Programa de Complementación Alimentaria (PCA)** en las provincias críticas del Ranking (*Soporte A*), otorgando subsidios económicos e insumos directos a **comedores populares y ollas comunes** para garantizar raciones de alimentos calóricos a las familias del Clúster 4. Complementariamente, **reforzar la asistencia temporal en el primer cuatrimestre del año** para amortiguar el pico de tensión financiera (*Soporte B*).
 
 ### 3.2. Insight 2 (Exploración de Composición en Workbook): El Gasto en Salud como Señal de Déficit Oculto
 * **1 - FOCO:** De forma contraintuitiva, los hogares en Déficit Crítico (`ID_SEGMENTO = 4`) gastan **más en salud en términos absolutos que los Ahorradores Sólidos (`ID_SEGMENTO = 1`)**: destinan **S/ 1,417 vs S/ 1,048 anuales**. En peso relativo, la salud absorbe el **7.1% de su canasta monetaria frente al 5.6%** de los sectores con superávit (`GRU81HD_PCT`).
@@ -81,18 +81,18 @@ El prototipo funcional en Tableau replica fielmente la jerarquía visual operati
 +------------------------+------------------------+------------------------+------------------------+
 |                                                  | PANEL DE INSIGHTS (Barra Lateral Derecha)       |
 |  VISTA PRINCIPAL DOMINANTE                       | Donde priorizar capacidad presupuestaria MIDIS  |
-|  Gráfico de Barras Apiladas 100%                 |                                                 |
-|  • Eje X: Clústeres Financieros (Segmentos 1 al 4) | 1 - FOCO: Déficit alimentario severo            |
-|  • Eje Y: % de participación por rubro (1 al 8)  | El Clúster 4 destina 48.0% a comer; nulo margen |
+|  Resaltar Tabla (Highlight Table / Cuadrícula)   |                                                 |
+|  • Columnas: Clústeres (Segmentos 1 al 4)        | 1 - FOCO: Déficit alimentario severo            |
+|  • Filas: Rubros de gasto porcentual (1 al 8)    | El Clúster 4 destina 48.0% a comer; nulo margen |
 |                                                  | ante shocks de precios agrícolas.               |
-|  Dominancia visual: Resalta en verde el enorme   |                                                 |
-|  bloque alimentario del Clúster 4.               | 2 - DRIVER: Sur y Norte rural                   |
-|                                                  | Puno supera el 38% y Loreto el 30% de déficit   |
-+-------------------------+------------------------+ por desacople de ingresos agropecuarios.        |
-|  SOPORTE A (Driver)     | SOPORTE B (Excepción)  |                                                 |
-|  Ranking Departamentos  | Tendencia Estacional   | 3 - ACCION: Subsidios e insumos directos PCA    |
-|  Barras Horizontales    | Líneas Continuas       | Focalizar Programa de Complementación Aliment.  |
-|  (+ Tooltip visual:     | Serie mensual (MES 1-12) | (PCA) en comedores populares y ollas comunes.   |
+|  Dominancia visual: Celda en rojo intenso marca  |                                                 |
+|  el 48.0% exacto en Alimentos para Clúster 4.    | Puno lidera con 37.3% y Huancavelica con 31.2%  |
+|                                                  | por desacople de ingresos agropecuarios.        |
++-------------------------+------------------------+                                                 |
+|  SOPORTE A (Driver)     | SOPORTE B (Excepción)  | 3 - ACCION: Subsidios e insumos directos PCA    |
+|  Ranking Departamentos  | Tendencia Estacional   | Focalizar Programa de Complementación Aliment.  |
+|  Barras Horizontales    | Líneas Continuas       | (PCA) en comedores populares y ollas comunes.   |
+|  (+ Tooltip visual:     | Serie mensual (MES 1-12) | Amortiguar pico crítico del mes 4 (27.6%).      |
 |   Boxplot Distribución) |                        |                                                 |
 +-------------------------+------------------------+-------------------------------------------------+
 |  FOOTER: Fuente: INEI (ENAHO 2024 Sumaria) | Expansión poblacional automática mediante FACTOR07   |
