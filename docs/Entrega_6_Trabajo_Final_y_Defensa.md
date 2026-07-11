@@ -58,9 +58,8 @@ Para evaluar la calidad de las proyecciones en 2D respecto a la separación exte
 > Aporta evidencia topológica robusta de que **la estructura porcentual de la canasta de consumo (`GRU{i}HD_PCT`) NO discrimina por sí sola la vulnerabilidad financiera familiar**. Un hogar en Déficit Crítico no colapsa por hábitos distorsionados, compras suntuarias o despilfarro en bienes no esenciales (su distribución de compra se solapa de manera homogénea con el estándar nacional). Colapsa porque su **margen monetario Ingreso-Gasto (`BRECHA_PERCAPITA`, `TASA_AHORRO`) es matemáticamente insuficiente** frente al costo absoluto de la canasta de subsistencia. En consecuencia, el Estado no debe intervenir "educando cómo gastar", sino **aliviando la brecha de ingresos mediante transferencias directas y vales alimentarios**.
 
 ### 2.5. Nota Técnica sobre Integridad Demográfica y Casos Atípicos (Los 18 Hogares)
-En el proceso de auditoría de la base limpia de `33,691` hogares (`fact_hogares.csv`), se identificó que exactamente **18 hogares (0.05% del total nacional empadronado por el INEI)** presentan sumas de porcentajes de gasto (`GRU_PCT`) que difieren ligeramente del 100% o registran gasto monetario bruto cero (`GASHOG2D == 0`) en la base Sumaria original.  
-* **Tratamiento Metodológico:** En lugar de eliminar estas 18 observaciones, se mantuvieron intactas en la tabla de hechos relacional asignando su mapeo poblacional e `ID_POBREZA` correspondiente. Esta decisión técnica garantiza la **integridad referencial 1:1** con los padrones oficiales del MIDIS y evita alterar la suma del Factor de Expansión Anual (`FACTOR07`), preservando la representatividad nacional exacta del país sin introducir sesgos de selección.
-
+Se identificaron exactamente **18 hogares (0.05% de la muestra)** con gasto total anual positivo pero sin desglose registrado en los ocho rubros de consumo (`GRUxxHD = 0`, `GRUxxHD_PCT = 0`).
+* **Tratamiento Metodológico:** Se conservaron en la tabla principal `fact_hogares.csv` para mantener la cobertura de la muestra e integridad referencial, pero deben marcarse con el flag `PCA_VALIDO = 0` como casos sin composición válida para la proyección PCA.
 ---
 
 ## 3. Estructura de la Historia Visual (Storytelling de Defensa Rápida en 5 Actos - Guion de 5 Minutos)
@@ -93,11 +92,11 @@ Para que el jurado vea una conexión perfecta entre la pregunta de investigació
 
 | Elemento del Dashboard | Cláusula de la Pregunta que Responde | Explicación Analítica de la Respuesta (Diseño Intuitivo Anti-Confusión) |
 | :--- | :--- | :--- |
-| **Tarjetas Superiores (4 KPIs)<br>*(Diseño intuitivo de comprensión en 2 segundos)*** | *"¿Qué perfiles concentran las mayores brechas y de qué magnitud es el problema?"* | **Etiquetadas en español claro para que cualquier persona entienda el perfil y su déficit al primer vistazo sin jerga técnica:**<br>1. `24.5% Hogares en Déficit Crítico` (`~2.47M familias ponderadas a nivel nacional \| 23.8% muestral`).<br>2. `-S/ 312 Brecha Monetaria Mensual` (`Déficit medio por persona en hogares críticos \| Ponderado`).<br>3. `-85.1% Tasa de Desahorro Media` (`Desahorro medio real ponderado del clúster vs. Umbral de corte < -15%`).<br>4. `48.0% Gasto en Alimentos` (`Rigidez alimentaria inelástica vs. 47.5% en Ahorrador Sólido`). |
+| **Tarjetas Superiores (4 KPIs)<br>*(Diseño intuitivo de comprensión en 2 segundos)*** | *"¿Qué perfiles concentran las mayores brechas y de qué magnitud es el problema?"* | **Etiquetadas en español claro para que cualquier persona entienda el perfil y su déficit al primer vistazo sin jerga técnica:**<br>1. `24.5% Hogares en Déficit Crítico` (`2.54M familias ponderadas a nivel nacional \| 23.8% muestral`).<br>2. `-S/ 312 Brecha Monetaria Mensual` (`Déficit medio por persona en hogares críticos \| Ponderado`).<br>3. `-53.7% Tasa Agregada de Desahorro (`Promedio ponderado individual: -85.1% | Mediana: -44.5% | Sensible a extremos`)Desahorro medio real ponderado del clúster vs. Umbral de corte < -15%`).<br>4. `48.0% Gasto en Alimentos` (`Rigidez alimentaria inelástica vs. 47.5% en Ahorrador Sólido`). |
 | **Vista Principal Dominante<br>(Barras Apiladas 100% de Canasta)** | *"¿Por qué este perfil concentra las mayores brechas entre ingreso y gasto?"* | Evidencia que la propensión media al gasto en bienes de subsistencia es rígida en casi todo el país: el Clúster 4 destina el **48.0% de su gasto a Alimentos** (vs. 47.5% del Clúster 1) y **7.1% a Salud**. Sin embargo, mientras el Ahorrador Sólido absorbe ese 47.5% con holgura líquida (`+37.7% ahorro`), el Clúster 4 lo enfrenta con una brecha en rojo (`-S/ 312 per cápita`), quebrando operativamente. |
 | **Componente PCA<br>(Biplot 2D y Loadings)** | *"¿Se trata de un problema estructural de ingresos o de hábitos de compra superfluos?"* | Al mostrar un solapamiento topológico con silueta casi cero (`-0.0214` en PCA / `-0.0183` en t-SNE), **exime metodológicamente al hogar de culpa**. Aporta evidencia geométrica de que el hogar en Déficit Crítico tiene una estructura de compra homogénea con el resto del país; colapsa pura y exclusivamente por un **margen monetario insuficiente (`TASA_AHORRO`)**, justificando transferencias de alivio. |
-| **Soporte A<br>(Ranking Departamental)** | *"¿Cómo se distribuyen estos perfiles según el dominio geográfico y el estrato?"* | Muestra la severa fractura territorial del país: el déficit se concentra en el estrato **Rural de la Sierra Norte, Centro y Selva**, liderado por **Cajamarca (38.4%), Puno (37.3%) y Loreto (36.2%)**, mientras la Costa Urbana (Ica 11.2%, Moquegua 9.8%) muestra resiliencia y excedentes. |
-| **Soporte B<br>(Líneas de Evolución Temporal)** | *"¿Cómo interactúa la brecha con el calendario y características demográficas familiares?"* | Revela que las familias con hijos en edad escolar sufren un **shock dual en el Primer Cuatrimestre del año**, alcanzando el **pico máximo de quiebra en Abril (-S/ 345 per cápita)** debido al acople de la estacionalidad agrícola (lluvias/menor jornal) con el gasto inelástico de la Campaña Escolar. |
+| **Soporte A<br>(Ranking Departamental)** | *"¿Cómo se distribuyen estos perfiles según el dominio geográfico y el estrato?"* | Muestra la severa fractura territorial del país: el déficit se concentra en el estrato **Rural de la Sierra Norte, Centro y Selva**, liderado por **Puno (37.4%), Huancavelica (31.2%) y Loreto (30.7%)**, mientras la Costa Urbana (Ica 9.0%, Moquegua 9.8%) muestra resiliencia y excedentes. |
+| **Soporte B<br>(Líneas de Evolución Temporal)** | *"¿Cómo interactúa la brecha con el calendario y características demográficas familiares?"* | Evidencia la variación según el **mes de entrevista**: abril registra la mayor incidencia de hogares clasificados en déficit crítico (`27.6%`), mientras que febrero presenta la mayor severidad de la brecha monetaria media (`-S/ 342` per cápita, seguido de julio `-S/ 327` y enero `-S/ 323`). |
 
 ---
 
@@ -112,7 +111,7 @@ Para que el jurado vea una conexión perfecta entre la pregunta de investigació
    │  Proyección PC1 vs PC2 ➔ Insight: Silueta (-0.0214) prueba que el déficit es por falta de ingresos, no por despilfarro
    ▼
 [ACTO IV (Min 3:00 - 4:00): Distribución Geográfica y Temporal (Soportes A y B)]
-   │  • Soporte A (Ranking): Cajamarca (38.4%) y Loreto (36.2%) lideran la brecha en Sierra Norte y Selva rural
+   │  • Soporte A (Ranking): Puno (37.4%) y Loreto (36.2%) lideran la brecha en Sierra Norte y Selva rural
    │  • Soporte B (Evolución): Pico de quiebra en Abril (-S/ 345) por el shock inflacionario escolar y agrario
    ▼
 [ACTO V (Min 4:00 - 5:00): Cierre Institucional y Recomendaciones al MIDIS]
@@ -126,7 +125,7 @@ Para que el jurado vea una conexión perfecta entre la pregunta de investigació
 #### 🕒 Minuto 0:00 a 1:00 — ACTO I: El Contexto y la Magnitud de la Brecha (Los 4 KPIs Intuitivos)
 * **Guion Textual (Expositor):**  
   *"Buenos días, jurado evaluador. Nuestro proyecto responde a la pregunta central de qué perfiles de hogares concentran las mayores brechas entre ingreso y gasto en el Perú durante 2024 y cómo se distribuyen en el territorio. Para responder a la primera parte: ¿quiénes son y de qué tamaño es el problema?, veamos nuestras **4 Tarjetas KPI superiores**, redactadas de forma intuitiva y ponderada paramétricamente:  
-  1. Primero, el **24.5% de los hogares peruanos a nivel nacional ponderado (~2.47 millones de familias sobre la base muestral de 23.8%)** se clasifica en **Déficit Crítico**.  
+  1. Primero, el **24.5% de los hogares peruanos a nivel nacional ponderado (~2.54 millones de familias sobre la base muestral de 23.8%)** se clasifica en **Déficit Crítico**.  
   2. Segundo, **dentro de estos hogares críticos**, la **Brecha Monetaria Mensual asciende a -S/ 312 por persona** (es el faltante operativo de estas familias).  
   3. Tercero, sufren una **Tasa media real de Desahorro del -85.1%** (habiendo superado el umbral de corte del -15%), en total oposición al superávit medio nacional (+11.2%).  
   4. Y cuarto, se ven obligados a destinar el **48.0% de su gasto exclusivamente a Alimentos**, operando al límite de la rigidez de subsistencia."*
@@ -146,7 +145,7 @@ Para que el jurado vea una conexión perfecta entre la pregunta de investigació
 * **Guion Textual (Expositor):**  
   *"Para responder si este déficit es culpa de 'malos hábitos de compra' o de falta de ingresos, implementamos nuestro **Análisis de Componentes Principales (PCA)** proyectando las 8 dimensiones de gasto en un biplot 2D con vectores de carga. Aquí presentamos el segundo insight metodológico:*
   * 📌 **QUÉ:** El solapamiento de las nubes de puntos arroja un **Silhouette Score cercano a cero (-0.0214)**, mientras el vector de Alimentos (`+0.664`) tira con fuerza hacia el extremo del Eje PC1.
-  * 📌 **POR QUÉ:** Este solapamiento topológico es nuestro hallazgo analítico más fuerte: **exime metodológicamente al hogar de culpa por despilfarro**. Aporta evidencia geométrica robusta de que un hogar vulnerable no quiebra por consumir lujos, sino porque su estructura de gasto es indistinguible del estándar nacional, pero **su margen monetario de ingreso (`TASA_AHORRO`) es matemáticamente insuficiente** para cubrir el costo absoluto de la canasta básica.
+  * 📌 **POR QUÉ:** Este solapamiento topológico es nuestro hallazgo analítico más fuerte: **sugiere que la composición porcentual del gasto no basta para distinguir o culpabilizar al hogar**. El solapamiento observado sugiere que la estructura porcentual de consumo no discrimina los segmentos financieros. En el alcance de este análisis, el balance neto entre ingreso y gasto (`BRECHA_PERCAPITA`, `TASA_AHORRO`) aparece como el diferenciador directo del déficit operativo.
   * 📌 **ACCIÓN:** Descartamos iniciativas públicas de 'talleres de presupuesto o reeducación financiera' e impulsamos transferencias monetarias directas (Programa Juntos) orientadas a cerrar la brecha operativa de `-S/ 312` per cápita."*
 
 ---
@@ -154,16 +153,15 @@ Para que el jurado vea una conexión perfecta entre la pregunta de investigació
 #### 🕒 Minuto 3:00 a 4:00 — ACTO IV: Distribución Territorial y Estacional (Soportes A y B)
 * **Guion Textual (Expositor):**  
   *"En los paneles inferiores respondemos la segunda mitad de la pregunta: **cómo se distribuyen estos perfiles según el dominio geográfico, estrato y estacionalidad**:*
-  * 📌 **QUÉ:** En el **Ranking Departamental (Soporte A)**, la brecha golpea con extrema severidad a la **Sierra Norte, Centro y Selva rural: Cajamarca (38.4%), Puno (37.3%) y Loreto (36.2%)** concentran la mayor tasa de déficit, en contraste con la Costa urbana (Ica 11.2%, Moquegua 9.8%). Paralelamente, en la **Evolución Temporal (Soporte B)**, vemos que la brecha sufre un shock en el primer cuatrimestre, alcanzando su **pico de quiebra en Abril (-S/ 345 per cápita)**.
-  * 📌 **POR QUÉ:** La concentración en Cajamarca y Loreto responde al aislamiento logístico de la pequeña agricultura de autoconsumo rural. El shock de abril ocurre por el **doble golpe de la menor época de jornal rural sumado al gasto inelástico de la Campaña Escolar de marzo** (característica demográfica de hogares con niños escolares `MIEPERHO`), que liquida las reservas familiares.
-  * 📌 **ACCIÓN:** Proponemos al Estado un **'Bono de Contención Estacional Escolar y Agrario'** desembolsado puntualmente entre **febrero y marzo** en los distritos rurales de Cajamarca, Puno y Loreto para evitar el colapso de abril."*
+  * 📌 **QUÉ:** En el **Ranking Departamental (Soporte A)**, la brecha golpea con extrema severidad a la **Sierra Norte, Centro y Selva rural: Puno (37.4%), Huancavelica (31.2%) y Loreto (30.7%)** concentran la mayor tasa de déficit, en contraste con la Costa urbana (Ica 9.0%, Moquegua 9.8%). Paralelamente, en la **Evolución Temporal (Soporte B)**, vemos que la brecha sufre un shock en el primer cuatrimestre, alcanzando su **pico de incidencia en abril (27.6%) y de severidad de brecha en febrero (-S/ 342)**.
+  * 📌 **POR QUÉ:** La concentración en Puno y Loreto sugiere vulnerabilidad rural logística. Asimismo, el pico de severidad de febrero (-S/ 342) e incidencia de abril plantean la hipótesis de tensiones de liquidez por la estacionalidad agrícola o escolar, planteando como sugerencia de política un **Bono de Contención Estacional**."*
 
 ---
 
 #### 🕒 Minuto 4:00 a 5:00 — ACTO V: Cierre Institucional, Paradoja de Focalización y Q&A
 * **Guion Textual (Expositor):**  
-  *"Para cerrar nuestra exposición en el minuto final, revelamos una **paradoja crítica de focalización pública**: el **81.7% de los hogares que hemos identificado en Déficit Crítico operativo (Clúster 4) son clasificados como 'No Pobres' por la medición monetaria tradicional del INEI**.  
-  Al medirse solo por ingresos brutos sin restar el costo inelástico de salud y alimentos, más de 6,500 familias de nuestra encuesta (1.9 millones de hogares a nivel nacional) son **excluidas de los padrones sociales del Estado**, pese a operar con una tasa media real de desahorro de `-85.1%` (habiendo superado el umbral del `-15.0%`).  
+  *"Para cerrar nuestra exposición en el minuto final, revelamos una **paradoja crítica de focalización pública**: el **81.4% de los hogares ponderados (81.7% muestral) que hemos identificado en Déficit Crítico operativo (Clúster 4) son clasificados como 'No Pobres' por la medición monetaria tradicional del INEI**.  
+  Al medirse solo por ingresos brutos sin restar el costo inelástico de salud y alimentos, más de 6,500 familias de nuestra encuesta (2.07 millones de hogares expandidos a nivel nacional) aparecen como no pobres según la clasificación monetaria disponible. Esto sugiere que el indicador tradicional de pobreza y el déficit operativo (`BRECHA_PERCAPITA`, `TASA_AHORRO`) capturan dimensiones distintas de vulnerabilidad.  
   Por ello, recomendamos al MIDIS modernizar el algoritmo del **SISFOH**, incorporando como criterio de elegibilidad la `TASA_AHORRO` y la `BRECHA_PERCAPITA` que hoy hemos comprobado.  
   Nuestro pipeline en Python y el modelo en Esquema Estrella quedan 100% auditados y reproducibles a su disposición. Muchas gracias."*
 
@@ -191,7 +189,7 @@ Este guion operativo está diseñado para que cualquier miembro del equipo respo
 
 ### ❓ Pregunta 4: ¿De dónde salen exactamente los KPIs superiores (ej. 24.5% en Déficit Crítico) y cómo ponderan la representatividad nacional de la muestra?
 > **Respuesta Directa y con Autoridad:**  
-> *"Los KPIs se derivan directamente del procesamiento del archivo `fact_hogares.csv` (y su proyección `fact_hogares_pca.csv`), los cuales incorporan el **Factor de Expansión Anual del INEI (`FACTOR07`)**. El porcentaje de 24.5% se calcula dividiendo la suma de los factores de expansión (`FACTOR07`) de los hogares clasificados en `ID_SEGMENTO = 4` entre la suma total de hogares del país (aproximadamente 10.1 millones de hogares expandidos sobre la muestra limpia de 33,691 encuestas; a nivel muestral sin ponderar representa el 23.8%). Cada métrica en Tableau utiliza promedios ponderados y sumas expandidas para asegurar que el dashboard refleje la realidad demográfica nacional al 100%."*
+> *"Los KPIs se derivan directamente del procesamiento del archivo `fact_hogares.csv` (y su proyección `fact_hogares_pca.csv`), los cuales incorporan el **Factor de Expansión Anual del INEI (`FACTOR07`)**. El porcentaje de 24.5% se calcula dividiendo la suma de los factores de expansión (`FACTOR07`) de los hogares clasificados en `ID_SEGMENTO = 4` entre la suma total de hogares del país (aproximadamente 10.36 millones de hogares expandidos sobre la muestra limpia de 33,691 encuestas; a nivel muestral sin ponderar representa el 23.8%). Cada métrica en Tableau utiliza promedios ponderados y sumas expandidas para asegurar que el dashboard refleje la realidad demográfica nacional al 100%."*
 
 ### ❓ Pregunta 5: ¿Por qué en los títulos de sus Tarjetas KPI usan nombres como "Brecha Monetaria Mensual" o "Tasa de Desahorro" con subtítulos que dicen "en hogares críticos" en lugar de poner "Clúster 4" en todo o "Media Poblacional"?
 > **Respuesta Directa y con Autoridad:**  
@@ -214,9 +212,9 @@ Este guion operativo está diseñado para que cualquier miembro del equipo respo
 
 | Archivo / Notebook | Ruta del Sistema | Rol en el Ecosistema del Proyecto | Estado de Verificación |
 | :--- | :--- | :--- | :---: |
-| **Limpieza y UBIGEO** | `notebooks/01_limpieza.ipynb` | Tratamiento de nulos, estandarización de 6 dígitos en UBIGEO y tipificado de identificadores. | ✅ Verificado |
-| **Outliers y Gasto** | `notebooks/02_tratamiento_outliers.ipynb` | Truncamiento de colas extremas en ingresos/gastos (`INGRESO_PERCAPITA`, `GASTO_PERCAPITA`). | ✅ Verificado |
-| **Ingeniería Características** | `notebooks/03_ingenieria_caracteristicas.ipynb` | Creación de métricas derivadas (`TASA_AHORRO`, `BRECHA_PERCAPITA`, `ID_SEGMENTO` 1 al 4). | ✅ Verificado |
+| **Limpieza y UBIGEO** | `notebooks/01_perfilado_y_limpieza.ipynb` | Tratamiento de nulos, estandarización de 6 dígitos en UBIGEO y tipificado de identificadores. | ✅ Verificado |
+| **Outliers y Gasto** | `notebooks/02_modelado_de_datos.ipynb` | Truncamiento de colas extremas en ingresos/gastos (`INGRESO_PERCAPITA`, `GASTO_PERCAPITA`). | ✅ Verificado |
+| **Ingeniería Características** | `notebooks/03_calculos_analiticos.ipynb` | Creación de métricas derivadas (`TASA_AHORRO`, `BRECHA_PERCAPITA`, `ID_SEGMENTO` 1 al 4). | ✅ Verificado |
 | **Componente PCA/t-SNE** | `notebooks/04_componente_avanzado_pca_tsne.ipynb` | Reducción dimensional, cálculo de *loadings*, silueta y exportación de coordenadas 2D. | ✅ Verificado (QA Dual) |
 | **Base Analítica PCA** | `Data/modelo/esquema_estrella/fact_hogares_pca.csv` | Tabla de hechos enriquecida con coordenadas `PC1` y `PC2` para consumo directo en Tableau. | ✅ Verificado (33,691 filas) |
 | **Satélite Cargas PCA** | `Data/modelo/esquema_estrella/pca_loadings.csv` | Vector de cargas (`loadings`) de los 8 rubros en `PC1` y `PC2` para visualización geométrica biplot en Tableau. | ✅ Verificado (8 rubros) |
