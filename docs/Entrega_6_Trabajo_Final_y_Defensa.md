@@ -78,9 +78,9 @@ La secuencia expositiva del **Dashboard Alpha** (Lienzo 1280x720) está calibrad
 Acatando la corrección textual del profesor en evaluaciones previas (*"Si estás aplicando un filtro o enfocando métricas solamente con el segmento en déficit, hazlo explícito ahí en la barra donde dice filtros"*), el banner azul oscuro de la cabecera del **Dashboard Alpha** no utiliza texto genérico, sino una declaración directiva de alcance y filtrado:
 
 * 🏷️ **Título Principal del Tablero:**  
-  `¿Dónde se concentra la trampa de Déficit Crítico familiar y cuál es su asfixia alimentaria?`
+  `¿Qué perfiles concentran las mayores brechas entre ingreso y gasto en 2024 y cómo se distribuyen geográficamente?`
 * 🏷️ **Subtítulo y Barra de Filtros Explícitos:**  
-  **`Periodo: 2024 (Enero - Diciembre) | Foco Analítico de KPIs: Hogares en Déficit Crítico (24.5% Ponderado Nacional) | Filtros Interactivos: [Dominio Geográfico] [Estrato] [Trimestre/Mes]`**
+  **`Periodo: 2024 (Enero - Diciembre) | Foco Analítico de KPIs: Hogares en Déficit Crítico (ID_SEGMENTO = 4, 24.5% Ponderado Nacional)`**
 
 > [!IMPORTANT]
 > **Por qué este banner evita el error de la Entrega 5:**  
@@ -95,26 +95,28 @@ Para que el jurado vea una conexión perfecta entre la pregunta de investigació
 | Elemento del Dashboard | Cláusula de la Pregunta que Responde | Explicación Analítica de la Respuesta (Diseño Intuitivo Anti-Confusión) |
 | :--- | :--- | :--- |
 | **Tarjetas Superiores (4 KPIs)<br>*(Diseño intuitivo de comprensión en 2 segundos)*** | *"¿Qué perfiles concentran las mayores brechas y de qué magnitud es el problema?"* | **Etiquetadas en español claro para que cualquier persona entienda el perfil y su déficit al primer vistazo sin jerga técnica:**<br>1. `24.5% Hogares en Déficit Crítico` (`2.54M familias ponderadas a nivel nacional \| 23.8% muestral`).<br>2. `-S/ 312 Brecha Monetaria Mensual` (`Déficit medio por persona en hogares críticos \| Ponderado`).<br>3. `-53.7% Tasa Agregada de Desahorro (`Promedio ponderado individual: -85.1% | Mediana: -44.5% | Sensible a extremos`)Desahorro medio real ponderado del clúster vs. Umbral de corte < -15%`).<br>4. `48.0% Gasto en Alimentos` (`Rigidez alimentaria inelástica vs. 47.5% en Ahorrador Sólido`). |
-| **Vista Principal Dominante<br>(Barras Apiladas 100% de Canasta)** | *"¿Por qué este perfil concentra las mayores brechas entre ingreso y gasto?"* | Evidencia que la propensión media al gasto en bienes de subsistencia es rígida en casi todo el país: el Clúster 4 destina el **48.0% de su gasto a Alimentos** (vs. 47.5% del Clúster 1) y **7.1% a Salud**. Sin embargo, mientras el Ahorrador Sólido absorbe ese 47.5% con holgura líquida (`+37.7% ahorro`), el Clúster 4 lo enfrenta con una brecha en rojo (`-S/ 312 per cápita`), quebrando operativamente. |
-| **Componente PCA<br>(Biplot 2D y Loadings)** | *"¿Se trata de un problema estructural de ingresos o de hábitos de compra superfluos?"* | Al mostrar un solapamiento topológico con silueta casi cero (`-0.0214` en PCA / `-0.0183` en t-SNE), **exime metodológicamente al hogar de culpa**. Aporta evidencia geométrica de que el hogar en Déficit Crítico tiene una estructura de compra homogénea con el resto del país; colapsa pura y exclusivamente por un **margen monetario insuficiente (`TASA_AHORRO`)**, justificando transferencias de alivio. |
-| **Soporte A<br>(Ranking Departamental)** | *"¿Cómo se distribuyen estos perfiles según el dominio geográfico y el estrato?"* | Muestra la severa fractura territorial del país: el déficit se concentra en el estrato **Rural de la Sierra Norte, Centro y Selva**, liderado por **Puno (37.4%), Huancavelica (31.2%) y Loreto (30.7%)**, mientras Ica (9.0%) muestra resiliencia y excedente. **Moquegua (21.15%)** no forma parte de ese grupo de resiliencia: su incidencia está más cerca del promedio nacional (24.5%) que del caso de Ica. |
-| **Soporte B<br>(Líneas de Evolución Temporal)** | *"¿Cómo interactúa la brecha con el calendario y características demográficas familiares?"* | Evidencia la variación según el **mes de entrevista**: abril registra la mayor incidencia de hogares clasificados en déficit crítico (`27.6%`), mientras que febrero presenta la mayor severidad de la brecha monetaria media (`-S/ 342` per cápita, seguido de julio `-S/ 327` y enero `-S/ 323`). |
+| **Vista Principal Dominante<br>(Tabla de Texto Resaltada / Highlight Table)** | *"¿Por qué este perfil concentra las mayores brechas entre ingreso y gasto?"* | Evidencia que la propensión media al gasto en bienes de subsistencia es rígida en casi todo el país: el Clúster 4 destina el **48.0% de su gasto a Alimentos** (vs. 47.5% del Clúster 1) y **7.1% a Salud**. Sin embargo, mientras el Ahorrador Sólido absorbe ese 47.5% con holgura líquida (`+37.7% ahorro`), el Clúster 4 lo enfrenta con una brecha en rojo (`-S/ 312 per cápita`), quebrando operativamente. |
+| **Componente PCA<br>(Diagrama de Dispersión / Scatter Plot: PC1 vs PC2)** | *"¿Se trata de un problema estructural de ingresos o de hábitos de compra superfluos?"* | Al mostrar un solapamiento topológico con silueta casi cero (`-0.0214` en PCA / `-0.0183` en t-SNE), **exime metodológicamente al hogar de culpa**. Aporta evidencia geométrica de que el hogar en Déficit Crítico tiene una estructura de compra homogénea con el resto del país; colapsa pura y exclusivamente por un **margen monetario insuficiente (`TASA_AHORRO`)**, justificando transferencias de alivio. |
+| **Soporte A<br>(Barras Horizontales Ordenadas / Sorted Bar Chart)** | *"¿Cómo se distribuyen estos perfiles según el dominio geográfico y el estrato?"* | Muestra la severa fractura territorial del país: el déficit se concentra en el estrato **Rural de la Sierra Norte, Centro y Selva**, liderado por **Puno (37.3%), Huancavelica (31.2%) y Loreto (30.6%)**, mientras Ica (9.0%) muestra resiliencia y excedente. **Moquegua (21.2%)** no forma parte de ese grupo de resiliencia: su incidencia está más cerca del promedio nacional (24.5%) que del caso de Ica. |
+| **Soporte B<br>(Gráfico de Líneas / Line Chart de Evolución Temporal)** | *"¿Cómo interactúa la brecha con el calendario y características demográficas familiares?"* | Evidencia la variación según el **mes de entrevista**: abril registra la mayor incidencia de hogares clasificados en déficit crítico (`27.6%`), mientras que febrero presenta la mayor severidad de la brecha monetaria media (`-S/ 342` per cápita, seguido de julio `-S/ 327` y enero `-S/ 323`). |
+| **Soporte Q&A<br>(Diagrama de Dispersión Agregado / Scatter Plot: Ingreso vs. Gasto)** | *"¿Existe coherencia entre el ingreso neto absoluto y el nivel de gasto operativo en los 4 clústeres?"* | Evidencia con 4 marcas agregadas (círculos ponderados por `ID_SEGMENTO`) la posición de cada estrato en el plano monetario absoluto (`Prom. Ingreso Neto Total` vs `Prom. Gasto Total Bruto`). Permite al expositor demostrar en la ronda de preguntas que la brecha no es un artificio estadístico ni de porcentajes, sino una pérdida monetaria tangible (`-S/ 312 per cápita`), separando limpiamente al Clúster 4 (arriba a la izquierda) del Ahorrador Sólido (abajo a la derecha). |
 
 ---
 
 ```
 [ACTO I (Min 0:00 - 1:00): El Contexto y la Magnitud (Los 4 KPIs Intuitivos - Comprensión en 2 Segundos)]
-   │  1. 24.5% Déficit Crítico | 2. -S/ 312 Brecha Mensual | 3. -85.1% Desahorro Medio | 4. 48.0% Gasto en Alimentos
+   │  1. 24.5% Déficit Crítico | 2. -S/ 312 Brecha Mensual | 3. -53.7% Desahorro Agregado | 4. 48.0% Gasto en Alimentos
    ▼
 [ACTO II (Min 1:00 - 2:00): La Asfixia de la Canasta (Vista Principal Dominante)]
-   │  Gráfico 100% Stacked Bar ➔ Insight: Clúster 4 gasta 48.0% en Alimentos (Inelasticidad calórica vs 34.2% Ahorrador)
+   │  Tabla de Texto Resaltada (Highlight Table) ➔ Insight: Clúster 4 gasta 48.0% en Alimentos (Inelasticidad calórica vs 46.6% Ahorrador Sólido)
    ▼
-[ACTO III (Min 2:00 - 3:00): La Prueba Geométrica (PCA Biplot y Loadings)]
-   │  Proyección PC1 vs PC2 ➔ Insight: Silueta (-0.0214) prueba que el déficit es por falta de ingresos, no por despilfarro
+[ACTO III (Min 2:00 - 3:00): La Prueba Geométrica (Diagrama de Dispersión PCA)]
+   │  Scatter Plot PC1 vs PC2 ➔ Insight: Silueta (-0.0214) prueba que el déficit es por falta de ingresos, no por despilfarro
    ▼
 [ACTO IV (Min 3:00 - 4:00): Distribución Geográfica y Temporal (Soportes A y B)]
-   │  • Soporte A (Ranking): Puno (37.4%) y Loreto (36.2%) lideran la brecha en Sierra Norte y Selva rural
-   │  • Soporte B (Evolución): Pico de quiebra en Abril (-S/ 345) por el shock inflacionario escolar y agrario
+   │  • Soporte A (Barras Horizontales Ordenadas): Puno (37.3%) y Huancavelica (31.2%) lideran en Sierra y Selva rural
+   │  • Soporte B (Gráfico de Líneas): Pico de incidencia en Abril (27.6%) por el shock inflacionario escolar y agrario
+   │  • Soporte Q&A (Scatter Plot Agregado): 4 marcas de Ingreso vs. Gasto (Hoja 9) para ronda de preguntas del jurado
    ▼
 [ACTO V (Min 4:00 - 5:00): Cierre Institucional y Recomendaciones al MIDIS]
    │  Asignación de S/ 450M en vales Qali Warma y rediseño del SISFOH por Tasa de Ahorro
@@ -136,16 +138,16 @@ Para que el jurado vea una conexión perfecta entre la pregunta de investigació
 
 #### 🕒 Minuto 1:00 a 2:00 — ACTO II: La Asfixia de la Canasta Básica (Vista Dominante)
 * **Guion Textual (Expositor):**  
-  *"Para responder **por qué** este perfil concentra tanta brecha, pasemos al centro del lienzo: nuestra **Vista Principal Dominante (Barras Apiladas al 100%)**, donde comparamos al Clúster 1 (Ahorrador) contra el Clúster 4 (Déficit Crítico). Aquí extraemos nuestro primer insight analítico:*
+  *"Para responder **por qué** este perfil concentra tanta brecha, pasemos al centro del lienzo: nuestra **Vista Principal Dominante (Tabla de Texto Resaltada / Highlight Table)**, donde comparamos al Clúster 1 (Ahorrador) contra el Clúster 4 (Déficit Crítico). Aquí extraemos nuestro primer insight analítico:*
   * 📌 **QUÉ:** El Clúster 4 destina el **48.0% de su gasto total a Alimentos (`GRU11HD_PCT`)** y un **7.1% a Salud (`GRU51HD_PCT`)**, una proporción muy similar a la del estrato ahorrador (`47.5%` y `5.6%`).
   * 📌 **POR QUÉ:** Alimentos y salud son necesidades inelásticas absolutas. La diferencia crítica no es que el pobre coma más en porcentaje, sino que el Ahorrador Sólido absorbe ese 47.5% con una holgura líquida superavitaria (`+37.7% de ahorro`), mientras que el Clúster 4 enfrenta ese 48.0% con un ingreso deprimido, generando un déficit per cápita en rojo (`-S/ 312`) que asfixia cualquier otro gasto en educación o calidad de vida (`GRU71HD_PCT = 2.4%`).
   * 📌 **ACCIÓN:** Recomendamos al MIDIS no aplicar programas genéricos, sino focalizar un **Subsidio Directo de Cobertura Calórica y Sanitaria** para absorber parte del costo alimentario (`GRU11HD`) en el Clúster 4, liberando margen de liquidez familiar."*
 
 ---
 
-#### 🕒 Minuto 2:00 a 3:00 — ACTO III: La Prueba Geométrica (Componente PCA)
+#### 🕒 Minuto 2:00 a 3:00 — ACTO III: La Prueba Geométrica (Diagrama de Dispersión PCA)
 * **Guion Textual (Expositor):**  
-  *"Para responder si este déficit es culpa de 'malos hábitos de compra' o de falta de ingresos, implementamos nuestro **Análisis de Componentes Principales (PCA)** proyectando las 8 dimensiones de gasto en un biplot 2D con vectores de carga. Aquí presentamos el segundo insight metodológico:*
+  *"Para responder si este déficit es culpa de 'malos hábitos de compra' o de falta de ingresos, implementamos nuestro **Análisis de Componentes Principales (PCA)** proyectando las 8 dimensiones de gasto en un **Diagrama de Dispersión 2D (`Scatter Plot: PC1 vs PC2`)**. Aquí presentamos el segundo insight metodológico:*
   * 📌 **QUÉ:** El solapamiento de las nubes de puntos arroja un **Silhouette Score cercano a cero (-0.0214)**, mientras el vector de Alimentos (`+0.664`) tira con fuerza hacia el extremo del Eje PC1.
   * 📌 **POR QUÉ:** Este solapamiento topológico es nuestro hallazgo analítico más fuerte: **sugiere que la composición porcentual del gasto no basta para distinguir o culpabilizar al hogar**. El solapamiento observado sugiere que la estructura porcentual de consumo no discrimina los segmentos financieros. En el alcance de este análisis, el balance neto entre ingreso y gasto (`BRECHA_PERCAPITA`, `TASA_AHORRO`) aparece como el diferenciador directo del déficit operativo.
   * 📌 **ACCIÓN:** Descartamos iniciativas públicas de 'talleres de presupuesto o reeducación financiera' e impulsamos transferencias monetarias directas (Programa Juntos) orientadas a cerrar la brecha operativa de `-S/ 312` per cápita."*
