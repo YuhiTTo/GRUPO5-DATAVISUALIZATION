@@ -1,9 +1,9 @@
 Variable,Rubro_Nombre,PC1,PC2
-GRU11HD_PCT,Alimentos y bebidas,0.664332,-0.333854
-GRU21HD_PCT,Vestido y calzado,-0.352644,-0.354604
-GRU31HD_PCT,"Alquiler de vivienda, combustible y electricidad",0.130562,0.550432
-GRU41HD_PCT,"Muebles, enseres y mantenimiento de la vivienda",-0.243830,-0.429691
-GRU51HD_PCT,Cuidado y conservación de la salud,-0.153185,0.410727
-GRU61HD_PCT,Transporte y comunicaciones,-0.388372,0.179216
-GRU71HD_PCT,"Esparcimiento, diversión, servicios culturales y educación",-0.280554,0.103541
-GRU81HD_PCT,Otros bienes y servicios,-0.323721,-0.252293
+GRU11HD_PCT,Alimentos y bebidas,0.665335,-0.332517
+GRU21HD_PCT,Vestido y calzado,-0.351863,-0.355114
+GRU31HD_PCT,"Alquiler de vivienda, combustible y electricidad",0.129187,0.552424
+GRU41HD_PCT,"Muebles, enseres y mantenimiento de la vivienda",-0.243418,-0.429450
+GRU51HD_PCT,Cuidado y conservación de la salud,-0.153584,0.409468
+GRU61HD_PCT,Transporte y comunicaciones,-0.388396,0.179010
+GRU71HD_PCT,"Esparcimiento, diversión, servicios culturales y educación",-0.280320,0.102412
+GRU81HD_PCT,Otros bienes y servicios,-0.323360,-0.252053

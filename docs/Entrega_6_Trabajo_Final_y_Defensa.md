@@ -155,7 +155,7 @@ Para que el jurado vea una conexión perfecta entre la pregunta de investigació
 #### 🕒 Minuto 3:00 a 4:00 — ACTO IV: Distribución Territorial y Estacional (Soportes A y B)
 * **Guion Textual (Expositor):**  
   *"En los paneles inferiores respondemos la segunda mitad de la pregunta: **cómo se distribuyen estos perfiles según el dominio geográfico, estrato y estacionalidad**:*
-  * 📌 **QUÉ:** En el **Ranking Departamental (Soporte A)**, la brecha golpea con extrema severidad a la **Sierra Norte, Centro y Selva rural: Puno (37.4%), Huancavelica (31.2%) y Loreto (30.7%)** concentran la mayor tasa de déficit, en contraste con la Costa urbana (Ica 9.0%, Moquegua 9.8%). Paralelamente, en la **Evolución Temporal (Soporte B)**, vemos que la brecha sufre un shock en el primer cuatrimestre, alcanzando su **pico de incidencia en abril (27.6%) y de severidad de brecha en febrero (-S/ 342)**.
+  * 📌 **QUÉ:** En el **Ranking Departamental (Soporte A)**, la brecha golpea con extrema severidad a la **Sierra Norte, Centro y Selva rural: Puno (37.4%), Huancavelica (31.2%) y Loreto (30.7%)** concentran la mayor tasa de déficit, en contraste con **Ica (9.0%)**, que muestra resiliencia costera. Paralelamente, en la **Evolución Temporal (Soporte B)**, vemos que la brecha sufre un shock en el primer cuatrimestre, alcanzando su **pico de incidencia en abril (27.6%) y de severidad de brecha en febrero (-S/ 342)**.
   * 📌 **POR QUÉ:** La concentración en Puno y Loreto sugiere vulnerabilidad rural logística. Asimismo, el pico de severidad de febrero (-S/ 342) e incidencia de abril plantean la hipótesis de tensiones de liquidez por la estacionalidad agrícola o escolar, planteando como sugerencia de política un **Bono de Contención Estacional**."*
 
 ---
